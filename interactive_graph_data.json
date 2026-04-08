@@ -1,0 +1,2402 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "Physical Intelligence",
+      "type": "Competitor",
+      "description": "Foundational model company focused on general-purpose AI brains for hardware.",
+      "website": "https://pi.website",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 2,
+      "name": "Agility Robotics",
+      "type": "Competitor",
+      "description": "Creator of Digit, a bipedal robot designed for logistics and warehouse work, backed by Amazon.",
+      "website": "https://agilityrobotics.com",
+      "market_cap": "$1.2B (Private)",
+      "revenue": "Est. $10M+",
+      "employees": "200+",
+      "news": [
+        {
+          "date": "2026-04-06",
+          "headline": "Agility\u2019s Digit Humanoid Robot Learns to Dance - TechEBlog -",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43WldxWTlPVk1Ydm1yb1V0cXdGRWY0YlF3MFJ3WDN3WVkyVWdNNHFBVFd3eW1mNGdRLVZOTXFmV29mNXlnRXFUSXFrYjh4cVZPNHJtX0poajdBd2w5bDNvZXhjT21JUGI2Y21zX3hjNEgxZzFN?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Humanoid developer Agility Robotics rebrands - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3RnalY5SVpCMS1GVmNKZGNBbjhXVWxDX1FoaExsckNfQ1dFenVLeFM0UWpxUklhRWRsTVhUa3RCdm5OeUFDczR6V0RwVjJXYjFlbTlnR2JJeXVzcVBzWVRyb2RXcWRJUzBpS3BJaC11Y2wyOE1lM2x6NGNmVWRpcElR?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamZKYnhpZjhLVmJmcGkyemVyS21COHVmNkRFUl9OX0FQZVpFWEJ0bGlfQUExVEtVVjEzZlMzbFMyNXRwektEVExadFMyeENtNUdPYUhONUJkOVJ4ellQSWNjbkNfVHROQ2VXeUxMZUZpLVBKT2pDRHduVm9STWJRZVVjVGhjRXdTLWpPeHBIampCcksxT3RnVFBtOUlHV3pCeEhuNWpYaTBSMGNJM3RFcDdBZ2JDZ282UXNxa1oxWXlHUmtySkdR?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Agility\u2019s Digit Humanoid Robot Learns to Dance - TechEBlog -",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43WldxWTlPVk1Ydm1yb1V0cXdGRWY0YlF3MFJ3WDN3WVkyVWdNNHFBVFd3eW1mNGdRLVZOTXFmV29mNXlnRXFUSXFrYjh4cVZPNHJtX0poajdBd2w5bDNvZXhjT21JUGI2Y21zX3hjNEgxZzFN?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Humanoid developer Agility Robotics rebrands - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR3RnalY5SVpCMS1GVmNKZGNBbjhXVWxDX1FoaExsckNfQ1dFenVLeFM0UWpxUklhRWRsTVhUa3RCdm5OeUFDczR6V0RwVjJXYjFlbTlnR2JJeXVzcVBzWVRyb2RXcWRJUzBpS3BJaC11Y2wyOE1lM2x6NGNmVWRpcElR?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamZKYnhpZjhLVmJmcGkyemVyS21COHVmNkRFUl9OX0FQZVpFWEJ0bGlfQUExVEtVVjEzZlMzbFMyNXRwektEVExadFMyeENtNUdPYUhONUJkOVJ4ellQSWNjbkNfVHROQ2VXeUxMZUZpLVBKT2pDRHduVm9STWJRZVVjVGhjRXdTLWpPeHBIampCcksxT3RnVFBtOUlHV3pCeEhuNWpYaTBSMGNJM3RFcDdBZ2JDZ282UXNxa1oxWXlHUmtySkdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Figure AI",
+      "type": "Competitor",
+      "description": "Developer of Figure 01/02 humanoid robots, heavily partnered with OpenAI, BMW, and Brookfield.",
+      "website": "https://figure.ai",
+      "market_cap": "$2.6B (Private)",
+      "revenue": "Pre-revenue",
+      "employees": "150+",
+      "news": [
+        {
+          "date": "2026-03-20",
+          "headline": "Figure 02 completes 11-month pilot at BMW Spartanburg",
+          "url": "https://www.figure.ai/news/production-at-bmw"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnNFVHU5MXE5RFBaUHk4OFROVVZNak9KRnJRdzRJLWxHa1M3Y2FxY1gtZ3Z1NUNsZ0tWenZTVTJFeVlzbC1QMTBKYVgycktrN0hzc2otLVFYMElfc0U4MW5FVHhFLVVVVTBKVTZqUFdFcm1sdjB1bjdlN0JtMWJRNXlYSDJrUDZ3UGhSYlhZZ19VUUlvaWfSAZsBQVVfeXFMUHZkUlUyQ0VFUWx0ci1JSUNwN2lmOUZiWUNoMHpBeHZtenpGR0dUM21RMS01MVc2SkNlUm1EZVFjd1BFRXB6cmtHRW9BX2xselgyR05URlN1b3IxbEU4MWNobXFLTExTWnNPNG03MXFPUl96QkVJeU9QLURJVFVuaVYtMWp5S09RWmJFamNVRk0yQ2pjc0NjX3dqWEk?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Helix 02 Living Room Tidy - Figure",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aRjFjMWl3a0hJSGE5aElRRXdLRklOZmhhNE53a29LR0NwWWZaYTI4bnBMTkctUUVEdk9aX3Jnbkk2Wk1odU9mN0RQTy1WM3dMSTd1aVRobHY2ZXlNQ3BaUHF3?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Meet Figure AI - USD39 Billion Robot Startup Backed By Bezos, Nvidia And OpenAI - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWxiR3hzam00NUhjMmxoSDM2UENnZkROOFd3X1pUTXlETTBuMDZvajcwYlBJWWVTS3pJdW9pVUU4T2ZtZWt3Z0cxcTlUMkdFMkotQVBtTDl3eFpmcFYzZzhMRDFMSXZIZld4WEJQSkdBMmg1R05fZEJta2RMLUFNWHBWRmg4cDFiMkw1SUFkbm5Bd1RCcnREZ194Q3hEUzFMZjlEeHhFeVN2YU1SMGVfeXNn?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Meet Figure AI: The company behind the humanoid robot hosted by Melania Trump - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnNFVHU5MXE5RFBaUHk4OFROVVZNak9KRnJRdzRJLWxHa1M3Y2FxY1gtZ3Z1NUNsZ0tWenZTVTJFeVlzbC1QMTBKYVgycktrN0hzc2otLVFYMElfc0U4MW5FVHhFLVVVVTBKVTZqUFdFcm1sdjB1bjdlN0JtMWJRNXlYSDJrUDZ3UGhSYlhZZ19VUUlvaWfSAZsBQVVfeXFMUHZkUlUyQ0VFUWx0ci1JSUNwN2lmOUZiWUNoMHpBeHZtenpGR0dUM21RMS01MVc2SkNlUm1EZVFjd1BFRXB6cmtHRW9BX2xselgyR05URlN1b3IxbEU4MWNobXFLTExTWnNPNG03MXFPUl96QkVJeU9QLURJVFVuaVYtMWp5S09RWmJFamNVRk0yQ2pjc0NjX3dqWEk?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Helix 02 Living Room Tidy - Figure",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aRjFjMWl3a0hJSGE5aElRRXdLRklOZmhhNE53a29LR0NwWWZaYTI4bnBMTkctUUVEdk9aX3Jnbkk2Wk1odU9mN0RQTy1WM3dMSTd1aVRobHY2ZXlNQ3BaUHF3?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Meet Figure AI - USD39 Billion Robot Startup Backed By Bezos, Nvidia And OpenAI - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWxiR3hzam00NUhjMmxoSDM2UENnZkROOFd3X1pUTXlETTBuMDZvajcwYlBJWWVTS3pJdW9pVUU4T2ZtZWt3Z0cxcTlUMkdFMkotQVBtTDl3eFpmcFYzZzhMRDFMSXZIZld4WEJQSkdBMmg1R05fZEJta2RMLUFNWHBWRmg4cDFiMkw1SUFkbm5Bd1RCcnREZ194Q3hEUzFMZjlEeHhFeVN2YU1SMGVfeXNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Covariant",
+      "type": "Competitor",
+      "description": "AI robotics company specializing in universal AI brains for industrial manipulation.",
+      "website": "https://covariant.ai",
+      "market_cap": "$1B+ (Private)",
+      "revenue": "Est. $20M",
+      "employees": "250+",
+      "news": []
+    },
+    {
+      "id": 5,
+      "name": "Mentee Robotics",
+      "type": "Competitor",
+      "description": "Israeli robotics company building Menteebot, an AI-first bipedal humanoid.",
+      "website": "https://www.menteebot.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 6,
+      "name": "IEEE Spectrum",
+      "type": "Outlet",
+      "description": "Leading engineering and technology publication covering deep robotics research.",
+      "website": "https://spectrum.ieee.org",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 7,
+      "name": "TechCrunch",
+      "type": "Outlet",
+      "description": "Global technology news outlet tracking robotics funding, startups, and VC activity.",
+      "website": "https://techcrunch.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 8,
+      "name": "Toyota",
+      "type": "Partner",
+      "description": "Multinational automotive manufacturer and major deployer/partner for robotics (e.g., Agility Robotics).",
+      "website": "https://global.toyota",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 9,
+      "name": "NVIDIA",
+      "type": "Partner",
+      "description": "Provides the Omniverse platform, Jetson edge compute, and Isaac Sim\u2014the backbone for physical AI training.",
+      "website": "https://nvidia.com",
+      "market_cap": "$2.2T",
+      "revenue": "$80B",
+      "employees": "30,000+",
+      "news": []
+    },
+    {
+      "id": 10,
+      "name": "Mercado Libre",
+      "type": "Partner",
+      "description": "Latin American e-commerce and logistics giant deploying advanced fulfillment robots.",
+      "website": "https://www.mercadolibre.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 11,
+      "name": "BMW",
+      "type": "Partner",
+      "description": "Major automotive manufacturer and customer piloting Figure's humanoid robots in manufacturing.",
+      "website": "https://www.bmw.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": [
+        {
+          "date": "2026-04-02",
+          "headline": "BMW expands humanoid deployment to Europe with Hexagon Robotics",
+          "url": "https://techfundingnews.com/bmw-humanoid-robots-leipzig-figure-hexagon-physical-ai/"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Brookfield",
+      "type": "Partner",
+      "description": "Global alternative asset manager partnering with and investing in robotics for real estate/logistics.",
+      "website": "https://www.brookfield.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 13,
+      "name": "KNAPP",
+      "type": "Partner",
+      "description": "Global provider of intelligent automation solutions for intralogistics and manufacturing.",
+      "website": "https://www.knapp.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 14,
+      "name": "1X Technologies",
+      "type": "Competitor",
+      "description": "Norwegian robotics company backed by OpenAI, developing wheeled (EVE) and bipedal (NEO) androids.",
+      "website": "https://1x.tech",
+      "market_cap": "$800M (Private)",
+      "revenue": "Est. $5M",
+      "employees": "100+",
+      "news": [
+        {
+          "date": "2026-04-06",
+          "headline": "1X Opens Global HQ in Palo Alto | AI Robotics - 1x.tech",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdlhhbFpZNHRMZmFLRXhYU0RkZXlXc0Q0VlRPUGNPLVppeG8wbGx5Z3l3Y3p4TU9KS3lXX0cxTEFMZnhjaWVEeS1tTFlxenczZHRz?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "1X Technologies eyes major Bay Area hub as production of Neo robots accelerates - San Francisco Business Times - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVlNWVpsWldYSWx5d09oU0V1YnZRRW1RY00xeWwtSkJHbEFKT05FVWlPVkNTUGhyWkZ4Q1QwZFpWSTduMkZCU1l2OExhMjJZSl9iblVGNnVUc1p1cnJ2Rkt4OUdiWG5YbEZJSzNCSk44X3VrbW14dWNBU1FNMXlnQ3E2NXNFcWhETExCUV8xVVdQZF9uTlRuNkxMdTY1M2FWOUl2MW1VVGhudw?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "NEO humanoid robot can now teach itself new skills using video-based AI models - Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmw4SlVPVk51eTBUbVotSEdrVWIydkRhdngtYlpZNkJXdjlLa2Y0eTVrbmJNQVBfQjR6c0hwTDlYandwTDFWMHJyS2hQYlhGQUdKNmdjNy1xcVBKeElkcW1ReWZvc3owTU5sT3BDNW9PVllzSXdDRGlBdmwzMmt4eWZ2WU9CYWs3?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "1X Opens Global HQ in Palo Alto | AI Robotics - 1x.tech",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MdlhhbFpZNHRMZmFLRXhYU0RkZXlXc0Q0VlRPUGNPLVppeG8wbGx5Z3l3Y3p4TU9KS3lXX0cxTEFMZnhjaWVEeS1tTFlxenczZHRz?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "1X Technologies eyes major Bay Area hub as production of Neo robots accelerates - San Francisco Business Times - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVlNWVpsWldYSWx5d09oU0V1YnZRRW1RY00xeWwtSkJHbEFKT05FVWlPVkNTUGhyWkZ4Q1QwZFpWSTduMkZCU1l2OExhMjJZSl9iblVGNnVUc1p1cnJ2Rkt4OUdiWG5YbEZJSzNCSk44X3VrbW14dWNBU1FNMXlnQ3E2NXNFcWhETExCUV8xVVdQZF9uTlRuNkxMdTY1M2FWOUl2MW1VVGhudw?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "NEO humanoid robot can now teach itself new skills using video-based AI models - Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmw4SlVPVk51eTBUbVotSEdrVWIydkRhdngtYlpZNkJXdjlLa2Y0eTVrbmJNQVBfQjR6c0hwTDlYandwTDFWMHJyS2hQYlhGQUdKNmdjNy1xcVBKeElkcW1ReWZvc3owTU5sT3BDNW9PVllzSXdDRGlBdmwzMmt4eWZ2WU9CYWs3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Apptronik",
+      "type": "Competitor",
+      "description": "Developer of Apollo, a general-purpose humanoid robot partnered with GXO Logistics.",
+      "website": "https://apptronik.com",
+      "market_cap": "$500M+ (Private)",
+      "revenue": "Pre-revenue",
+      "employees": "120+",
+      "news": [
+        {
+          "date": "2026-02-15",
+          "headline": "Apptronik announces $520M Series A-X with Google & Mercedes",
+          "url": "https://techfundingnews.com/apptronik-raises-520m-humanoid-robots/"
+        },
+        {
+          "date": "2026-03-01",
+          "headline": "Apptronik targets commercial Apollo rollout in 2026",
+          "url": "https://apptronik.com/news2"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclM2NlYtR0FLdkw1NEdzMzNPaFE3RjN1ZW4xckw2YVhSelR0QXBwVGJyZDRXZjFvZThqV1lvZE1SWENOR2ZqMkxqemlOWFR1M2RwMDRieGJJZEtXVTc0cjZBQ0JUVkMwTERaYjRGQTFyMmUtQ1JoMTFsaG04QVRHNUtVcHU0ZXR0c29abXpJOWt0NXoxZ0Q1VFBDTEpFQTVkZjlLMDJMdG7SAa4BQVVfeXFMTjl2ZjVuT05tMmpNdHJGUTZQVkpoYjR2OTZWR2VMclNjeXUzQ01sOWpVaTYydDZ3b3VMRGpzVmN6LUs4MW5vcHRFYXMxdGxzcHZ0ZmIzY205YmNzaWlMNjhKN0hmQkxzSkdWbXEtZ1Y5a1dIejVyMkFaRm1abzF2YXI4QzZGaENNRkVRdDA0SHVzZXlMajVkQ2psNUx1VTM2N2huZGN3Z0lFSGtyckpn?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjFQcTBGTVQwb2s4cWVtX25nUlRyb3Jva2h3Z19DUzcyYUI1T2R6eklNMi0wbDFNd01hSkk3QUtJWXFuRTR2ZEtscWFCUE1SeEp5VzdFdGFucWc4c2FPNTJWTXFIRUNwcWFrNEpXLWVkTXF2YlhFWXhhdG45emN5M1NldXZxMzFjUHg4d25jRUdfdGFkc3E0Q0VvRnJmOVBCU0RfZmZZamM?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Industry Insights: Apptronik Has Been Testing Its New Humanoid for a Year - A3 Association for Advancing Automation",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXJGUlVKUzhqR242cWJKSVA1REFQX2tKc2FPUmpJaG9UQnVBM0hZWFFPaFZ0UEtHdXV4bjhUWGpQOXpadFY4TjJJRXR0TU91Ump5dUVLMGNIMmdLQXpjVFRIN3NHQXJmQ1RLWFlVQ05QRjhFWEVpYkt4djhOYlNPRFY5enRtaGJZTGFhU3lqenNvbmdfUWxQQ1Q3MmNVUUtValZqVzllSGRNWnN0T0Z1bXhpc0pqVWFuRFhPYW53Z3M?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclM2NlYtR0FLdkw1NEdzMzNPaFE3RjN1ZW4xckw2YVhSelR0QXBwVGJyZDRXZjFvZThqV1lvZE1SWENOR2ZqMkxqemlOWFR1M2RwMDRieGJJZEtXVTc0cjZBQ0JUVkMwTERaYjRGQTFyMmUtQ1JoMTFsaG04QVRHNUtVcHU0ZXR0c29abXpJOWt0NXoxZ0Q1VFBDTEpFQTVkZjlLMDJMdG7SAa4BQVVfeXFMTjl2ZjVuT05tMmpNdHJGUTZQVkpoYjR2OTZWR2VMclNjeXUzQ01sOWpVaTYydDZ3b3VMRGpzVmN6LUs4MW5vcHRFYXMxdGxzcHZ0ZmIzY205YmNzaWlMNjhKN0hmQkxzSkdWbXEtZ1Y5a1dIejVyMkFaRm1abzF2YXI4QzZGaENNRkVRdDA0SHVzZXlMajVkQ2psNUx1VTM2N2huZGN3Z0lFSGtyckpn?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjFQcTBGTVQwb2s4cWVtX25nUlRyb3Jva2h3Z19DUzcyYUI1T2R6eklNMi0wbDFNd01hSkk3QUtJWXFuRTR2ZEtscWFCUE1SeEp5VzdFdGFucWc4c2FPNTJWTXFIRUNwcWFrNEpXLWVkTXF2YlhFWXhhdG45emN5M1NldXZxMzFjUHg4d25jRUdfdGFkc3E0Q0VvRnJmOVBCU0RfZmZZamM?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Industry Insights: Apptronik Has Been Testing Its New Humanoid for a Year - A3 Association for Advancing Automation",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXJGUlVKUzhqR242cWJKSVA1REFQX2tKc2FPUmpJaG9UQnVBM0hZWFFPaFZ0UEtHdXV4bjhUWGpQOXpadFY4TjJJRXR0TU91Ump5dUVLMGNIMmdLQXpjVFRIN3NHQXJmQ1RLWFlVQ05QRjhFWEVpYkt4djhOYlNPRFY5enRtaGJZTGFhU3lqenNvbmdfUWxQQ1Q3MmNVUUtValZqVzllSGRNWnN0T0Z1bXhpc0pqVWFuRFhPYW53Z3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Boston Dynamics",
+      "type": "Competitor",
+      "description": "Pioneer in advanced robotics (Atlas, Spot), majority-owned by Hyundai, partnering with Google DeepMind.",
+      "website": "https://bostondynamics.com",
+      "market_cap": "N/A (Hyundai)",
+      "revenue": "Est. $100M+",
+      "employees": "500+",
+      "news": [
+        {
+          "date": "2026-01-06",
+          "headline": "Boston Dynamics unveils new electric Atlas, production fully committed",
+          "url": "https://bostondynamics.com/blog/boston-dynamics-unveils-new-atlas-robot-to-revolutionize-industry/"
+        },
+        {
+          "date": "2026-01-06",
+          "headline": "Atlas robots headed to Hyundai and Google DeepMind in 2026",
+          "url": "https://www.automate.org/robotics/industry-insights/boston-dynamics-to-begin-production-on-redesigned-atlas-humanoid-in-2026"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Fourier Intelligence",
+      "type": "Competitor",
+      "description": "Developer of the GR-1 general-purpose humanoid robot and rehabilitation tech.",
+      "website": "https://www.fftai.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 18,
+      "name": "GALBOT",
+      "type": "Competitor",
+      "description": "Robotics company building embodied AI solutions and humanoid platforms.",
+      "website": "https://www.galbot.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 19,
+      "name": "Galaxea AI",
+      "type": "Competitor",
+      "description": "Embodied AI startup developing foundational models and robotic hardware.",
+      "website": "https://www.galaxea.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 20,
+      "name": "Mind Robotics",
+      "type": "Competitor",
+      "description": "AI-enabled industrial robotics company backed by Andreessen Horowitz to automate complex factory tasks.",
+      "website": "https://www.mindrobotics.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 21,
+      "name": "Neura Robotics",
+      "type": "Competitor",
+      "description": "Developer of cognitive robots (like 4NE-1) with deep AI and sensor integration.",
+      "website": "https://neura-robotics.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 22,
+      "name": "Rainbow Robotics",
+      "type": "Competitor",
+      "description": "Korean robotics manufacturer of cobots and bipeds, significantly backed by Samsung.",
+      "website": "https://www.rainbow-robotics.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 23,
+      "name": "Rhoda AI",
+      "type": "Competitor",
+      "description": "Startup developing physical AI systems and embodied intelligence software.",
+      "website": "https://rhoda.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 24,
+      "name": "Robotera",
+      "type": "Competitor",
+      "description": "Humanoid robotics startup developing bipedal platforms.",
+      "website": "https://www.robotera.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 25,
+      "name": "Sanctuary AI",
+      "type": "Competitor",
+      "description": "Developing Phoenix, a general-purpose robot focusing on human-like dexterity and intelligence.",
+      "website": "https://sanctuary.ai",
+      "market_cap": "Private",
+      "revenue": "Pre-revenue",
+      "employees": "150+",
+      "news": [
+        {
+          "date": "2026-04-06",
+          "headline": "Sanctuary AI\u2019s robotic hand demonstrates zero-shot in-hand manipulation - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlpFTjgxUDR2cVN1N3hVWlhlYWpwMG9iOVhINS1UQ1RoWUswWjJIdTBvTEVwQmhFWF9BZWRYdWZHNUt4R05CN3pGWDVaeHdTOXY3RENDSFpILUoxaHBDekxKTW1XckFhemdjVHJvaWlhRHUyY2pfNTV1amRfSkRrUXRwY2FiRTh0ZUw3c2xHRjBKSzdnOFM1aDdYVmt4LUU2OHJ4ZQ?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Sanctuary AI: a patent powerhouse of the humanoid robotics era - IAM Patent",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXFFSkUxOHI4VUJDdU92NTZWSFJZUDFNTmJMSXBFOURMdFVlWmJGUmdZelV0Um1oMXBpZ3drS0ZabFZSY1F1ajBlT3dMS0xjQ2owbk1ZQWU0d3JKZUhKT3ZRenl1c1c4Z1FzYTFWRGt1OWQ1eVlpekIxUkRwZXZfYzBNU0NaSnlsdGFLcGJDRjVReHBDMl9Bbw?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Top Humanoid Robots in Manufacturing - Thomasnet",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HWENtYWJFbDFpT1VMYjU0VUZ4Tk5CQ2ZvaXNTaTlFRERLYUxkNmxpSHBzR01Tb3p0NUdaa2dDdHhzMmV5VzNKRnFqRTFWQkpYeVZiMXM4VmxhbFkwZzNrdnU5c3J5WE8zeXNUTmF3RXF1alJRWWdZ?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Sanctuary AI\u2019s robotic hand demonstrates zero-shot in-hand manipulation - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlpFTjgxUDR2cVN1N3hVWlhlYWpwMG9iOVhINS1UQ1RoWUswWjJIdTBvTEVwQmhFWF9BZWRYdWZHNUt4R05CN3pGWDVaeHdTOXY3RENDSFpILUoxaHBDekxKTW1XckFhemdjVHJvaWlhRHUyY2pfNTV1amRfSkRrUXRwY2FiRTh0ZUw3c2xHRjBKSzdnOFM1aDdYVmt4LUU2OHJ4ZQ?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Sanctuary AI: a patent powerhouse of the humanoid robotics era - IAM Patent",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXFFSkUxOHI4VUJDdU92NTZWSFJZUDFNTmJMSXBFOURMdFVlWmJGUmdZelV0Um1oMXBpZ3drS0ZabFZSY1F1ajBlT3dMS0xjQ2owbk1ZQWU0d3JKZUhKT3ZRenl1c1c4Z1FzYTFWRGt1OWQ1eVlpekIxUkRwZXZfYzBNU0NaSnlsdGFLcGJDRjVReHBDMl9Bbw?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Top Humanoid Robots in Manufacturing - Thomasnet",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HWENtYWJFbDFpT1VMYjU0VUZ4Tk5CQ2ZvaXNTaTlFRERLYUxkNmxpSHBzR01Tb3p0NUdaa2dDdHhzMmV5VzNKRnFqRTFWQkpYeVZiMXM4VmxhbFkwZzNrdnU5c3J5WE8zeXNUTmF3RXF1alJRWWdZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Skild AI",
+      "type": "Competitor",
+      "description": "Building scalable foundation models for robotics to generalize across diverse hardware.",
+      "website": "https://skild.ai",
+      "market_cap": "$1.5B (Private)",
+      "revenue": "Pre-revenue",
+      "employees": "80+",
+      "news": []
+    },
+    {
+      "id": 27,
+      "name": "Spirit AI",
+      "type": "Competitor",
+      "description": "Embodied AI provider focusing on the software cognitive layers for physical robotics.",
+      "website": "https://spiritai.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 28,
+      "name": "Tesla",
+      "type": "Competitor",
+      "description": "Developing the Optimus humanoid robot and Dojo compute infrastructure for massive scale manufacturing.",
+      "website": "https://tesla.com",
+      "market_cap": "$650B",
+      "revenue": "$95B",
+      "employees": "140,000+",
+      "news": [
+        {
+          "date": "2026-04-06",
+          "headline": "A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTZRS3FBSDNRRk9hV05OTlR5RFN1eEtPMWh0aThWeE04X3FPeXprbHdkZlNyaV95TkRYZmJzRWpXODR6YWlkc1ZrU1FXTEVBU0xaVTE4YkJxOGs0Q1cyTHhpU1BzN01uNVRZSVA5eUNzMzg2Q3ZvSVBxdE1CR0lqSFBib0ZEZExpMlluMTVPR3J1cGZkT3FNeHlBU2trTnF1d3RDandxcmlOakF6R1E?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project? - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVN5MVlhR1NXTktNZHduWGFCSFBuRXpoeE1QRGszYUozbGR5SjlJVGRYZ0plaVpzck5aZ2JLb1AyWHU4b0VwdGl0eGlQZk43SjhBem9OLUp3Q0duZ0pwblR3Rm1lNnFUdzJoYWh2d2U5OUFueENySmJVXy1HTWpZVTFDeEJPa2N0?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Tesla Stock: This Is Elon Musk's Latest Optimus 3 Production Timeline - Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSkRKS0dEV1k5TTNuVTJiN3FSbzZUaWdVOEQ1d2RYVVI1dElXYkcycTFNSmRJT3U2WHhwdk5yOG96dFlyNC1KS3JObEtaSnM5cVlYNXNHUmh4VWZRZ1c5WXRDNGI0eUtEZXV2c193MzVyZG5UMzc4Sg?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTZRS3FBSDNRRk9hV05OTlR5RFN1eEtPMWh0aThWeE04X3FPeXprbHdkZlNyaV95TkRYZmJzRWpXODR6YWlkc1ZrU1FXTEVBU0xaVTE4YkJxOGs0Q1cyTHhpU1BzN01uNVRZSVA5eUNzMzg2Q3ZvSVBxdE1CR0lqSFBib0ZEZExpMlluMTVPR3J1cGZkT3FNeHlBU2trTnF1d3RDandxcmlOakF6R1E?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project? - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVN5MVlhR1NXTktNZHduWGFCSFBuRXpoeE1QRGszYUozbGR5SjlJVGRYZ0plaVpzck5aZ2JLb1AyWHU4b0VwdGl0eGlQZk43SjhBem9OLUp3Q0duZ0pwblR3Rm1lNnFUdzJoYWh2d2U5OUFueENySmJVXy1HTWpZVTFDeEJPa2N0?oc=5"
+        },
+        {
+          "date": "2026-04-06",
+          "headline": "Tesla Stock: This Is Elon Musk's Latest Optimus 3 Production Timeline - Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSkRKS0dEV1k5TTNuVTJiN3FSbzZUaWdVOEQ1d2RYVVI1dElXYkcycTFNSmRJT3U2WHhwdk5yOG96dFlyNC1KS3JObEtaSnM5cVlYNXNHUmh4VWZRZ1c5WXRDNGI0eUtEZXV2c193MzVyZG5UMzc4Sg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "UBTECH",
+      "type": "Competitor",
+      "description": "Major Chinese robotics firm pushing Walker S humanoids into automotive manufacturing.",
+      "website": "https://www.ubtrobot.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 30,
+      "name": "Unitree Robotics",
+      "type": "Competitor",
+      "description": "Chinese robotics firm developing low-cost quadruped and bipedal (H1, G1) robots.",
+      "website": "https://unitree.com",
+      "market_cap": "Private",
+      "revenue": "Est. $30M+",
+      "employees": "300+",
+      "news": []
+    },
+    {
+      "id": 31,
+      "name": "Amazon",
+      "type": "Customer",
+      "description": "Massive logistics customer and investor in companies like Agility Robotics.",
+      "website": "https://aboutamazon.com",
+      "market_cap": "$1.8T",
+      "revenue": "$590B",
+      "employees": "1,500,000+",
+      "news": []
+    },
+    {
+      "id": 32,
+      "name": "BYD",
+      "type": "Customer",
+      "description": "Massive EV manufacturer deploying humanoids (like UBTECH) on its assembly lines.",
+      "website": "https://www.byd.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 33,
+      "name": "Foxconn",
+      "type": "Customer",
+      "description": "Global contract electronics manufacturer and massive consumer of industrial automation.",
+      "website": "https://www.foxconn.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 34,
+      "name": "Geely",
+      "type": "Customer",
+      "description": "Global automotive group actively integrating advanced robotics into its supply chain.",
+      "website": "https://zgh.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 35,
+      "name": "GXO Logistics",
+      "type": "Customer",
+      "description": "Massive contract logistics provider, actively piloting Apptronik's Apollo humanoids.",
+      "website": "https://gxo.com",
+      "market_cap": "$6B",
+      "revenue": "$10B",
+      "employees": "130,000+",
+      "news": []
+    },
+    {
+      "id": 36,
+      "name": "Hyundai",
+      "type": "Customer",
+      "description": "Multinational automotive manufacturer, parent company of Boston Dynamics.",
+      "website": "https://www.hyundai.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 37,
+      "name": "Mercedes-Benz",
+      "type": "Customer",
+      "description": "Automotive customer and partner actively piloting Apptronik's Apollo.",
+      "website": "https://www.mercedes-benz.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 38,
+      "name": "Xiaomi",
+      "type": "Customer",
+      "description": "Consumer electronics giant developing the CyberOne humanoid and investing in robotics.",
+      "website": "https://www.mi.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 39,
+      "name": "Google DeepMind",
+      "type": "Provider",
+      "description": "Alphabet's premier AI lab, developing the Gemini foundation model for physical robotics and embodied AI.",
+      "website": "https://deepmind.google",
+      "market_cap": "N/A (Alphabet)",
+      "revenue": "N/A",
+      "employees": "2,000+",
+      "news": []
+    },
+    {
+      "id": 40,
+      "name": "Microsoft",
+      "type": "Provider",
+      "description": "Major compute provider, investor, and AI foundation partner for numerous robotics startups.",
+      "website": "https://microsoft.com",
+      "market_cap": "$3.1T",
+      "revenue": "$230B",
+      "employees": "220,000+",
+      "news": []
+    },
+    {
+      "id": 41,
+      "name": "OpenAI",
+      "type": "Provider",
+      "description": "Leading AI research lab backing companies like 1X and Figure, and developing its own internal robotics foundation models.",
+      "website": "https://openai.com",
+      "market_cap": "$100B+ (Private)",
+      "revenue": "$3B+",
+      "employees": "1,200+",
+      "news": []
+    },
+    {
+      "id": 42,
+      "name": "Qualcomm",
+      "type": "Provider",
+      "description": "Major semiconductor company providing crucial mobile/edge compute platforms for robotics.",
+      "website": "https://www.qualcomm.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 43,
+      "name": "Intel",
+      "type": "Provider",
+      "description": "Semiconductor giant supplying processing power and RealSense vision tech to robotics.",
+      "website": "https://www.intel.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 44,
+      "name": "Bosch",
+      "type": "Provider",
+      "description": "Multinational engineering and technology company supplying deep industrial automation components.",
+      "website": "https://www.bosch.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 45,
+      "name": "Siemens",
+      "type": "Provider",
+      "description": "Industrial manufacturing conglomerate and major provider of automation software/hardware.",
+      "website": "https://www.siemens.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 46,
+      "name": "Databricks",
+      "type": "Integrator",
+      "description": "Enterprise software company providing massive data analytics platforms for AI/robotics telemetry.",
+      "website": "https://www.databricks.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 47,
+      "name": "Foundry Robotics",
+      "type": "Integrator",
+      "description": "Integrator building specialized physical AI automation cells.",
+      "website": "https://www.foundry.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 48,
+      "name": "RobCo",
+      "type": "Integrator",
+      "description": "Creator of modular, customizable industrial robot kits for SME manufacturing.",
+      "website": "https://robco.de",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 49,
+      "name": "Vention",
+      "type": "Integrator",
+      "description": "Cloud-based manufacturing automation platform enabling fast robot deployment.",
+      "website": "https://vention.io",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 50,
+      "name": "Wandelbots",
+      "type": "Integrator",
+      "description": "Software company creating universal, no-code robotic teaching platforms.",
+      "website": "https://wandelbots.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 51,
+      "name": "Wiliot",
+      "type": "Integrator",
+      "description": "IoT company developing battery-free smart tags tracking physical items for automated sorting.",
+      "website": "https://www.wiliot.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 52,
+      "name": "Andreessen Horowitz",
+      "type": "Investor",
+      "description": "Top-tier Silicon Valley venture capital firm aggressively investing in the Embodied AI era.",
+      "website": "https://a16z.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 53,
+      "name": "Qatar Investment Authority",
+      "type": "Investor",
+      "description": "Sovereign wealth fund acting as a major capital backer for late-stage physical AI companies.",
+      "website": "https://www.qia.qa",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 54,
+      "name": "Renault Group",
+      "type": "Investor",
+      "description": "Automotive manufacturer actively investing in and deploying factory robotics.",
+      "website": "https://www.renaultgroup.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 55,
+      "name": "SoftBank",
+      "type": "Investor",
+      "description": "Major global technology investor aggressively funding the robotics space.",
+      "website": "https://group.softbank",
+      "market_cap": "$60B",
+      "revenue": "$45B",
+      "employees": "60,000+",
+      "news": []
+    },
+    {
+      "id": 56,
+      "name": "Shenzhen Capital Group",
+      "type": "Investor",
+      "description": "Major Chinese venture capital firm backing domestic humanoid and physical AI startups.",
+      "website": "https://www.szvc.com.cn",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 57,
+      "name": "Genesis AI",
+      "type": "Provider",
+      "description": "Embodied AI foundational model provider focused on real-world manipulation.",
+      "website": "https://genesis-embodied.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 58,
+      "name": "Sereact",
+      "type": "Provider",
+      "description": "Provider of pick-and-pack AI software empowering robotic arms with zero-shot learning.",
+      "website": "https://sereact.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 59,
+      "name": "Viam",
+      "type": "Provider",
+      "description": "Cloud-based robotics software platform for managing, controlling, and programming fleets.",
+      "website": "https://www.viam.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 60,
+      "name": "Inbolt",
+      "type": "Provider",
+      "description": "Computer vision AI provider tracking part positions for robotic arms in real-time.",
+      "website": "https://inbolt.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 61,
+      "name": "Cortex AI",
+      "type": "Provider",
+      "description": "Provider of large-scale, real-world embodied AI data for foundation model training.",
+      "website": "https://cortex.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 62,
+      "name": "RLWRLD",
+      "type": "Provider",
+      "description": "AI provider developing reinforcement learning models for physical world deployment.",
+      "website": "https://rlwrld.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 63,
+      "name": "Dyna Robotics",
+      "type": "Provider",
+      "description": "Developer of advanced dynamic control systems for robotic manipulation.",
+      "website": "https://dynarobotics.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 64,
+      "name": "X Square Robot",
+      "type": "Provider",
+      "description": "Robotics startup focused on specific logistics automation workflows.",
+      "website": "https://x-squarerobot.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 65,
+      "name": "xAI",
+      "type": "Provider",
+      "description": "Elon Musk's AI company, developing foundation models like Grok interconnected with Tesla.",
+      "website": "https://x.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 66,
+      "name": "Tesla Manufacturing",
+      "type": "Customer",
+      "description": "Internal customer branch responsible for deploying Optimus humanoids to the factory floor.",
+      "website": "https://tesla.com/manufacturing",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 67,
+      "name": "Dojo Compute",
+      "type": "Provider",
+      "description": "Tesla's custom supercomputer architecture built specifically for training physical neural nets.",
+      "website": "https://tesla.com/ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 68,
+      "name": "OpenAI Robotics Lab",
+      "type": "Competitor",
+      "description": "Internal OpenAI division focused on hardware integration and physical embodied foundation models.",
+      "website": "https://openai.com/research/robotics",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 69,
+      "name": "Fauna Robotics",
+      "type": "Competitor",
+      "description": "Robotics startup targeting consumer and shared-space applications, acquired by Amazon.",
+      "website": "https://fauna.robotics",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 70,
+      "name": "RIVR",
+      "type": "Competitor",
+      "description": "Doorstep delivery and logistics automation robotics startup acquired by Amazon.",
+      "website": "https://rivr.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 71,
+      "name": "Amazon Industrial Fund",
+      "type": "Investor",
+      "description": "Amazon's massive venture arm funneling capital into supply chain and robotics innovation.",
+      "website": "https://amazon.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 72,
+      "name": "Samsung Electronics",
+      "type": "Customer",
+      "description": "Consumer electronics giant deploying vast amounts of internal automation and robotics.",
+      "website": "https://samsung.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 73,
+      "name": "Samsung Heavy Industries",
+      "type": "Customer",
+      "description": "Shipbuilding and construction arm of Samsung utilizing heavy-duty automation.",
+      "website": "https://samsungshi.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 74,
+      "name": "Samsung Future Robotics Office",
+      "type": "Investor",
+      "description": "Strategic arm of Samsung directing investments into external robotics companies.",
+      "website": "https://samsung.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 75,
+      "name": "ABB",
+      "type": "Competitor",
+      "description": "Global traditional industrial robotics heavyweight, partnering with Figure AI and NVIDIA.",
+      "website": "https://global.abb",
+      "market_cap": "$85B",
+      "revenue": "$32B",
+      "employees": "105,000+",
+      "news": []
+    },
+    {
+      "id": 76,
+      "name": "FANUC",
+      "type": "Competitor",
+      "description": "Leading Japanese industrial robot manufacturer, heavily integrating NVIDIA AI capabilities.",
+      "website": "https://fanuc.co.jp",
+      "market_cap": "$35B",
+      "revenue": "$6B",
+      "employees": "9,000+",
+      "news": []
+    },
+    {
+      "id": 77,
+      "name": "Alphabet / Google",
+      "type": "Investor",
+      "description": "Parent company of DeepMind and Intrinsic, heavily investing in the foundational layers of physical AI.",
+      "website": "https://abc.xyz",
+      "market_cap": "$1.95T",
+      "revenue": "$315B",
+      "employees": "180,000+",
+      "news": []
+    },
+    {
+      "id": 78,
+      "name": "Intrinsic",
+      "type": "Provider",
+      "description": "Alphabet company providing intelligent software and OS platforms for industrial robots.",
+      "website": "https://intrinsic.ai",
+      "market_cap": "N/A (Alphabet)",
+      "revenue": "N/A",
+      "employees": "300+",
+      "news": []
+    },
+    {
+      "id": 79,
+      "name": "Foxconn / Hon Hai",
+      "type": "Customer",
+      "description": "The world's largest contract manufacturer, serving as an unmatched deployment ground for robotics.",
+      "website": "https://foxconn.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 80,
+      "name": "Scale AI",
+      "type": "Integrator",
+      "description": "Data infrastructure provider building the 'Data Engine for Physical AI' via teleoperation and human demos.",
+      "website": "https://scale.com",
+      "market_cap": "$13B (Private)",
+      "revenue": "$750M+",
+      "employees": "1,500+",
+      "news": []
+    },
+    {
+      "id": 81,
+      "name": "Agile Robots",
+      "type": "Competitor",
+      "description": "German-Chinese robotics unicorn focusing on AI-driven industrial arms and humanoid platforms.",
+      "website": "https://agile-robots.com",
+      "market_cap": "$2B+ (Private)",
+      "revenue": "Est. $50M+",
+      "employees": "800+",
+      "news": []
+    },
+    {
+      "id": 82,
+      "name": "Hyundai Motor Group",
+      "type": "Customer",
+      "description": "Majority owner of Boston Dynamics and massive deployer of robotics in auto manufacturing.",
+      "website": "https://hyundaimotorgroup.com",
+      "market_cap": "$50B+",
+      "revenue": "$120B+",
+      "employees": "250,000+",
+      "news": []
+    },
+    {
+      "id": 83,
+      "name": "Hyundai Mobis",
+      "type": "Integrator",
+      "description": "Automotive parts supplier creating high-end actuators and components for Boston Dynamics.",
+      "website": "https://mobis.co.kr",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 84,
+      "name": "SoftBank Vision Fund",
+      "type": "Investor",
+      "description": "The massive investment arm of SoftBank driving capital into global physical AI monopolies.",
+      "website": "https://visionfund.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 85,
+      "name": "Deutsche Telekom",
+      "type": "Integrator",
+      "description": "European telecom giant building sovereign Industrial AI Cloud infrastructure for robots.",
+      "website": "https://telekom.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 86,
+      "name": "Bharat Forge",
+      "type": "Customer",
+      "description": "Indian industrial conglomerate partnering to bring advanced robotics manufacturing to India.",
+      "website": "https://bharatforge.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 87,
+      "name": "thyssenkrupp",
+      "type": "Integrator",
+      "description": "German industrial engineering giant, its automation unit was acquired by Agile Robots.",
+      "website": "https://thyssenkrupp.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 88,
+      "name": "Wayve",
+      "type": "Provider",
+      "description": "Embodied AI company pioneering end-to-end deep learning for autonomous driving.",
+      "website": "https://wayve.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 89,
+      "name": "Arduino",
+      "type": "Provider",
+      "description": "Open-source electronics platform heavily utilized in robotics prototyping and integration.",
+      "website": "https://arduino.cc",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 90,
+      "name": "TBPN Company",
+      "type": "Provider",
+      "description": "Stealth or lesser-known acquisition target rolled into the OpenAI ecosystem.",
+      "website": "https://tbpn.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 91,
+      "name": "FedEx",
+      "type": "Customer",
+      "description": "Global logistics corporation heavily investing in sorting, packing, and delivery robotics.",
+      "website": "https://fedex.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 92,
+      "name": "Nomadic",
+      "type": "Provider",
+      "description": "Startup developing physical AI solutions for specific automation niches.",
+      "website": "https://nomadic.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 93,
+      "name": "Kardex",
+      "type": "Integrator",
+      "description": "Provider of automated storage and retrieval systems (ASRS) partnering with AI companies.",
+      "website": "https://kardex.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 94,
+      "name": "Founders Fund",
+      "type": "Investor",
+      "description": "Prominent venture capital firm placing heavy bets on physical AI like Physical Intelligence.",
+      "website": "https://foundersfund.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 95,
+      "name": "Lightspeed Venture Partners",
+      "type": "Investor",
+      "description": "Tier-1 VC backing major AI and robotics infrastructure plays.",
+      "website": "https://lsvp.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 96,
+      "name": "Thrive Capital",
+      "type": "Investor",
+      "description": "Venture firm known for major stakes in OpenAI and other foundational AI companies.",
+      "website": "https://thrivecap.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 97,
+      "name": "Lux Capital",
+      "type": "Investor",
+      "description": "Deep-tech focused venture capital firm investing in advanced physical science and robotics.",
+      "website": "https://luxcapital.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 98,
+      "name": "Berkshire Grey",
+      "type": "Provider",
+      "description": "AI-enabled robotic solutions provider for e-commerce, retail, and logistics fulfillment.",
+      "website": "https://berkshiregrey.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 99,
+      "name": "Dexterity",
+      "type": "Provider",
+      "description": "Provides full-stack robotic solutions for complex logistics operations like truck unloading.",
+      "website": "https://dexterity.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 100,
+      "name": "Nimble",
+      "type": "Provider",
+      "description": "Autonomous logistics company building intelligent robotic fulfillment centers.",
+      "website": "https://nimble.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 101,
+      "name": "Aurora Innovation",
+      "type": "Provider",
+      "description": "Company delivering autonomous driving technology for trucking and logistics.",
+      "website": "https://aurora.tech",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 102,
+      "name": "TQ Ventures",
+      "type": "Investor",
+      "description": "Venture capital firm participating in major funding rounds for embodied AI companies.",
+      "website": "https://tqventures.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 103,
+      "name": "Pear VC",
+      "type": "Investor",
+      "description": "Early-stage venture capital firm backing foundational technology and physical AI.",
+      "website": "https://pear.vc",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 104,
+      "name": "Jeff Dean",
+      "type": "Investor",
+      "description": "Google's Chief Scientist and prominent angel investor in Physical Intelligence.",
+      "website": "https://research.google/people/jeff-dean/",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 105,
+      "name": "Zoox",
+      "type": "Customer",
+      "description": "Amazon-owned autonomous vehicle company focusing on custom-built robotaxis.",
+      "website": "https://zoox.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 106,
+      "name": "Mitsubishi Electric",
+      "type": "Customer",
+      "description": "Major supplier of factory automation hardware and industrial robotic arms.",
+      "website": "https://mitsubishielectric.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 107,
+      "name": "Natix Network",
+      "type": "Customer",
+      "description": "Decentralized physical infrastructure network mapping the world via computer vision.",
+      "website": "https://natix.network",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 108,
+      "name": "Zendar",
+      "type": "Customer",
+      "description": "Company developing high-resolution radar solutions for autonomous systems.",
+      "website": "https://zendar.io",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 109,
+      "name": "Ant Group",
+      "type": "Investor",
+      "description": "Massive Chinese tech/financial entity investing in next-gen robotics like Galaxea AI.",
+      "website": "https://antgroup.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 110,
+      "name": "Meituan",
+      "type": "Investor",
+      "description": "Chinese retail and delivery giant actively funding automation and physical AI startups.",
+      "website": "https://meituan.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 111,
+      "name": "Today Capital",
+      "type": "Investor",
+      "description": "Venture capital firm active in backing Chinese robotics unicorns.",
+      "website": "https://todaycapital.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 112,
+      "name": "JD Group",
+      "type": "Customer",
+      "description": "Chinese e-commerce giant heavily utilizing autonomous warehouses and delivery robots.",
+      "website": "https://jd.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 113,
+      "name": "SF Technology",
+      "type": "Customer",
+      "description": "Technology arm of SF Express, a major logistics customer for automated sorting.",
+      "website": "https://sf-express.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 114,
+      "name": "Seer",
+      "type": "Integrator",
+      "description": "Provider of autonomous mobile robot (AMR) controllers and fleet management.",
+      "website": "https://seer-robotics.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 115,
+      "name": "Astribot",
+      "type": "Competitor",
+      "description": "Developer of the S1 humanoid, known for incredibly fast and precise manipulation.",
+      "website": "https://astribot.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 116,
+      "name": "Kepler Robotics",
+      "type": "Competitor",
+      "description": "Creator of the Forerunner humanoid robot targeted at logistics and industrial deployment.",
+      "website": "https://keplerbot.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 117,
+      "name": "Eclipse",
+      "type": "Provider",
+      "description": "Hardware and deep-tech VC firm backing major physical AI companies like Mind Robotics.",
+      "website": "https://eclipse.vc",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 118,
+      "name": "Khosla Ventures",
+      "type": "Provider",
+      "description": "Silicon Valley VC firm heavily invested in the foundational models of robotics.",
+      "website": "https://khoslaventures.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 119,
+      "name": "Tether",
+      "type": "Provider",
+      "description": "Cryptocurrency provider increasingly investing capital into AI and physical infrastructure.",
+      "website": "https://tether.to",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 120,
+      "name": "Capacity",
+      "type": "Customer",
+      "description": "AI automation platform partnering to streamline enterprise support and deployment.",
+      "website": "https://capacity.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 121,
+      "name": "Mobileye",
+      "type": "Integrator",
+      "description": "Intel-owned company developing advanced computer vision and autonomy solutions.",
+      "website": "https://mobileye.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 122,
+      "name": "Generalist AI",
+      "type": "Competitor",
+      "description": "Stealth/early-stage provider developing universal cognitive architectures for robots.",
+      "website": "https://generalistai.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 123,
+      "name": "New Hope",
+      "type": "Integrator",
+      "description": "Major Chinese conglomerate integrating AI and automation into agriculture and manufacturing.",
+      "website": "https://newhopegroup.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 124,
+      "name": "BASF",
+      "type": "Provider",
+      "description": "Chemical giant deploying robotics and physical AI for dangerous materials handling.",
+      "website": "https://basf.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 125,
+      "name": "Rivian",
+      "type": "Customer",
+      "description": "EV manufacturer and primary development partner/customer for Mind Robotics.",
+      "website": "https://rivian.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 126,
+      "name": "Universal Robots",
+      "type": "Integrator",
+      "description": "Market leader in collaborative robots (cobots), frequently integrated with new AI brains.",
+      "website": "https://universal-robots.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    }
+  ],
+  "links": [
+    {
+      "source": 7,
+      "target": 1,
+      "relation": "Funding Mention",
+      "weight": 1
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "relation": "Commercial Agreement",
+      "weight": 1
+    },
+    {
+      "source": 2,
+      "target": 9,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "relation": "Deployment",
+      "weight": 1
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "relation": "Deployment",
+      "weight": 1
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "relation": "Collaboration",
+      "weight": 1
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "relation": "Integration",
+      "weight": 1
+    },
+    {
+      "source": 9,
+      "target": 3,
+      "relation": "AI/Compute",
+      "weight": 5
+    },
+    {
+      "source": 9,
+      "target": 15,
+      "relation": "AI/Compute",
+      "weight": 4
+    },
+    {
+      "source": 9,
+      "target": 25,
+      "relation": "AI/Compute",
+      "weight": 4
+    },
+    {
+      "source": 9,
+      "target": 2,
+      "relation": "AI/Compute",
+      "weight": 4
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "relation": "AI/Compute",
+      "weight": 4
+    },
+    {
+      "source": 9,
+      "target": 16,
+      "relation": "AI/Compute",
+      "weight": 5
+    },
+    {
+      "source": 9,
+      "target": 21,
+      "relation": "AI/Compute",
+      "weight": 4
+    },
+    {
+      "source": 39,
+      "target": 16,
+      "relation": "Foundation Model",
+      "weight": 5
+    },
+    {
+      "source": 40,
+      "target": 3,
+      "relation": "Cloud/AI",
+      "weight": 5
+    },
+    {
+      "source": 41,
+      "target": 14,
+      "relation": "VLM Models",
+      "weight": 5
+    },
+    {
+      "source": 42,
+      "target": 3,
+      "relation": "Compute",
+      "weight": 4
+    },
+    {
+      "source": 42,
+      "target": 21,
+      "relation": "Compute",
+      "weight": 4
+    },
+    {
+      "source": 44,
+      "target": 21,
+      "relation": "Component Partner",
+      "weight": 3
+    },
+    {
+      "source": 45,
+      "target": 21,
+      "relation": "Software Partner",
+      "weight": 3
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "relation": "Deployment Pilot",
+      "weight": 6
+    },
+    {
+      "source": 11,
+      "target": 3,
+      "relation": "Deployment Pilot",
+      "weight": 5
+    },
+    {
+      "source": 37,
+      "target": 15,
+      "relation": "Deployment Pilot",
+      "weight": 4
+    },
+    {
+      "source": 32,
+      "target": 29,
+      "relation": "Deployment",
+      "weight": 4
+    },
+    {
+      "source": 34,
+      "target": 29,
+      "relation": "Deployment",
+      "weight": 3
+    },
+    {
+      "source": 33,
+      "target": 29,
+      "relation": "Deployment",
+      "weight": 4
+    },
+    {
+      "source": 36,
+      "target": 16,
+      "relation": "Owner/Deployment",
+      "weight": 5
+    },
+    {
+      "source": 52,
+      "target": 3,
+      "relation": "Lead Investor",
+      "weight": 5
+    },
+    {
+      "source": 52,
+      "target": 26,
+      "relation": "Investor",
+      "weight": 4
+    },
+    {
+      "source": 54,
+      "target": 21,
+      "relation": "Investor",
+      "weight": 3
+    },
+    {
+      "source": 46,
+      "target": 51,
+      "relation": "Data Infrastructure",
+      "weight": 4
+    },
+    {
+      "source": 39,
+      "target": 15,
+      "relation": "Foundation Model",
+      "weight": 5
+    },
+    {
+      "source": 57,
+      "target": 3,
+      "relation": "Simulation/Data",
+      "weight": 3
+    },
+    {
+      "source": 57,
+      "target": 2,
+      "relation": "Simulation/Data",
+      "weight": 3
+    },
+    {
+      "source": 59,
+      "target": 4,
+      "relation": "Robot OS",
+      "weight": 3
+    },
+    {
+      "source": 58,
+      "target": 31,
+      "relation": "Warehouse VLA",
+      "weight": 4
+    },
+    {
+      "source": 58,
+      "target": 35,
+      "relation": "Warehouse VLA",
+      "weight": 3
+    },
+    {
+      "source": 61,
+      "target": 1,
+      "relation": "Embodied Dataset",
+      "weight": 4
+    },
+    {
+      "source": 61,
+      "target": 26,
+      "relation": "Embodied Dataset",
+      "weight": 4
+    },
+    {
+      "source": 62,
+      "target": 21,
+      "relation": "Industrial VLA",
+      "weight": 3
+    },
+    {
+      "source": 60,
+      "target": 11,
+      "relation": "3D Vision Software",
+      "weight": 3
+    },
+    {
+      "source": 65,
+      "target": 28,
+      "relation": "VLM / AI Models",
+      "weight": 5
+    },
+    {
+      "source": 67,
+      "target": 28,
+      "relation": "Internal Silicon/Training",
+      "weight": 5
+    },
+    {
+      "source": 28,
+      "target": 66,
+      "relation": "Internal Fleet Deployment",
+      "weight": 5
+    },
+    {
+      "source": 41,
+      "target": 1,
+      "relation": "Investment/Model Partner",
+      "weight": 5
+    },
+    {
+      "source": 41,
+      "target": 68,
+      "relation": "Internal Fleet/Generalist",
+      "weight": 5
+    },
+    {
+      "source": 71,
+      "target": 31,
+      "relation": "Internal VC",
+      "weight": 5
+    },
+    {
+      "source": 71,
+      "target": 2,
+      "relation": "Lead Investor",
+      "weight": 5
+    },
+    {
+      "source": 31,
+      "target": 69,
+      "relation": "Acquisition",
+      "weight": 5
+    },
+    {
+      "source": 31,
+      "target": 70,
+      "relation": "Acquisition",
+      "weight": 5
+    },
+    {
+      "source": 74,
+      "target": 72,
+      "relation": "Internal AI/Robotics Div",
+      "weight": 5
+    },
+    {
+      "source": 74,
+      "target": 22,
+      "relation": "Acquisition (35% Stake)",
+      "weight": 6
+    },
+    {
+      "source": 72,
+      "target": 22,
+      "relation": "Factory Deployment (RB-Y1)",
+      "weight": 5
+    },
+    {
+      "source": 73,
+      "target": 22,
+      "relation": "Shipyard Deployment",
+      "weight": 4
+    },
+    {
+      "source": 77,
+      "target": 39,
+      "relation": "Parent Org",
+      "weight": 5
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "relation": "Parent Org",
+      "weight": 5
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "relation": "Factory Deployment",
+      "weight": 4
+    },
+    {
+      "source": 78,
+      "target": 9,
+      "relation": "Omniverse/Simulation",
+      "weight": 4
+    },
+    {
+      "source": 75,
+      "target": 9,
+      "relation": "Omniverse/Simulation",
+      "weight": 4
+    },
+    {
+      "source": 75,
+      "target": 3,
+      "relation": "Manufacturing JV",
+      "weight": 5
+    },
+    {
+      "source": 55,
+      "target": 75,
+      "relation": "Acquisition Target",
+      "weight": 4
+    },
+    {
+      "source": 76,
+      "target": 9,
+      "relation": "Omniverse/Simulation",
+      "weight": 4
+    },
+    {
+      "source": 33,
+      "target": 79,
+      "relation": "Alias",
+      "weight": 1
+    },
+    {
+      "source": 35,
+      "target": 15,
+      "relation": "Deployment Pilot",
+      "weight": 4
+    },
+    {
+      "source": 39,
+      "target": 81,
+      "relation": "Gemini Foundation Model",
+      "weight": 4
+    },
+    {
+      "source": 80,
+      "target": 39,
+      "relation": "Physical Data Engine",
+      "weight": 3
+    },
+    {
+      "source": 80,
+      "target": 68,
+      "relation": "Physical Data Engine",
+      "weight": 3
+    },
+    {
+      "source": 82,
+      "target": 16,
+      "relation": "Acquisition/Majority Owner",
+      "weight": 6
+    },
+    {
+      "source": 16,
+      "target": 82,
+      "relation": "Deployment (RMAC)",
+      "weight": 6
+    },
+    {
+      "source": 83,
+      "target": 16,
+      "relation": "Actuator Supply Chain",
+      "weight": 4
+    },
+    {
+      "source": 39,
+      "target": 16,
+      "relation": "Foundation Model (Gemini)",
+      "weight": 5
+    },
+    {
+      "source": 16,
+      "target": 39,
+      "relation": "Deployment Pilot",
+      "weight": 3
+    },
+    {
+      "source": 84,
+      "target": 16,
+      "relation": "Minority Stake (Put Option)",
+      "weight": 3
+    },
+    {
+      "source": 84,
+      "target": 81,
+      "relation": "Lead Investor",
+      "weight": 5
+    },
+    {
+      "source": 39,
+      "target": 81,
+      "relation": "Foundation Model (Gemini)",
+      "weight": 5
+    },
+    {
+      "source": 81,
+      "target": 79,
+      "relation": "Factory Deployment",
+      "weight": 5
+    },
+    {
+      "source": 85,
+      "target": 81,
+      "relation": "Industrial AI Cloud (NVIDIA)",
+      "weight": 4
+    },
+    {
+      "source": 81,
+      "target": 86,
+      "relation": "India Deployment/MoU",
+      "weight": 3
+    },
+    {
+      "source": 81,
+      "target": 87,
+      "relation": "Acquisition",
+      "weight": 4
+    },
+    {
+      "source": 42,
+      "target": 88,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 42,
+      "target": 89,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 41,
+      "target": 90,
+      "relation": "Acquisition",
+      "weight": 1
+    },
+    {
+      "source": 58,
+      "target": 93,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "relation": "Deployment",
+      "weight": 1
+    },
+    {
+      "source": 91,
+      "target": 98,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 91,
+      "target": 99,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 91,
+      "target": 100,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 91,
+      "target": 101,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 55,
+      "target": 98,
+      "relation": "Investment",
+      "weight": 1
+    },
+    {
+      "source": 92,
+      "target": 105,
+      "relation": "Deployment",
+      "weight": 1
+    },
+    {
+      "source": 92,
+      "target": 106,
+      "relation": "Deployment",
+      "weight": 1
+    },
+    {
+      "source": 92,
+      "target": 107,
+      "relation": "Deployment",
+      "weight": 1
+    },
+    {
+      "source": 92,
+      "target": 108,
+      "relation": "Deployment",
+      "weight": 1
+    },
+    {
+      "source": 102,
+      "target": 92,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 103,
+      "target": 92,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 104,
+      "target": 92,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 94,
+      "target": 1,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 95,
+      "target": 1,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 96,
+      "target": 1,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 97,
+      "target": 1,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 109,
+      "target": 19,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 110,
+      "target": 19,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 111,
+      "target": 19,
+      "relation": "Funding",
+      "weight": 1
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "relation": "Partnership",
+      "weight": 1
+    },
+    {
+      "source": 31,
+      "target": 69,
+      "relation": "Acquisition",
+      "weight": 10
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "relation": "Robots-As-A-Service Deal",
+      "weight": 8
+    },
+    {
+      "source": 121,
+      "target": 5,
+      "relation": "Acquisition",
+      "weight": 10
+    },
+    {
+      "source": 112,
+      "target": 27,
+      "relation": "Strategic Partnership",
+      "weight": 8
+    },
+    {
+      "source": 113,
+      "target": 24,
+      "relation": "Strategic Partnership",
+      "weight": 8
+    },
+    {
+      "source": 115,
+      "target": 114,
+      "relation": "Strategic Partnership",
+      "weight": 8
+    },
+    {
+      "source": 119,
+      "target": 21,
+      "relation": "Funding",
+      "weight": 5
+    },
+    {
+      "source": 31,
+      "target": 21,
+      "relation": "Funding",
+      "weight": 5
+    },
+    {
+      "source": 53,
+      "target": 21,
+      "relation": "Funding",
+      "weight": 5
+    },
+    {
+      "source": 42,
+      "target": 21,
+      "relation": "Partnership",
+      "weight": 8
+    },
+    {
+      "source": 125,
+      "target": 20,
+      "relation": "Spin-out/Partnership",
+      "weight": 9
+    },
+    {
+      "source": 52,
+      "target": 20,
+      "relation": "Funding",
+      "weight": 5
+    },
+    {
+      "source": 39,
+      "target": 81,
+      "relation": "Partnership",
+      "weight": 8
+    },
+    {
+      "source": 117,
+      "target": 57,
+      "relation": "Funding",
+      "weight": 5
+    },
+    {
+      "source": 118,
+      "target": 57,
+      "relation": "Funding",
+      "weight": 5
+    },
+    {
+      "source": 55,
+      "target": 26,
+      "relation": "Funding",
+      "weight": 5
+    },
+    {
+      "source": 75,
+      "target": 26,
+      "relation": "Partnership",
+      "weight": 8
+    },
+    {
+      "source": 126,
+      "target": 26,
+      "relation": "Partnership",
+      "weight": 8
+    },
+    {
+      "source": 9,
+      "target": 26,
+      "relation": "Partnership",
+      "weight": 8
+    },
+    {
+      "source": 12,
+      "target": 3,
+      "relation": "Strategic Partnership",
+      "weight": 8
+    },
+    {
+      "source": 120,
+      "target": 4,
+      "relation": "Deployment",
+      "weight": 8
+    },
+    {
+      "source": 41,
+      "target": 90,
+      "relation": "Acquisition",
+      "weight": 10
+    },
+    {
+      "source": 123,
+      "target": 17,
+      "relation": "Partnership",
+      "weight": 8
+    },
+    {
+      "source": 124,
+      "target": 17,
+      "relation": "Partnership",
+      "weight": 8
+    },
+    {
+      "source": 88,
+      "target": 42,
+      "relation": "Partnership",
+      "weight": 8
+    },
+    {
+      "source": 93,
+      "target": 58,
+      "relation": "Partnership",
+      "weight": 8
+    }
+  ]
+}

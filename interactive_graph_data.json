@@ -124,7 +124,7 @@
       "type": "Competitor",
       "description": "Israeli robotics company building Menteebot, an AI-first bipedal humanoid.",
       "website": "https://www.menteebot.com",
-      "market_cap": null,
+      "market_cap": "$900M (Acquired)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -211,6 +211,21 @@
           "date": "2026-03-09",
           "headline": "Qualcomm\u2019s partnership with Neura Robotics is just the beginning - TechCrunch",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJ4dXVCZHJIMm1velFsRW1wdDU2WHJDRTE5YzQ1NmFvT3dsZFA3eFhNSGljTEQyM3AzYzJXTW9WZFZBVzZuVVpFZTlEaEdvR1d2Qld0bVN2YXZDNU5CWlVndmZEakktU3lxb0VFcWZ6V2ZPekxONWNraDBYN3JPdno1cjQtWVZ1Zk9oakpqZmFiV0U0RHY4aGJsYzVOdEE?oc=5"
+        },
+        {
+          "date": "2026-03-11",
+          "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVR6Q1JMT3ZEdXNOYjhkMjZsMUFVZTRwX0d2dkgtaV9zSHAtaGhMaDk5LWQ3aV9zVmc0NHVuSEd5Uk5ZRzNNY1Ixa29yekxYT2pzSDlHMHBnTVNXVllUNUxIeGlfSHlaRVNnSHJ5ZUFJc29GbW55TUljUlNwWDdhMjJoYmJ4X0lMX2hIeGVFdTJKN1Bad2lNYWxjR0Z3NWpnNkl3Y2d1UlV2TlNUM2c?oc=5"
+        },
+        {
+          "date": "2026-01-30",
+          "headline": "A peek inside Physical Intelligence, the startup building Silicon Valley's buzziest robot brains - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5"
+        },
+        {
+          "date": "2025-07-01",
+          "headline": "Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSVVJSTFGVmFWZ3dvSkd0QjhOSDZNclMwdW94SU5CMTZGcXU3R0gxSVBiaTlCbEp3cmxqUVFadWRJOVFLVEF1MHpRTVFvVnBweWdCcHNwbFc2OUdWUnFkN0E?oc=5"
         }
       ]
     },
@@ -341,7 +356,7 @@
       "type": "Competitor",
       "description": "Developer of Apollo, a general-purpose humanoid robot partnered with GXO Logistics.",
       "website": "https://apptronik.com",
-      "market_cap": "$5.3B (Private)",
+      "market_cap": "$5B+ (Private)",
       "revenue": "Pre-revenue",
       "employees": "120+",
       "news": [
@@ -442,7 +457,7 @@
       "type": "Competitor",
       "description": "Robotics company building embodied AI solutions and humanoid platforms.",
       "website": "https://www.galbot.com",
-      "market_cap": null,
+      "market_cap": "$300M Raised",
       "revenue": null,
       "employees": null,
       "news": [
@@ -469,7 +484,7 @@
       "type": "Competitor",
       "description": "Embodied AI startup developing foundational models and robotic hardware.",
       "website": "https://www.galaxea.ai",
-      "market_cap": null,
+      "market_cap": "$290.4M Raised (Series B+)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -518,7 +533,7 @@
       "type": "Competitor",
       "description": "Developer of cognitive robots (like 4NE-1) with deep AI and sensor integration.",
       "website": "https://neura-robotics.com",
-      "market_cap": null,
+      "market_cap": "$1.2B Target (Raising)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -572,7 +587,7 @@
       "type": "Competitor",
       "description": "Startup developing physical AI systems and embodied intelligence software.",
       "website": "https://rhoda.ai",
-      "market_cap": null,
+      "market_cap": "$1.7B (Private)",
       "revenue": null,
       "employees": null,
       "news": []
@@ -583,7 +598,7 @@
       "type": "Competitor",
       "description": "Humanoid robotics startup developing bipedal platforms.",
       "website": "https://www.robotera.com",
-      "market_cap": null,
+      "market_cap": "$1.4B (Private)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -648,7 +663,7 @@
       "type": "Competitor",
       "description": "Embodied AI provider focusing on the software cognitive layers for physical robotics.",
       "website": "https://spiritai.com",
-      "market_cap": null,
+      "market_cap": "$420M Raised",
       "revenue": null,
       "employees": null,
       "news": [
@@ -819,6 +834,11 @@
           "date": "2026-03-19",
           "headline": "SEC Filing: CERT  - Certification by an exchange approving securities for listing",
           "url": "https://www.sec.gov/Archives/edgar/data/1018724/000135445726000273/0001354457-26-000273-index.htm"
+        },
+        {
+          "date": "2026-03-19",
+          "headline": "SEC Filing: 8-A12B  - Registration of securities [Section 12(b)]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926031805/0001104659-26-031805-index.htm"
         }
       ]
     },
@@ -1205,7 +1225,7 @@
       "type": "Provider",
       "description": "Embodied AI foundational model provider focused on real-world manipulation.",
       "website": "https://genesis-embodied.ai",
-      "market_cap": null,
+      "market_cap": "$105M Raised (Seed)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -1594,7 +1614,7 @@
       "id": 90,
       "name": "TBPN Company",
       "type": "Provider",
-      "description": "Stealth or lesser-known acquisition target rolled into the OpenAI ecosystem.",
+      "description": "Acquired by OpenAI.",
       "website": "https://tbpn.com",
       "market_cap": null,
       "revenue": null,
@@ -1910,7 +1930,7 @@
       "type": "Competitor",
       "description": "Creator of the Forerunner humanoid robot targeted at logistics and industrial deployment.",
       "website": "https://keplerbot.com",
-      "market_cap": null,
+      "market_cap": "$14M+ Raised",
       "revenue": null,
       "employees": null,
       "news": [
@@ -1934,7 +1954,7 @@
     {
       "id": 117,
       "name": "Eclipse",
-      "type": "Provider",
+      "type": "Investor",
       "description": "Hardware and deep-tech VC firm backing major physical AI companies like Mind Robotics.",
       "website": "https://eclipse.vc",
       "market_cap": "$1.3B Fund III",
@@ -2895,6 +2915,36 @@
       "target": 58,
       "relation": "Partnership",
       "weight": 8
+    },
+    {
+      "source": 121,
+      "target": 5,
+      "relation": "Acquisition",
+      "weight": 5
+    },
+    {
+      "source": 41,
+      "target": 90,
+      "relation": "Acquisition",
+      "weight": 5
+    },
+    {
+      "source": 117,
+      "target": 57,
+      "relation": "Funding",
+      "weight": 3
+    },
+    {
+      "source": 118,
+      "target": 57,
+      "relation": "Funding",
+      "weight": 3
+    },
+    {
+      "source": 55,
+      "target": 26,
+      "relation": "Funding",
+      "weight": 4
     }
   ],
   "global_news": [
@@ -2975,8 +3025,8 @@
       "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
       "date": "2026-04-07",
       "involved_nodes": [
-        7,
-        117
+        117,
+        7
       ]
     },
     {
@@ -3017,8 +3067,8 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXp1c01WU1k3S1h1WnQ0UndvNFBFdmtoUV80Vm1zbHQ1V1hxRTdlQTRuMG1TSmVnRkU3OVlPVm9NNVRNajhwbFRBcVJMY0lWb1dyN3NDVG52clBGUkFKY3VFb1JJTFJNS05hYnFFckJDZldodlBVdDZmTzdBbHpiMURoQ05xTGNLMFRSQzN0YzdJVjVZT0NtUHFR?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        81,
-        39
+        39,
+        81
       ]
     },
     {
@@ -3042,8 +3092,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclM2NlYtR0FLdkw1NEdzMzNPaFE3RjN1ZW4xckw2YVhSelR0QXBwVGJyZDRXZjFvZThqV1lvZE1SWENOR2ZqMkxqemlOWFR1M2RwMDRieGJJZEtXVTc0cjZBQ0JUVkMwTERaYjRGQTFyMmUtQ1JoMTFsaG04QVRHNUtVcHU0ZXR0c29abXpJOWt0NXoxZ0Q1VFBDTEpFQTVkZjlLMDJMdG7SAa4BQVVfeXFMTjl2ZjVuT05tMmpNdHJGUTZQVkpoYjR2OTZWR2VMclNjeXUzQ01sOWpVaTYydDZ3b3VMRGpzVmN6LUs4MW5vcHRFYXMxdGxzcHZ0ZmIzY205YmNzaWlMNjhKN0hmQkxzSkdWbXEtZ1Y5a1dIejVyMkFaRm1abzF2YXI4QzZGaENNRkVRdDA0SHVzZXlMajVkQ2psNUx1VTM2N2huZGN3Z0lFSGtyckpn?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        28,
-        15
+        15,
+        28
       ]
     },
     {

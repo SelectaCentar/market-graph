@@ -3108,5 +3108,178 @@
       "relation": "Partnership",
       "weight": 8
     }
+  ],
+  "global_news": [
+    {
+      "headline": "A peek inside Physical Intelligence, the startup building Silicon Valley's buzziest robot brains - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        1,
+        7,
+        43
+      ]
+    },
+    {
+      "headline": "Agile Robots and Google DeepMind Partner on AI-Driven Industrial Robotics - ARC Advisory",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXp1c01WU1k3S1h1WnQ0UndvNFBFdmtoUV80Vm1zbHQ1V1hxRTdlQTRuMG1TSmVnRkU3OVlPVm9NNVRNajhwbFRBcVJMY0lWb1dyN3NDVG52clBGUkFKY3VFb1JJTFJNS05hYnFFckJDZldodlBVdDZmTzdBbHpiMURoQ05xTGNLMFRSQzN0YzdJVjVZT0NtUHFR?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        81,
+        39
+      ]
+    },
+    {
+      "headline": "An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchmarking, and Fallback Execution",
+      "url": "https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        9
+      ]
+    },
+    {
+      "headline": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclM2NlYtR0FLdkw1NEdzMzNPaFE3RjN1ZW4xckw2YVhSelR0QXBwVGJyZDRXZjFvZThqV1lvZE1SWENOR2ZqMkxqemlOWFR1M2RwMDRieGJJZEtXVTc0cjZBQ0JUVkMwTERaYjRGQTFyMmUtQ1JoMTFsaG04QVRHNUtVcHU0ZXR0c29abXpJOWt0NXoxZ0Q1VFBDTEpFQTVkZjlLMDJMdG7SAa4BQVVfeXFMTjl2ZjVuT05tMmpNdHJGUTZQVkpoYjR2OTZWR2VMclNjeXUzQ01sOWpVaTYydDZ3b3VMRGpzVmN6LUs4MW5vcHRFYXMxdGxzcHZ0ZmIzY205YmNzaWlMNjhKN0hmQkxzSkdWbXEtZ1Y5a1dIejVyMkFaRm1abzF2YXI4QzZGaENNRkVRdDA0SHVzZXlMajVkQ2psNUx1VTM2N2huZGN3Z0lFSGtyckpn?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        28
+      ]
+    },
+    {
+      "headline": "Astribot S1 Shows off Impressive Capabilities in New Video - Maginative",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWlKMVRZWlFRTV9SYVNhSDlyVkM4TExWaGJsQmpoakdJZUxsSVo0UnJza29qODFOX2JGeE5KS2h5TF9RZjB0aTVjTm9xTmd5czBuX2x4WEh3ajdGUVJNZVpwX0pJeHdMZkVveUFlWThtUUlrc3ZNLTYwTkxkdHNUbHV6dWR1UEpkUm9vR0FwNUp5b2p5d3hDYkF3?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        115
+      ]
+    },
+    {
+      "headline": "BASF and Shanghai Fourier Intelligence team up to develop new material solutions for next-generation humanoid robots - BASF",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92dWFZaWdpYWplYlRkU0FBc3V3eWdNb1M4dkR3alVZMENMSlZzcEZIWi1fUnVZVDUzcmFnSm5EWHh2eU5haGMxQ0FYaWFmVm9mR3BneTlhNzl5XzRPTnJnZmRyeEx6TnJzbXE0SmJZUWJpeU9Z?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        124,
+        17,
+        43
+      ]
+    },
+    {
+      "headline": "Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3RwLTd0X0d1UWdMOWl3ZXY2bzFvRW50ckdZWU5hdjNQMzJLUWtOcjg4a1M0Mklkblk0TzUwYzZianowM1RySU5jUDBoZ0tzb0pVNU1nbU5xZUxRUy10YlN0RlhnZkd5enNWM2xwNXg4TExNUkhVWmZtWDB0WWJEX1l0WjVLeWx2dmw5YnR0RlBkeWlKT0wxZ3IwMEFGdWlHRHlLRTZRY3ZJbUw5TG5mVQ?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        21,
+        31
+      ]
+    },
+    {
+      "headline": "Boston Dynamics Unveils New Atlas Robot to Revolutionize Industry - Boston Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXlFMk1OUUNDVjU3RC1WZmJsMDUyY1VRNkRkdkhTNzh1SVlCdzhqOEZjbWV2a2ZleFBNSmd3OEFuRl9UODVfWjl6VkFOTzNWT3JoZFYycnRyOW5HdlhxZ2tuZlI4NEV5S0FjdTJ6a2JJdE96TTlkXzhzT1FNdmhudkZKM0ZsN1g3SFVzMV9wTUxONVZ3aGMxMUpyY3ZXbjg?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        16
+      ]
+    },
+    {
+      "headline": "Boyuan-Galbot Project Signs Agreement to Settle in Suzhou - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN08wSExHc1VQdk9ORm1oay1waVluYnZmeGJ3T0NOcS1qTjVpS2hPUGtVRnFDN3BoM211bV9uZ3VVb0ZhZmo2ckRkX0xjVWlwNTc4MWNyazhSUTZ0YVdJQXV1aWtuUWxRdG5fQU1xM3AtT3pwU1FPeDFrVHdRM0JzaG1mWkFyTmpRNTZhRm95WUlDNXZBRUFsdkx0OHZoV1JieFExREdnaWMzUUZiUmdaNkdXem9qelhLWFNZ?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        18
+      ]
+    },
+    {
+      "headline": "CES 2026: Fourier Intelligence unveils full-size humanoid robot GR-3 - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUk1wVHd1cmRLNlhTZUxqb003WDFrdlRud2YtU29Kc1EzTU13bUNMTllPaWsxRlYtNE9yVGJVN0VDOUMxTUw0Zmp2b0NQamRLRWhsSWpha05rRFNoaDh2cTFFRFFLVk9xVGZYZmd1Ml8tNHY2b1l2SW9VRUw1NWNoVkhWaE1Fa2JJTS1BS09xNDNfUTdEdXZVMi1lWGxzSXA0RFA0NWVoVDE4Y1ZjNzEzaGRUX3Exc0hObkp6QkJ0aXdrNWxEUDdSMQ?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        17,
+        43
+      ]
+    },
+    {
+      "headline": "China\u2019s Astribot, Seer Ally to Put Over 1,000 Humanoid Robots Into Industrial Use - Yicai Global",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEg4XzMtcHVsUDVlVVVfdlF0NFo2ZnV6OThyZzVObnhUdkJjOElIS2hqdWh4N3EzX2hoZVk4T0tVQlotSGsxUXdDcEM1MXhFYk11VjlkMlgwVDlBVW52OTJQU0h6UkxZQjZoYlFwMzBfNnhIWTBqNnhfTnRNOERxQUdad01jMVlzODZ0eDZxVGVGZ3ZpbFQxMGI2blRpQU1IMUU5TVAxRzYtUldRcTRlZA?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        114,
+        115
+      ]
+    },
+    {
+      "headline": "China\u2019s Galaxea AI raises $290.4m in series B+ round - Tech in Asia",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnVnbGRwRkh2SnJ5RWlObEZ2dEhKV2t0OUlObmlIcFM1cHZhaXZ3anktNmR0SzdqS0RzQXd6ZE5iMmxPYW1sYktoZlVvYnJWTUEyb2NKa1dXNWhod09PbXBSNHg4OFA4ZGdDSG4weERVbUZQTlRmeEEwenF5VnBSVVF6WUF1dmh2?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        19
+      ]
+    },
+    {
+      "headline": "Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamZKYnhpZjhLVmJmcGkyemVyS21COHVmNkRFUl9OX0FQZVpFWEJ0bGlfQUExVEtVVjEzZlMzbFMyNXRwektEVExadFMyeENtNUdPYUhONUJkOVJ4ellQSWNjbkNfVHROQ2VXeUxMZUZpLVBKT2pDRHduVm9STWJRZVVjVGhjRXdTLWpPeHBIampCcksxT3RnVFBtOUlHV3pCeEhuNWpYaTBSMGNJM3RFcDdBZ2JDZ282UXNxa1oxWXlHUmtySkdR?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        8
+      ]
+    },
+    {
+      "headline": "Galbot brings in $300M to scale mobile manipulator deployments - The Robot Report",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkFsVy1va3JNcnJ3UTgzNm9ERTdqd3B0ZV9PTW5pRE4zVTFJdHZTN2p5YktoWVl6VkJKb2Rnb1Zna0ZCYXItZ0xKdGZOY2gxLWxabDFIb3pkOTJDN1VTLWlIUVdoczBFT08tMi0zTHl2WEhRUUNuUGVpVm1GYnZIa0FzMFBrMmdKbnJ1NjRqWDBiaERCbVV4Xw?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        18
+      ]
+    },
+    {
+      "headline": "Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics\u2019 ChatGPT Moment - forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3A3RXgzUVAwZTZqanBwcUVhOWdZTEZnall4MWY4V1NvTVpSWkt5SmtncERTMW10aHpMN01mcm9Bci1oQWNERTVnVFpiYVZkMkJ2VzVzaGliRkwwWWtGVk1Bai1vWUdnUjNvZmU1bktPNldXbDV4ZlNuc1d3MGM4bC1MMV96NXFXa1lJanVWSUV0eVhsRFNwRUFHNERpelExYlBYdmJldEhVTm43Zk00Qm0tLXZLY0NlOG1tU3NackMxQXd2R1F2MF95VlI4SmJR?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        122
+      ]
+    },
+    {
+      "headline": "Generalist Releases GEN-1 Robotic Foundation Model - Let's Data Science",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTNhUldSUWl0QzNkeVotTVZLejJsY0c1NUZ1QWdleXZFajdIUEUtemc4WjRQMm8tQTcwY3NKZFIxYUhyS0tsNHJnQ2R0aUhuMUZiM2lLNWNiZkdacEJSdWRjaEJ0dFdPNzU3UnNLemhBck1NMHVrZndMWHF0NWZyWkhqcWhPS1FLR20xMWY0SldOYjFvaG5J?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        122
+      ]
+    },
+    {
+      "headline": "Generalist introduces GEN-1 general-purpose model for physical AI - The Robot Report",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX19iZlJfQm1mLVVSSzZUNG92Y19OVWNJZVR3SjBUbjdiTHdYcUhyNUc3OXdRNmFQajNRSWkyOFdWdW1jSHJDUHB3eEdrdF9wUHNiWVB2YWRpbm5PME5sZVZpdnBMVWdYTFRxaDFaZ1pSUTFpRFRmOGM3S2tMRU0tUVlPRmwtZmpDOHlBMGMtOEVldURkZTU4NVJvRDV0QQ?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        122
+      ]
+    },
+    {
+      "headline": "Genesis AI Hires Former Amazon Leader Vivian Sun to Advance Commercialization - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2dYdEJHMG5uaXgybE05d0hHYnZEMXZqMFBJNUtRMGVyc2ZIMHhwbGlmSWxMN21zOTlxeFdtVEFHOEdpZjFweEV4SFRmTTVBZFQyVXJBVEFiQ0JucjNqeHJLZGl4SndvOTlSUjc0WFdpcXlzREFpcUFQTXBTTUs1d1M2ZWl4QlBtazNxV2NrWTlJc2hEVHpNbEx6b3pCZllya3ZlOVBwNDdVN05GQlV5LVdjVWhQZW1Nd042UzQycHAxWE0xZnVfd1YzY1Bwdw?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        31,
+        57
+      ]
+    },
+    {
+      "headline": "Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSVVJSTFGVmFWZ3dvSkd0QjhOSDZNclMwdW94SU5CMTZGcXU3R0gxSVBiaTlCbEp3cmxqUVFadWRJOVFLVEF1MHpRTVFvVnBweWdCcHNwbFc2OUdWUnFkN0E?oc=5",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        117,
+        7,
+        57
+      ]
+    },
+    {
+      "headline": "Gill Pratt Says Humanoid Robots\u2019 Moment Is Finally Here",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "date": "2026-04-08",
+      "involved_nodes": [
+        6
+      ]
+    }
   ]
 }

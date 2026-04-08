@@ -9,7 +9,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Where Robotics Is Headed: AI, Humanoids and the Rise of Physical Intelligence - Assembly Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "A peek inside Physical Intelligence, the startup building Silicon Valley's buzziest robot brains - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Physical Intelligence raises $600M to advance robot foundation models - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUV0SmFnSHZIUVV1cmdoVENYUF93aUZsNnY0bUhsOXowam9TRlR5eDlyR0ZVNU9ZdFNiX1FsVUxmdk1hNHlfYVRUSk9YZmRzVTY4endUZUpUTy14dUtHdFdydHJGSXJ0cFI4aEJHaEp4MHlxbktlc2ZNNFZxcmpINVBJNkFrOVE2Tzg5ZGtCRjJwdnYtdGoyempLaGtBdw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.pi.website/blog"
+        }
+      ]
     },
     {
       "id": 2,
@@ -109,7 +130,28 @@
       "market_cap": "$1B+ (Private)",
       "revenue": "Est. $20M",
       "employees": "250+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Industry Insights: How Amazon Leveraged Covariant's Technology to Accelerate Robot Development - A3 Association for Advancing Automation",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IY1cyRzBKLXotR2RTNDVkY1hFNmU1VUNNdmthZW9YMXM3T3F5anprelE0MlNucHZTakpqRzhhNHZ2eG1fX0RwRHRiMmgyc0xMVUFlTl9PcEtVaFF4bUZ2TENVUFpYZw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Mitigating exponential concentration in covariant quantum kernels for subspace and real-world data - Nature",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54SllQQlIzamItNXY1aThiQldzZG9qakJuX01xVG1SQTh0X3l3T21DWG5IZ0tDang4YmFQRllOZTZENi01OVluWnA0cGJzWWZjM0p0S2dsRDZHejlsa09B?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Silicon Valley's AI deals are creating zombie startups: 'You hollowed out the organization' - cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CVXdmc0xQc2ZGUHpadmJqY2lTcnh1bHhlcE96VHhESExycnE0emhkSUNsWGEzUUFtVEc0NUQwUFlYeFZlSHEtcENKYzBDb2lBc216OEc0S0c3UTY1amZselNnQlUwdWQ3SXBUalFFdmJROE52cVZCOWVpcVlsUdIBgwFBVV95cUxOa3RuMGxnaEh5Z2JhMEdyUXA4MTF2RWEzemFROV9tOFE4Qi0ybW5lWVJKV2ZMaGVJNURLc2VZdzBpTmZGTnNwZElNc0dRMXQ0Ymh0dDgwWkR1YUlUN2xXWno4bGlhVlgxR3NnVHl1aS14T2NCWEp0OTdjRmxHeXJWNzhSWQ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://covariant.ai/insights/"
+        }
+      ]
     },
     {
       "id": 5,
@@ -120,7 +162,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Mobileye To Acquire Mentee Robotics to Accelerate Physical AI Leadership - Mobileye",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHc1Rm81M29UbXRueWtIaHRBY2lkOTFTeEg4aEpFemhPQzJ6dFlCOEZnWHNKbnJyVGpZMURaZU5fZnNVSkRVYUhzcnoyWGtTNHBmQTJ0Vm1FT3p5aktfbjhOY3c0bkV1NENmV3N2dU9pWWhaekhUT3UtLUJGemtpSDYtdTF6MVdMY0dBWDdmOHBXVkdfcEVCcU96dnd1ZUJucWFBbWlR?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Mobileye acquires humanoid robot startup Mentee Robotics for $900M - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVR5NUNwa0RKSmM2N0NhVWNhQVNKVGJoaXBEb2lZR2wzX2JKTjlCUndPSFd5V1VyUWNhNmhhb1hDNzJWRUNDaFNhUkl6R05VcHE2dGxpWGI2RFdPaDV6eW4xcXFQUVpIZU8xaHJLcW5BSG9rU0FNek1EYjdTZk5rYWd5NGQ5Y082Zm41LWZNWFdJcjVkVFBWRmR2dDhaNkNGc3c?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Mobileye's Mentee Robotics acquisition seen by analysts as broadening scope of company - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNVGNuNTBKSXVmN0gtSFJaNG9hTGxxZHBWZkJfVGRUV0ltazRtYkltLWQ3eVc5YTlYemF3NUVzZWxJSzVqYXJvVG5LejNoQmU5dnBZdlRya0NtU1g2SVJOaHpoNXo1QTRqaWk2bUQ1Z0kwTG9uVE1KWlZKdTdMWVRRZ3k4ZlViQXZWRXVTWXQ1ajgzVWFaTmprLXpBRVVhWVZmMWRqdjBVN0N4LUJ1S1N6THlOSlN5ZmdjNlUwYU82TEpQeVJ3aWluRjl1a0JLSUFpWmNWSDl4V0FlUU5iejRyVHllV3kyU2Y1bE5Sek9DbmxPWHN3ZW1xN1VmYjFmTjN2RFBmSXYtSGpmbU4yVHM5VzV2UEZnaGg2YzAybnBQQ1BVdEFVVWxGeG9fRWxBMEhXZzBGbE05S2M0VnAzdnd1VGxXRFIyNkJldE96TjFtU2tKbVF6Y3VFeXpCV0stSWV5eEVpVjUzT3p4U2k2cHc?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.menteebot.com/news"
+        }
+      ]
     },
     {
       "id": 6,
@@ -131,7 +194,23 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Studying Human Attitudes Towards Robots Through Experience",
+          "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Video Friday: Digit Learns to Dance\u2014Virtually Overnight",
+          "url": "https://spectrum.ieee.org/video-humanoid-dancing"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Gill Pratt Says Humanoid Robots\u2019 Moment Is Finally Here",
+          "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa"
+        }
+      ]
     },
     {
       "id": 7,
@@ -142,7 +221,53 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
+          "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
+          "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjFQcTBGTVQwb2s4cWVtX25nUlRyb3Jva2h3Z19DUzcyYUI1T2R6eklNMi0wbDFNd01hSkk3QUtJWXFuRTR2ZEtscWFCUE1SeEp5VzdFdGFucWc4c2FPNTJWTXFIRUNwcWFrNEpXLWVkTXF2YlhFWXhhdG45emN5M1NldXZxMzFjUHg4d25jRUdfdGFkc3E0Q0VvRnJmOVBCU0RfZmZZamM?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Mobileye acquires humanoid robot startup Mentee Robotics for $900M - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVR5NUNwa0RKSmM2N0NhVWNhQVNKVGJoaXBEb2lZR2wzX2JKTjlCUndPSFd5V1VyUWNhNmhhb1hDNzJWRUNDaFNhUkl6R05VcHE2dGxpWGI2RFdPaDV6eW4xcXFQUVpIZU8xaHJLcW5BSG9rU0FNek1EYjdTZk5rYWd5NGQ5Y082Zm41LWZNWFdJcjVkVFBWRmR2dDhaNkNGc3c?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVR6Q1JMT3ZEdXNOYjhkMjZsMUFVZTRwX0d2dkgtaV9zSHAtaGhMaDk5LWQ3aV9zVmc0NHVuSEd5Uk5ZRzNNY1Ixa29yekxYT2pzSDlHMHBnTVNXVllUNUxIeGlfSHlaRVNnSHJ5ZUFJc29GbW55TUljUlNwWDdhMjJoYmJ4X0lMX2hIeGVFdTJKN1Bad2lNYWxjR0Z3NWpnNkl3Y2d1UlV2TlNUM2c?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Qualcomm\u2019s partnership with Neura Robotics is just the beginning - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJ4dXVCZHJIMm1velFsRW1wdDU2WHJDRTE5YzQ1NmFvT3dsZFA3eFhNSGljTEQyM3AzYzJXTW9WZFZBVzZuVVpFZTlEaEdvR1d2Qld0bVN2YXZDNU5CWlVndmZEakktU3lxb0VFcWZ6V2ZPekxONWNraDBYN3JPdno1cjQtWVZ1Zk9oakpqZmFiV0U0RHY4aGJsYzVOdEE?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "A peek inside Physical Intelligence, the startup building Silicon Valley's buzziest robot brains - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSVVJSTFGVmFWZ3dvSkd0QjhOSDZNclMwdW94SU5CMTZGcXU3R0gxSVBiaTlCbEp3cmxqUVFadWRJOVFLVEF1MHpRTVFvVnBweWdCcHNwbFc2OUdWUnFkN0E?oc=5"
+        }
+      ]
     },
     {
       "id": 8,
@@ -153,7 +278,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal - forbes.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamZKYnhpZjhLVmJmcGkyemVyS21COHVmNkRFUl9OX0FQZVpFWEJ0bGlfQUExVEtVVjEzZlMzbFMyNXRwektEVExadFMyeENtNUdPYUhONUJkOVJ4ellQSWNjbkNfVHROQ2VXeUxMZUZpLVBKT2pDRHduVm9STWJRZVVjVGhjRXdTLWpPeHBIampCcksxT3RnVFBtOUlHV3pCeEhuNWpYaTBSMGNJM3RFcDdBZ2JDZ282UXNxa1oxWXlHUmtySkdR?oc=5"
+        }
+      ]
     },
     {
       "id": 9,
@@ -164,7 +295,33 @@
       "market_cap": "$2.2T",
       "revenue": "$80B",
       "employees": "30,000+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "An Implementation Guide to Running NVIDIA Transformer Engine with Mixed Precision, FP8 Checks, Benchmarking, and Fallback Execution",
+          "url": "https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Meet Figure AI - USD39 Billion Robot Startup Backed By Bezos, Nvidia And OpenAI - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWxiR3hzam00NUhjMmxoSDM2UENnZkROOFd3X1pUTXlETTBuMDZvajcwYlBJWWVTS3pJdW9pVUU4T2ZtZWt3Z0cxcTlUMkdFMkotQVBtTDl3eFpmcFYzZzhMRDFMSXZIZld4WEJQSkdBMmg1R05fZEJta2RMLUFNWHBWRmg4cDFiMkw1SUFkbm5Bd1RCcnREZ194Q3hEUzFMZjlEeHhFeVN2YU1SMGVfeXNn?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000010290926000426/0000102909-26-000426-index.htm"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: 8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000024/0001045810-26-000024-index.htm"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: 10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/0001045810-26-000021-index.htm"
+        }
+      ]
     },
     {
       "id": 10,
@@ -329,6 +486,26 @@
           "date": "2026-01-06",
           "headline": "Atlas robots headed to Hyundai and Google DeepMind in 2026",
           "url": "https://www.automate.org/robotics/industry-insights/boston-dynamics-to-begin-production-on-redesigned-atlas-humanoid-in-2026"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Boston Dynamics Unveils New Atlas Robot to Revolutionize Industry - Boston Dynamics",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWXlFMk1OUUNDVjU3RC1WZmJsMDUyY1VRNkRkdkhTNzh1SVlCdzhqOEZjbWV2a2ZleFBNSmd3OEFuRl9UODVfWjl6VkFOTzNWT3JoZFYycnRyOW5HdlhxZ2tuZlI4NEV5S0FjdTJ6a2JJdE96TTlkXzhzT1FNdmhudkZKM0ZsN1g3SFVzMV9wTUxONVZ3aGMxMUpyY3ZXbjg?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "US moves to curb China robots, opens door for Hyundai - The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VNm5hN043M2sxWTlsTG5VM0JvenJrWVEtdVZSUmxzMXlzUXVsUy03VmkyMzhNVjJLV3NHOGZjOXpjZ2dUd2t6eGxUZmc3YTJUazBlcV9vYw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Robot Dogs Are Protecting Data Centers. Operators Are Seeing Payoffs. - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRVZobVctdVlRTjN1eXNPSllpVEI2T1ltNjdMNndodUdWd2V4NjdGRW82ZDV2SGlsa25nc183M3owc2RaZ092eE5fUlVpY1g0eXJvOXN5MDBjSDRFZ1JjUmw1dTdtYmhSSlI4aUVYc0hITnVMM29wa2M2WkJLeWZreWhjZlA2Mm1OaVJuMG91cEhqWnR0Q3VVSmhvWkNFSEpXbFBXT3VwWjQtVmJfbU13MQ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://bostondynamics.com/news"
         }
       ]
     },
@@ -341,7 +518,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "CES 2026: Fourier Intelligence unveils full-size humanoid robot GR-3 - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUk1wVHd1cmRLNlhTZUxqb003WDFrdlRud2YtU29Kc1EzTU13bUNMTllPaWsxRlYtNE9yVGJVN0VDOUMxTUw0Zmp2b0NQamRLRWhsSWpha05rRFNoaDh2cTFFRFFLVk9xVGZYZmd1Ml8tNHY2b1l2SW9VRUw1NWNoVkhWaE1Fa2JJTS1BS09xNDNfUTdEdXZVMi1lWGxzSXA0RFA0NWVoVDE4Y1ZjNzEzaGRUX3Exc0hObkp6QkJ0aXdrNWxEUDdSMQ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "BASF and Shanghai Fourier Intelligence team up to develop new material solutions for next-generation humanoid robots - BASF",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92dWFZaWdpYWplYlRkU0FBc3V3eWdNb1M4dkR3alVZMENMSlZzcEZIWi1fUnVZVDUzcmFnSm5EWHh2eU5haGMxQ0FYaWFmVm9mR3BneTlhNzl5XzRPTnJnZmRyeEx6TnJzbXE0SmJZUWJpeU9Z?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Hope and Fourier Intelligence Collaborate to Incubate Embodied Intelligence Company, Secure Tens of Millions of Yuan in Angel Round Financing - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OWnBzR0tTQ0s4Wkppd3I3dllKbWdyUDJKaENtbC1tMmw5VDc5RFc5TVhBSC1KY29wem1QVm5hbU5nZ3JweFE2dkRTb1hPYV84Tkdj?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.fftai.com/news"
+        }
+      ]
     },
     {
       "id": 18,
@@ -352,7 +550,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Boyuan-Galbot Project Signs Agreement to Settle in Suzhou - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN08wSExHc1VQdk9ORm1oay1waVluYnZmeGJ3T0NOcS1qTjVpS2hPUGtVRnFDN3BoM211bV9uZ3VVb0ZhZmo2ckRkX0xjVWlwNTc4MWNyazhSUTZ0YVdJQXV1aWtuUWxRdG5fQU1xM3AtT3pwU1FPeDFrVHdRM0JzaG1mWkFyTmpRNTZhRm95WUlDNXZBRUFsdkx0OHZoV1JieFExREdnaWMzUUZiUmdaNkdXem9qelhLWFNZ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Galbot brings in $300M to scale mobile manipulator deployments - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkFsVy1va3JNcnJ3UTgzNm9ERTdqd3B0ZV9PTW5pRE4zVTFJdHZTN2p5YktoWVl6VkJKb2Rnb1Zna0ZCYXItZ0xKdGZOY2gxLWxabDFIb3pkOTJDN1VTLWlIUVdoczBFT08tMi0zTHl2WEhRUUNuUGVpVm1GYnZIa0FzMFBrMmdKbnJ1NjRqWDBiaERCbVV4Xw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "This Video of a Humanoid Robot Playing Tennis Is Extremely Impressive - futurism.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0MtVVdlRmRfRjdWMmZjNUlNTEFmeExwUUJLaEFpaEJGTEVmRjJtTE5ueTk2U3dLbzkzUFJjTUk0SFE5cVVMVXhIZXd0TjBiMXIyTUprZ0dwSFFoaFdlU1BHQ1oxZzJtYzJzRkwzd295bkFHWXcwQndWNUF2c2N4bDFR?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.galbot.com/news"
+        }
+      ]
     },
     {
       "id": 19,
@@ -363,7 +582,18 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Robot Startup Galaxea AI Raises $291 Million - Caixin Global",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVkJUZUhGQ3dWaVFxWUIzemVkYjZ3eFpsdHl1S09nUkRSdFhzdWJyclViSTJFUVAzVkNHb292SE1WWTVaRzdHc1gyRzQ2RmwtdWVWNi1Kb0t4alVuVFZmNE1hNXI2UVN4UHRIeW00TmwtczNDcEZ0ZUIyMXhJUHNHM1lmdUxGQ1pKTFpEU0VkZzdXdl9aNVJWWnNDMTJRdVU?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "China\u2019s Galaxea AI raises $290.4m in series B+ round - Tech in Asia",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnVnbGRwRkh2SnJ5RWlObEZ2dEhKV2t0OUlObmlIcFM1cHZhaXZ3anktNmR0SzdqS0RzQXd6ZE5iMmxPYW1sYktoZlVvYnJWTUEyb2NKa1dXNWhod09PbXBSNHg4OFA4ZGdDSG4weERVbUZQTlRmeEEwenF5VnBSVVF6WUF1dmh2?oc=5"
+        }
+      ]
     },
     {
       "id": 20,
@@ -374,7 +604,33 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVR6Q1JMT3ZEdXNOYjhkMjZsMUFVZTRwX0d2dkgtaV9zSHAtaGhMaDk5LWQ3aV9zVmc0NHVuSEd5Uk5ZRzNNY1Ixa29yekxYT2pzSDlHMHBnTVNXVllUNUxIeGlfSHlaRVNnSHJ5ZUFJc29GbW55TUljUlNwWDdhMjJoYmJ4X0lMX2hIeGVFdTJKN1Bad2lNYWxjR0Z3NWpnNkl3Y2d1UlV2TlNUM2c?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Investing in Mind Robotics - Andreessen Horowitz",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoQlhYekEyRUFUeS1wTTNxNjNMelJlQ0Mwczl2ZEZMb2lLd3QyaXgxX1o2WVpNVURyNFoxYjZ1VU5NMVEwWC1MUnhDTDF1LTcyLWticGdZQ1otWGJjYVhhVFc3WHg5SkNO?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Mind Robotics raises Series A to develop AI-driven industrial automation - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS25iNVpiOGtYS0pTVmFwZHNYVzg0ZDVZaVhUWUpPMjJvY2V6TmFZR1h4eHFBaDVBU2FIUXkzR3FORVRuNUVxcWpzMzY0NERmTS1nU29McDRxV0E0cUxoVDltUlF1UXdQYmNMTFU3aHlCTHdoQ2VQTlcxdmd5ZGRyLXVpZlRTRUNwVG1LZWVMU054aDBpY3V3eFNmUDJyN2xDQ3Fj?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://deepmind.google/discover/blog/"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.mindrobotics.com"
+        }
+      ]
     },
     {
       "id": 21,
@@ -385,7 +641,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3RwLTd0X0d1UWdMOWl3ZXY2bzFvRW50ckdZWU5hdjNQMzJLUWtOcjg4a1M0Mklkblk0TzUwYzZianowM1RySU5jUDBoZ0tzb0pVNU1nbU5xZUxRUy10YlN0RlhnZkd5enNWM2xwNXg4TExNUkhVWmZtWDB0WWJEX1l0WjVLeWx2dmw5YnR0RlBkeWlKT0wxZ3IwMEFGdWlHRHlLRTZRY3ZJbUw5TG5mVQ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Humanoid robot maker Neura Robotics reportedly raising $1.2B in funding - SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb2c0TjlKaEdkMWx2R09PaDJrSjJROHJuNnJkb1Z0U0hoM0tEcjBLSzdRa2trQ3kxUVh0a0duRF9UazdZTUpBdGZUY3hncUhNeUlRY0w5WEk2dW1EeEtGdmZmTFlOenB0TFpabnAyX0I5bmVpZmFLMEtvU0NZOU5DYkQteXYwWFJBVWJHNHhxM05lYlo4RjJfQmJPN0dpUlQ3SFkzc3JyTQ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Qualcomm\u2019s partnership with Neura Robotics is just the beginning - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJ4dXVCZHJIMm1velFsRW1wdDU2WHJDRTE5YzQ1NmFvT3dsZFA3eFhNSGljTEQyM3AzYzJXTW9WZFZBVzZuVVpFZTlEaEdvR1d2Qld0bVN2YXZDNU5CWlVndmZEakktU3lxb0VFcWZ6V2ZPekxONWNraDBYN3JPdno1cjQtWVZ1Zk9oakpqZmFiV0U0RHY4aGJsYzVOdEE?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://neura-robotics.com/news"
+        }
+      ]
     },
     {
       "id": 22,
@@ -396,7 +673,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Prosecutors Investigate Rainbow Robotics' Undisclosed Information Use - \uc870\uc120\uc77c\ubcf4",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0dkWVE4b05fcGxWeHNrQzUyc3RtLUxEel9uYXBlLURJZFhWVElPS1UtVlZBbE5jSHVsdkJwYXdYQmdpRFJ2dzhBS0lSMllnMzhac25WbW5LX0dqNTk2NVhNeFpjdkhxUTVncXlnMGdSU2RyT3FIRmtjMHpaQ0VxMFJETzY4OEww?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Prosecutors raid Rainbow Robotics over suspected insider trading - The Korea Times",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTFXUURwcGQ4V3BVR3lPSWRjTnZabkVtLXAxMGNiNHZYUWNONlk3bGgybTZtRHJvN2RzdzRLNkcwYXhTSmM4b1RhelpFb2ZYb1RhSVUwT09hcXRCRXM1Qjhrd3pSLVc1UzN2WkdNM3VFS25IQWkzOUpFVmZfazYwQVpobXJNR3VTVzcxYXJ0T3NKOHpqbGFtdWVyOTFwZzBLRWhrakFvN2hwWElxakZ3dXRwNjRNZXM5RTl4eE0tU3DSAcYBQVVfeXFMTkhIX2gwSmtHVmVGSG1TWWJla2pGdVpYY2lPRVU1WXY4bDRpV1BHWFFESWJrMFpiR3AyOENmelRtcUNPN3UzY1ppcFFFdExRV25HVUxvSTRfVkNRN29kZmthclItT0JuRlpWa0E3Z0RUNnZucG1Cbl9qSW9Vb1dyQktHcG4tRG4tcWtHbjJITExUWFA0MkFQNXQ1YTF3ZkZkVXF4Q1NXclJ1SWZrUFJCYVFzWFNwYzZHUUNlNHNnT2pvNXZVU0xR?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Rainbow Robotics unveils omnidirectional wheels, development kit for its dual-arm robot - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJkMDUzTEhwTUdjbDF2Y2NSM1FqNEpDWmtvS0hPTzlFd3VpSWlyUGthM0lrV3J5QmxRb08yVXJoZXl4MlVsMUJsV2RCaWZ3X3ljUlE4WDdzN1hFcWRqU1dnVEhmcGlBaEZwdkZHQS1kWlBNcEpiMnloOGR6bVVVQ3BCelBCZ29USlhfZ0haOTJad213ZEQ1TEl4VDdwZ1Zaa3dkVHFWYzdaSklWSnRJ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.rainbow-robotics.com/en_news"
+        }
+      ]
     },
     {
       "id": 23,
@@ -407,7 +705,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://rhoda.ai/news"
+        }
+      ]
     },
     {
       "id": 24,
@@ -418,7 +722,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "ROBOTERA: $1 Billion At Over $10 Billion Valuation Raised To Scale Industrial Deployment - Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlpQLTdsUllZQ2xKUE1iUkhKa1BlZENHRklSRXhWUlhGYU9Tc2dGRWdpVmdqTUc3OEwzd1lBdHRvY0U2UGItSG5PUDdHV1dzb0VYMVlTZm1KUmdBV0tkMExGbi1DamlzUmNfcmZLNmdxM0dDSk5BM3ctT0RtREVDbEl2eHJGaGUxVi1kcEtlaGR2c3lEcmdIMmYyemJ5c2tDYVBQZVZ0ZGLSAa4BQVVfeXFMT3F2MzZpVWJEQW1CSnpBSGVzc09ZU0h0WWdyNFlwSE1zdXRtSFBiOG4zRWlTSkxpdFNCdmdLdzNoOExvYjVzamY1Tm9xR1d6ZUswZFBEdHpldHI2S2k5dHkxSEdwMThCNHI1cmowOWVxR2wxNkdMNy1EZTBqTVlQenRacktPZ29FNDRVbVo5MGlfbVZQRzdxN2hudE1QVlVsSzdicWN6U1hSdnc1UGt3?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "ROBOTERA Raises RMB 1 Billion in Strategic Round, Valuation Exceeds RMB 10 Billion with Broad Industry Support - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU2tyVFNWTWZrZy1jdVZoa3FxbmRMLVdtZG90Wk40eXlxdmxxdWUwQUptVVRNWTVHekktMlEyNlFoNkQ0N0Q3Ym1DRU9QR0o1TGM0UTdXY2VERExsdTkzQ1JfUHUxR3U3dVBOTGY4X3RoWDBISlJlQlk2WHR3RjlfUnR1ampfWWlVRk9TSFBUMlhRMTFJU2lrcThLSkFnZ1JvdHlnTHBoNTBNNlAtQWFVeVZPWVp5TGNPTm1wd1BUOWFDT29TR1dlRi1mU24yeG9WZU90Umw1VHMta3NKMGpCaTdQaXpENXBRZ2RJemFVUTVjaVFxNjVrTw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "ROBOTERA, SF Technology forge a deep partnership - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlAzLU9ZVWpUd3hVa3RLcTBvUUlWMWxvTGtlNHdHUW1YUjhZYzFJVkM4aGc1OWFQTUtNVTlXbzJIYmtoU1pNLW1oekc1bzlXWXlka2lRVGdfLVNZeTR3WVZtaThaSVZnekRVX09sVWhqZHNLMnJHSkVpZHB1aHg2OXVhNm1vOHJieE9BNlZaWGY1RVNTUmpSY1drZ3VDSXZxOHJnREpwZjhFTmhaOVE?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://robotera.com/news"
+        }
+      ]
     },
     {
       "id": 25,
@@ -471,7 +796,13 @@
       "market_cap": "$1.5B (Private)",
       "revenue": "Pre-revenue",
       "employees": "80+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.skild.ai/blogs"
+        }
+      ]
     },
     {
       "id": 27,
@@ -482,7 +813,23 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Spirit AI secures fresh 1-billion-yuan round - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXRPTWVBRkljUlYzbVNWYnZhbHdpRThfTWllU3d5VEJPbnM5V1ZiclNENGtWakE1YUpOcDkzLWRMbnZHNUU1N2I4YkZRbVEtMjBWVXpZM3F0TFhOREZPNGF6cHMtTXJQNXRDNlVRdDF6dzFET3lPZmdEOWtrYjN3UnZvNnoxTXIxSm5icjJ0RzZJNm5mTDRCX3U3RDJxLTZLUG9vdEJCUEY?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Report: Spirit AI Raises $420M USD in Funding, Backed by Lei Jun and Jack Ma Funds - AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazdBalBLMXpCZko2Q21ienpqOGFQQ1lWZ0dUWE94bUsyTTFqUy1pY1dvTHRodTg1UjZuamlIQm5oTDlqZVJ4Q1lEWEplWXVKU0k1RTRxWG10dlpSSTh6UWpUNnRYc0ZKcGdJaTBmQm1PeEZnUHlaVlBYc3pQNkV5VVVScjdIdXU2b3pCR3ZMUUVXRlBqTjhMMU0xVVlMRWVkNkRBWW1KWlM2Z2FlLTN4MjhZTFN2dXoy?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Spirit AI Raises USD 420 Million in 30 Days, Backed by Lei Jun and Jack Ma Funds - Pandaily",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDV1eEZ6c1Q5RDRlN0hWZHBiMlpnWEpvQ3V4Q0lKa2JkOFFkcThhcVpRRXhOSDM1OFdGSFQyWEozSmh4OFFFY0FGM1dTU0RPV3FzWmZVQlQ0NE5hNVlTX1oxSm1FR01NM3FRa05rWHJhV21mMlczMXROYUJ4cUM3RUdiLU5zcFNra1dGVFVoTlVScTVUSHR2Mk1UZ0RNNDEyZWc?oc=5"
+        }
+      ]
     },
     {
       "id": 28,
@@ -523,6 +870,36 @@
           "date": "2026-04-06",
           "headline": "Tesla Stock: This Is Elon Musk's Latest Optimus 3 Production Timeline - Investor's Business Daily",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSkRKS0dEV1k5TTNuVTJiN3FSbzZUaWdVOEQ1d2RYVVI1dElXYkcycTFNSmRJT3U2WHhwdk5yOG96dFlyNC1KS3JObEtaSnM5cVlYNXNHUmh4VWZRZ1c5WXRDNGI0eUtEZXV2c193MzVyZG5UMzc4Sg?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Tesla Optimus Gains Human-Like Hands as Gen 3 Reveal Nears - Not a Tesla App",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTTdCeFl1NndTMlNlcFVlOTlVcEZXQzZhYjJHLWFrdjhLWlpTcUZ5Mnk3Z29EeUM1VTJLY0lDc3R2TENWSzlDMDhTWXNnakI3V2xDTmJSUVpMU3ZYX0JYd1haY1drNi1TOGJKdlRfWHNfa3dzV1llNzdfS0s5eUVLZlA5LUIxelRZdm90QjR5c0NrUXMzWDVpem03Ym53Zw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Apptronik raises $520 million to beat Chinese humanoids, Tesla Optimus to market - cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclM2NlYtR0FLdkw1NEdzMzNPaFE3RjN1ZW4xckw2YVhSelR0QXBwVGJyZDRXZjFvZThqV1lvZE1SWENOR2ZqMkxqemlOWFR1M2RwMDRieGJJZEtXVTc0cjZBQ0JUVkMwTERaYjRGQTFyMmUtQ1JoMTFsaG04QVRHNUtVcHU0ZXR0c29abXpJOWt0NXoxZ0Q1VFBDTEpFQTVkZjlLMDJMdG7SAa4BQVVfeXFMTjl2ZjVuT05tMmpNdHJGUTZQVkpoYjR2OTZWR2VMclNjeXUzQ01sOWpVaTYydDZ3b3VMRGpzVmN6LUs4MW5vcHRFYXMxdGxzcHZ0ZmIzY205YmNzaWlMNjhKN0hmQkxzSkdWbXEtZ1Y5a1dIejVyMkFaRm1abzF2YXI4QzZGaENNRkVRdDA0SHVzZXlMajVkQ2psNUx1VTM2N2huZGN3Z0lFSGtyckpn?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "The $700 Million Chinese Robot Startup That Wants To Take On Tesla - forbes.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFp0MFl5ak5Pamp3eVQ2UEdWclFBTkhPNmp4T1NmeVAwQWpwUXh6c29PZFVZTDR0eHlhdUNFMFFGZzVabHlFVzYtRzd1UFRnT3M3Q1RoVnFVRzJpUmwwaUxxVGpzeFJUVnRoVmt6N2U5WWd5X21DS1ZfX245clFQLWxMa1JsZllCMVBDbThRXzRES0ZCTlFCd0s2OExxZ3lENm9lZDBzZGk5Z0h0anFKR2ZR?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: 8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026022956/0001628280-26-022956-index.htm"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1318605/000010290926002479/0000102909-26-002479-index.htm"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: 10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/0001628280-26-003952-index.htm"
         }
       ]
     },
@@ -535,7 +912,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "UBTECH-backed UQI, Honda Trading team up to boost humanoid robot applications in auto supply chain - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU2JmSmdvbXNXRmJHNTA5ek1vcGtqYzA1Z3BSenJOYmstWlA3bW9nMGw1eExhT2xESlNZUmpaRE1ENnBMRVdvN2R5U2stS0ltRERxUjRET3RjYUhkRkNwY0JBOXJMZXo4a0ZoVVRhTVd5SjVzQ2ZrWWEzb3kyemdXbnVlUG82WDJEM0Q5b1RURUMxckZpY3BEaTVWSTlnOEdwTGRYR1NDb3h5QmctM3hoQVNMbm5vRlktS2NZM2tFQzZmcmg2c1Z5VGNVOVVXUjB6cWM1N21wT1g5amx5QlJjOEIwWnBvb2YtenVwbG51Yw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Ubtech, Honda Trading Partner to Advance Humanoid Robot, Unmanned Logistics Applications - Yicai Global",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekRNZFVqZXZYLU5sQlpEUVROUENQLWU1blFLbVRrTnVFbU5LOW5oTy1QN1Y4ZnR4VzFrb1lvVjhrMnpFaVg4ZlZES1ozRi04QkNXS0xCSjlNMlFGbUVEU203MXQyejgtZkJCOGJGY2pjcnIxdS14d1ZXMGdDWXNmeFVXTUVJS244N2VTRmJ2SXJ0TkprTmZoenpWVWRZV0hQNW5WQll4OXd3bkExTUFtOHlQb2VPUWk3MzFR?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "UBTech sees losses and margins improve as humanoid robots drive 40% of revenue - digitimes",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTA0QzEtWUM3UGxPU0dndjdnY3pUOWt6MFNmdFNxTERZYVMycXg5cXZEVG9PMjl3bGQ5d09Eb2kzQWR3UE9kNlh0bTE3U2tNekw0V3VVVFczNXdMQy05Umdic2YwYUpkSm5aZURKeko1Y21ZT2YtOUZ2UnJOWkFlWnBoVVE1NkxUeWNMMmhSenZoZTA?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.ubtrobot.com/en/news/"
+        }
+      ]
     },
     {
       "id": 30,
@@ -546,7 +944,28 @@
       "market_cap": "Private",
       "revenue": "Est. $30M+",
       "employees": "300+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Unitree Robotics CEO: Humanoid Robots Will Break Usain Bolt\u2019s 100m World Record This Year - QUASA Connect",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmxLeHJDNHhncmxoNkJNWUM2MDd1YzBFZ25lVDY0MVBqRjdSaFVQSk80VVVHNmJHUllaVXlHZkVsdHNZUnkzcW4zcHFQeFZNRHhpdkU5ZjRUUDFObWUzYk5TSlNmMWZaRmRSb1BzbWZFSW1mV290OW5sdS1ZMFJFelh1WHR5eTJIcWNVYTZ2VFNPS2ZYYUdHSjNWY0lzNTRnZ1ZoUG5kNE1iOXdpeHdteg?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "The world\u2019s largest humanoid robot maker is going public - Rest of World",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OZ3Q1Q09BWHRuNGxkdlNxTmJ3dFNrZ0U4ZGpRcWNxWUNyQ0FHcGpUS2pxZFBySkdpU3lDTk81STZXTW9QQ0VEeXJBbUZkc0lDTkQzNDRQZ3ZCUjVzZjFKbnUzbm5qc0p2VE5mLUJ0R3BUSGJHR2NDV0ZpNA?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Unitree plans Shanghai IPO, testing interest in humanoid robots - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGhjaHBtUU9QcWY3QWhQYnFzeTZfeVVoZjJwRHdKSEtqVVdrSzZ6RnZqb2F3cTRKY0FfZlpsSVJJWU1fM2wyREdZckVvMGczUlNoTkJZcUVPWkJaMHctaXFLSVRlWmdKVUJKUU00U0J2M2JOUkNGWHFhM3BQTHB2NUJhVmM4cWJSRnNpSU5VMmxvUGQ2WTJfYmVIQ2pTakdKbGxKV1hVN0dOc2lZSG1jT2VOdDU?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.unitree.com/news/"
+        }
+      ]
     },
     {
       "id": 31,
@@ -557,7 +976,38 @@
       "market_cap": "$1.8T",
       "revenue": "$590B",
       "employees": "1,500,000+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Industry Insights: How Amazon Leveraged Covariant's Technology to Accelerate Robot Development - A3 Association for Advancing Automation",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IY1cyRzBKLXotR2RTNDVkY1hFNmU1VUNNdmthZW9YMXM3T3F5anprelE0MlNucHZTakpqRzhhNHZ2eG1fX0RwRHRiMmgyc0xMVUFlTl9PcEtVaFF4bUZ2TENVUFpYZw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Billionaire Qatar Sheikh, Amazon Back Robotics Startup Neura - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3RwLTd0X0d1UWdMOWl3ZXY2bzFvRW50ckdZWU5hdjNQMzJLUWtOcjg4a1M0Mklkblk0TzUwYzZianowM1RySU5jUDBoZ0tzb0pVNU1nbU5xZUxRUy10YlN0RlhnZkd5enNWM2xwNXg4TExNUkhVWmZtWDB0WWJEX1l0WjVLeWx2dmw5YnR0RlBkeWlKT0wxZ3IwMEFGdWlHRHlLRTZRY3ZJbUw5TG5mVQ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Genesis AI Hires Former Amazon Leader Vivian Sun to Advance Commercialization - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2dYdEJHMG5uaXgybE05d0hHYnZEMXZqMFBJNUtRMGVyc2ZIMHhwbGlmSWxMN21zOTlxeFdtVEFHOEdpZjFweEV4SFRmTTVBZFQyVXJBVEFiQ0JucjNqeHJLZGl4SndvOTlSUjc0WFdpcXlzREFpcUFQTXBTTUs1d1M2ZWl4QlBtazNxV2NrWTlJc2hEVHpNbEx6b3pCZllya3ZlOVBwNDdVN05GQlV5LVdjVWhQZW1Nd042UzQycHAxWE0xZnVfd1YzY1Bwdw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1018724/000010290926000582/0000102909-26-000582-index.htm"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: CERT  - Certification by an exchange approving securities for listing",
+          "url": "https://www.sec.gov/Archives/edgar/data/1018724/000135445726000273/0001354457-26-000273-index.htm"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: 8-A12B  - Registration of securities [Section 12(b)]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926031805/0001104659-26-031805-index.htm"
+        }
+      ]
     },
     {
       "id": 32,
@@ -601,7 +1051,23 @@
       "market_cap": "$6B",
       "revenue": "$10B",
       "employees": "130,000+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: SCHEDULE 13G/A [Amend]  - Statement of Beneficial Ownership by Certain Investors",
+          "url": "https://www.sec.gov/Archives/edgar/data/1852244/000010290926001443/0000102909-26-001443-index.htm"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: 8-K  - Current report",
+          "url": "https://www.sec.gov/Archives/edgar/data/1852244/000110465926024439/0001104659-26-024439-index.htm"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "SEC Filing: 10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]",
+          "url": "https://www.sec.gov/Archives/edgar/data/1852244/000185224426000007/0001852244-26-000007-index.htm"
+        }
+      ]
     },
     {
       "id": 36,
@@ -612,7 +1078,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "US moves to curb China robots, opens door for Hyundai - The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VNm5hN043M2sxWTlsTG5VM0JvenJrWVEtdVZSUmxzMXlzUXVsUy03VmkyMzhNVjJLV3NHOGZjOXpjZ2dUd2t6eGxUZmc3YTJUazBlcV9vYw?oc=5"
+        }
+      ]
     },
     {
       "id": 37,
@@ -645,7 +1117,28 @@
       "market_cap": "N/A (Alphabet)",
       "revenue": "N/A",
       "employees": "2,000+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Google DeepMind Researchers Map Web Attacks Against AI Agents - SecurityWeek",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEcwTlkzTVBncWd1RUpEX3lwNFNIVU9PaGcwMXowQkdSZWlCemsyOGJQNnJtLXFhankxaHBya2hJQWh5WmkxNzBGdXpwc3FWVUpOc0ZzcW9rcnF4dVd5UFliVU5fREVrZ0hZYUsxZXNRNE9EVlc3M2ItaWdqQm13VUNNUkNrdDA4andaYlQyRDRvcmxYVGfSAZsBQVVfeXFMT2RkUFZ4dXBkc1ZUdlIxNmVQTzI0OElxRGdnYml1QXVXcFRWVldwUkdxbFpuNVdXNm9EMnJxOHZKR0VqNzhodVVTbFFtT0JIeGN1dk40YWpjNDR0Y3RNRkJzaktCWDh4ZXZ5T0lIVHhzYm50SUJyeVRqZUI4SHM2U1ZOSl9HY3NadmpPU0JYN2tNeTlfMHZYOC1uNEE?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Agile Robots and Google DeepMind Partner on AI-Driven Industrial Robotics - ARC Advisory",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXp1c01WU1k3S1h1WnQ0UndvNFBFdmtoUV80Vm1zbHQ1V1hxRTdlQTRuMG1TSmVnRkU3OVlPVm9NNVRNajhwbFRBcVJMY0lWb1dyN3NDVG52clBGUkFKY3VFb1JJTFJNS05hYnFFckJDZldodlBVdDZmTzdBbHpiMURoQ05xTGNLMFRSQzN0YzdJVjVZT0NtUHFR?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Malicious web content can be used to deceive and exploit AI agents, Google DeepMind says - Cybernews",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0xwN19vVzFxYzAwYVN0ck5ZcTFVM0pZZU9KRnU3bE5JN1pVMTIzbmdvYXFwSE5NTTI3X0d0SkEyUXZFOXZIb094MzRYTHNzdkNtNWNrcVhXX256ZVYzNDZXS0p5eVpLQnp2VlRNOHNVRnVmQnVqalZrazIxanpnY0ZDN3E0bnky?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://deepmind.google/discover/blog/"
+        }
+      ]
     },
     {
       "id": 40,
@@ -656,7 +1149,13 @@
       "market_cap": "$3.1T",
       "revenue": "$230B",
       "employees": "220,000+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://blogs.microsoft.com/ai/"
+        }
+      ]
     },
     {
       "id": 41,
@@ -667,7 +1166,33 @@
       "market_cap": "$100B+ (Private)",
       "revenue": "$3B+",
       "employees": "1,200+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Meet Figure AI - USD39 Billion Robot Startup Backed By Bezos, Nvidia And OpenAI - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWxiR3hzam00NUhjMmxoSDM2UENnZkROOFd3X1pUTXlETTBuMDZvajcwYlBJWWVTS3pJdW9pVUU4T2ZtZWt3Z0cxcTlUMkdFMkotQVBtTDl3eFpmcFYzZzhMRDFMSXZIZld4WEJQSkdBMmg1R05fZEJta2RMLUFNWHBWRmg4cDFiMkw1SUFkbm5Bd1RCcnREZ194Q3hEUzFMZjlEeHhFeVN2YU1SMGVfeXNn?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "OpenAI's Robotics Division Loses Key Leader Caitlin Kalinowski Over Disagreement on Military Deployment Terms - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb0tIZFUtMGthY2NydE5JWWtUMDRsV2hDUGw5QU5wOVE2UElWZ2ZaR2ROR3pYOF9fWGhVbTBUR3JkTm5lYWYwd1lwVGVlaS1JMl9WUDhNMnVzem42Y0JVdHNWZXBiSGF1SE1iMjhsWHpybUwtQUltRHE2Nnl4dDZGdGRYZHJjXy1PR1YyWWVwam81bVgyRDctN1hoN2laYmVHRmUzWl9UUzJWLW9ObUVKTEZjeXl1Wmw5bWRzTmlhN0lFQUVvUU0zamJpanJDVVl4b1NzSHNRa3I?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "OpenAI robotics head Caitlin Kalinowski quits, raises concerns over AI use in Pentagon systems - MSN",
+          "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPWGJ1NjMxU2ktYVlpc0F4MTB0RVFzVzhIbXhoY1RuSThoZHI3a1JSUzZvcjIwaFJpODA2VEVSSk5Qd09WMHAwTy1DSzZwc29FUUZRZUtTcElvckZWTWtQNC1lY0sxd2RRWTVKZ1lqUWhqX25jeGU4X3BnQm9kMmNJQUZvYXVkcXlXQXVzRUdFZzh3YnZyVnNWbzFES2lzSlN4TDZlRVBnblVxdEU2UlctZmpHNkFGMDJoX1RwU1I4NTJoU29VdDBLN3VEb2xNYWY1WDJyQVRhZ2E4NXNzY0M1dGdxeGt1cG1sbjlZRFNhYVFMSGpNUkFOb19mY2FjRmtJT256NGx6TFNvc2lkbzFEblBnQkZ4VEtmUXBNVXEtaHlJMlhybTlMa2ZfLVdqTS1LVFh5TVV2MWxsUlFjX2RVWnhSd2hsWHBsN01RdE15RnJHdHNWd0FTa3FqUnd0UmNqNVpYYUY2NG02QWdwWkJaN1dqSGZiUGlpR1FlR0F1U1ZaQ05xaTdvY1VfZ1NnemZ1MGlTX0lZY3hkUzFVUGc?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Google's Gemini Drop, Anthropic's Claude Mythos Leak, And OpenAI's Robotics Pivot | AI Convo Cast [b1195b] - Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0dFRuZ0tFaWV0eUZWVFhlYUhwcmZLbU5kQXVrR3VkMEoybHVPS2RJOGp1bVVwUDFvNXpyb1pVRHdLLWRyR1Y4RENrQ251NzJOb1NLVVE2RjhGM2pUczFrTEVNLTJJTVNiMUZ0Q21XMlM?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://openai.com/news"
+        }
+      ]
     },
     {
       "id": 42,
@@ -678,7 +1203,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Qualcomm\u2019s partnership with Neura Robotics is just the beginning - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJ4dXVCZHJIMm1velFsRW1wdDU2WHJDRTE5YzQ1NmFvT3dsZFA3eFhNSGljTEQyM3AzYzJXTW9WZFZBVzZuVVpFZTlEaEdvR1d2Qld0bVN2YXZDNU5CWlVndmZEakktU3lxb0VFcWZ6V2ZPekxONWNraDBYN3JPdno1cjQtWVZ1Zk9oakpqZmFiV0U0RHY4aGJsYzVOdEE?oc=5"
+        }
+      ]
     },
     {
       "id": 43,
@@ -689,7 +1220,48 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "CES 2026: Fourier Intelligence unveils full-size humanoid robot GR-3 - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUk1wVHd1cmRLNlhTZUxqb003WDFrdlRud2YtU29Kc1EzTU13bUNMTllPaWsxRlYtNE9yVGJVN0VDOUMxTUw0Zmp2b0NQamRLRWhsSWpha05rRFNoaDh2cTFFRFFLVk9xVGZYZmd1Ml8tNHY2b1l2SW9VRUw1NWNoVkhWaE1Fa2JJTS1BS09xNDNfUTdEdXZVMi1lWGxzSXA0RFA0NWVoVDE4Y1ZjNzEzaGRUX3Exc0hObkp6QkJ0aXdrNWxEUDdSMQ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "BASF and Shanghai Fourier Intelligence team up to develop new material solutions for next-generation humanoid robots - BASF",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92dWFZaWdpYWplYlRkU0FBc3V3eWdNb1M4dkR3alVZMENMSlZzcEZIWi1fUnVZVDUzcmFnSm5EWHh2eU5haGMxQ0FYaWFmVm9mR3BneTlhNzl5XzRPTnJnZmRyeEx6TnJzbXE0SmJZUWJpeU9Z?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Hope and Fourier Intelligence Collaborate to Incubate Embodied Intelligence Company, Secure Tens of Millions of Yuan in Angel Round Financing - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OWnBzR0tTQ0s4Wkppd3I3dllKbWdyUDJKaENtbC1tMmw5VDc5RFc5TVhBSC1KY29wem1QVm5hbU5nZ3JweFE2dkRTb1hPYV84Tkdj?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Where Robotics Is Headed: AI, Humanoids and the Rise of Physical Intelligence - Assembly Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "A peek inside Physical Intelligence, the startup building Silicon Valley's buzziest robot brains - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Physical Intelligence raises $600M to advance robot foundation models - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUV0SmFnSHZIUVV1cmdoVENYUF93aUZsNnY0bUhsOXowam9TRlR5eDlyR0ZVNU9ZdFNiX1FsVUxmdk1hNHlfYVRUSk9YZmRzVTY4endUZUpUTy14dUtHdFdydHJGSXJ0cFI4aEJHaEp4MHlxbktlc2ZNNFZxcmpINVBJNkFrOVE2Tzg5ZGtCRjJwdnYtdGoyempLaGtBdw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.pi.website/blog"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://www.fftai.com/news"
+        }
+      ]
     },
     {
       "id": 44,
@@ -788,7 +1360,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Investing in Mind Robotics - Andreessen Horowitz",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoQlhYekEyRUFUeS1wTTNxNjNMelJlQ0Mwczl2ZEZMb2lLd3QyaXgxX1o2WVpNVURyNFoxYjZ1VU5NMVEwWC1MUnhDTDF1LTcyLWticGdZQ1otWGJjYVhhVFc3WHg5SkNO?oc=5"
+        }
+      ]
     },
     {
       "id": 53,
@@ -843,7 +1421,23 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Genesis AI Hires Former Amazon Leader Vivian Sun to Advance Commercialization - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2dYdEJHMG5uaXgybE05d0hHYnZEMXZqMFBJNUtRMGVyc2ZIMHhwbGlmSWxMN21zOTlxeFdtVEFHOEdpZjFweEV4SFRmTTVBZFQyVXJBVEFiQ0JucjNqeHJLZGl4SndvOTlSUjc0WFdpcXlzREFpcUFQTXBTTUs1d1M2ZWl4QlBtazNxV2NrWTlJc2hEVHpNbEx6b3pCZllya3ZlOVBwNDdVN05GQlV5LVdjVWhQZW1Nd042UzQycHAxWE0xZnVfd1YzY1Bwdw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSVVJSTFGVmFWZ3dvSkd0QjhOSDZNclMwdW94SU5CMTZGcXU3R0gxSVBiaTlCbEp3cmxqUVFadWRJOVFLVEF1MHpRTVFvVnBweWdCcHNwbFc2OUdWUnFkN0E?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "This NEW AI System SIMULATES REALITY (Genesis A.I Just Changed EVERYTHING!) [cc1dd1] - Fathom Journal",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xdlpraVBMc0Z3bjdrQnhOMGR0ZWdXV2o5RzkzVDFtVkZ2N0djMVA2U1VLdzdzeHpFTmptak5FcnFQdTJsRzR0UGpkczJVS0FiUFFSOFJmVDFUX0ZxN1d0X3lEZGhzQ1NHcGNQT3NzV04?oc=5"
+        }
+      ]
     },
     {
       "id": 58,
@@ -1107,7 +1701,13 @@
       "market_cap": "$2B+ (Private)",
       "revenue": "Est. $50M+",
       "employees": "800+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Agile Robots and Google DeepMind Partner on AI-Driven Industrial Robotics - ARC Advisory",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMXp1c01WU1k3S1h1WnQ0UndvNFBFdmtoUV80Vm1zbHQ1V1hxRTdlQTRuMG1TSmVnRkU3OVlPVm9NNVRNajhwbFRBcVJMY0lWb1dyN3NDVG52clBGUkFKY3VFb1JJTFJNS05hYnFFckJDZldodlBVdDZmTzdBbHpiMURoQ05xTGNLMFRSQzN0YzdJVjVZT0NtUHFR?oc=5"
+        }
+      ]
     },
     {
       "id": 82,
@@ -1459,7 +2059,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "ROBOTERA, SF Technology forge a deep partnership - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlAzLU9ZVWpUd3hVa3RLcTBvUUlWMWxvTGtlNHdHUW1YUjhZYzFJVkM4aGc1OWFQTUtNVTlXbzJIYmtoU1pNLW1oekc1bzlXWXlka2lRVGdfLVNZeTR3WVZtaThaSVZnekRVX09sVWhqZHNLMnJHSkVpZHB1aHg2OXVhNm1vOHJieE9BNlZaWGY1RVNTUmpSY1drZ3VDSXZxOHJnREpwZjhFTmhaOVE?oc=5"
+        }
+      ]
     },
     {
       "id": 114,
@@ -1470,7 +2076,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "China\u2019s Astribot, Seer Ally to Put Over 1,000 Humanoid Robots Into Industrial Use - Yicai Global",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEg4XzMtcHVsUDVlVVVfdlF0NFo2ZnV6OThyZzVObnhUdkJjOElIS2hqdWh4N3EzX2hoZVk4T0tVQlotSGsxUXdDcEM1MXhFYk11VjlkMlgwVDlBVW52OTJQU0h6UkxZQjZoYlFwMzBfNnhIWTBqNnhfTnRNOERxQUdad01jMVlzODZ0eDZxVGVGZ3ZpbFQxMGI2blRpQU1IMUU5TVAxRzYtUldRcTRlZA?oc=5"
+        }
+      ]
     },
     {
       "id": 115,
@@ -1481,7 +2093,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "China\u2019s Astribot, Seer Ally to Put Over 1,000 Humanoid Robots Into Industrial Use - Yicai Global",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEg4XzMtcHVsUDVlVVVfdlF0NFo2ZnV6OThyZzVObnhUdkJjOElIS2hqdWh4N3EzX2hoZVk4T0tVQlotSGsxUXdDcEM1MXhFYk11VjlkMlgwVDlBVW52OTJQU0h6UkxZQjZoYlFwMzBfNnhIWTBqNnhfTnRNOERxQUdad01jMVlzODZ0eDZxVGVGZ3ZpbFQxMGI2blRpQU1IMUU5TVAxRzYtUldRcTRlZA?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Humanoid robot Astribot S1 will cook and cook for you - Computer News - Ra\u010dunalni\u0161ke novice",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb1hvd19tNFlkdlFRY1RjQ2I4SWk3VlRzNzlreGh3OVFGMFQzc3N5UHlsQVF1SVFxRHhwMVAyTWtmMTkwM2paZ09hZ2JFTHRKSDZISGhRSjlYalJlZlVEdE9kMDU5Y2RfbGxjclJTaldpeEhNTkR0U0lQaVRzRDNOMHp6MzFTRzdRWDlIVjhJdTFBbHZwTS0tcUdseXVmak0?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Astribot S1 Shows off Impressive Capabilities in New Video - Maginative",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWlKMVRZWlFRTV9SYVNhSDlyVkM4TExWaGJsQmpoakdJZUxsSVo0UnJza29qODFOX2JGeE5KS2h5TF9RZjB0aTVjTm9xTmd5czBuX2x4WEh3ajdGUVJNZVpwX0pJeHdMZkVveUFlWThtUUlrc3ZNLTYwTkxkdHNUbHV6dWR1UEpkUm9vR0FwNUp5b2p5d3hDYkF3?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://astribot.com/news"
+        }
+      ]
     },
     {
       "id": 116,
@@ -1492,7 +2125,23 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Seeds | Strategic Investment by A-Share Listed Company! Kepler Robot Secures Over 100 Million Yuan Financing - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOOUV3ZTNsQWw3X1RpS19PZUNoYnc3WjlkWU5IS0RHcEg4d2Ixc05Ick15dGxXZEdMdVFCQVI0T2wxUlVRdTJqdjkwVXpZdTU1b0xxYzJWeUdqOVV4Mk04SnpHNkdjZVkzMlpaVzFJNTBsZkdFSlowSDlOVGdQbm1YdFpQYXVmV09qVl9sZmlaMHFiZVFQSnNaVU9Cc2xUOUtKX0tVbnRNd2FnbWZJTFRxUGFIRWZuWl9fN3lFelUxbmNUVS1QRURERVBjQlJwUzVGeTE3S1FxbUhoRG1fcVF0c2xhMzJqWWZna0haOVYtbjVjckluWllUaFlZYw?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Kepler Robotics Unveils K2 \"Bumblebee\" at IROS 2025, Building a Global Developer Ecosystem Through an Open Robotics Platform - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWUc0ZVVjWlpWWFVRNVhlVkNtejF6aUFmQUVXRzE5V09QRzhkTmFHWFpQdUFGek9vMW9iTXlvOGlyejdRYzFrOFpEdjFaaXRvSWJJNlNpdmJGSVFOdHhqUTI3dWlhMThoQVNfbUdneUtvaUd3ZVdJTDZyV1F5NkRyV2QtZzY2cWFWcld4VEQ3czA4U0pyWk4tazcwWjN0MVBwUGlDQlRPclQzTXRZWml0T3FCRHpIWXh0S3BTMFkxWVRqcmdMbEpLSEdlOWRiY3I2a1A3MkJTbWViT3Z6WEk2SFJ5SjFRTU9sZkkyM09EYXQ1czEtREgtV3U1eEd5NDgzZVlnc1BMUXo?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Kepler Robotics showcases K2 \u2018Bumblebee\u2019 humanoid at ICRA 2025 - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWJsSkMzSDc3eWpILXFKZzRmZEFoekZyVk12Y0hEVTNEUWk5ekVHYlU1a180U1JGcUMtMnVLS0IzZDk0T2dhQVlNMEtXWFdfb1MwNGJ1eGZTNnI2SmV5T0cxUXhQMkJ2SWRieUpTbU5Ua1VpZ3NiR3VKdjF3Y2Vxd3pWVkF5LTA?oc=5"
+        }
+      ]
     },
     {
       "id": 117,
@@ -1503,7 +2152,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Genesis AI launches with $105M seed funding from Eclipse, Khosla to build AI models for robots - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmFTUmdEa1o1bllteFdWaE5fUVZJMFhObGlHblRpdXNKUE1OWVNsYVlYaEFzbTVqN3pfTVRBVXVMalo2U05MLW5peEQxOUllbnpGSE1vOVp2eWluY2N1Z3MwLXlaMWYyRWpJMndQSVVJSTFGVmFWZ3dvSkd0QjhOSDZNclMwdW94SU5CMTZGcXU3R0gxSVBiaTlCbEp3cmxqUVFadWRJOVFLVEF1MHpRTVFvVnBweWdCcHNwbFc2OUdWUnFkN0E?oc=5"
+        }
+      ]
     },
     {
       "id": 118,
@@ -1547,7 +2202,23 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Mobileye To Acquire Mentee Robotics to Accelerate Physical AI Leadership - Mobileye",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHc1Rm81M29UbXRueWtIaHRBY2lkOTFTeEg4aEpFemhPQzJ6dFlCOEZnWHNKbnJyVGpZMURaZU5fZnNVSkRVYUhzcnoyWGtTNHBmQTJ0Vm1FT3p5aktfbjhOY3c0bkV1NENmV3N2dU9pWWhaekhUT3UtLUJGemtpSDYtdTF6MVdMY0dBWDdmOHBXVkdfcEVCcU96dnd1ZUJucWFBbWlR?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Mobileye acquires humanoid robot startup Mentee Robotics for $900M - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVR5NUNwa0RKSmM2N0NhVWNhQVNKVGJoaXBEb2lZR2wzX2JKTjlCUndPSFd5V1VyUWNhNmhhb1hDNzJWRUNDaFNhUkl6R05VcHE2dGxpWGI2RFdPaDV6eW4xcXFQUVpIZU8xaHJLcW5BSG9rU0FNek1EYjdTZk5rYWd5NGQ5Y082Zm41LWZNWFdJcjVkVFBWRmR2dDhaNkNGc3c?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Mobileye's Mentee Robotics acquisition seen by analysts as broadening scope of company - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNVGNuNTBKSXVmN0gtSFJaNG9hTGxxZHBWZkJfVGRUV0ltazRtYkltLWQ3eVc5YTlYemF3NUVzZWxJSzVqYXJvVG5LejNoQmU5dnBZdlRya0NtU1g2SVJOaHpoNXo1QTRqaWk2bUQ1Z0kwTG9uVE1KWlZKdTdMWVRRZ3k4ZlViQXZWRXVTWXQ1ajgzVWFaTmprLXpBRVVhWVZmMWRqdjBVN0N4LUJ1S1N6THlOSlN5ZmdjNlUwYU82TEpQeVJ3aWluRjl1a0JLSUFpWmNWSDl4V0FlUU5iejRyVHllV3kyU2Y1bE5Sek9DbmxPWHN3ZW1xN1VmYjFmTjN2RFBmSXYtSGpmbU4yVHM5VzV2UEZnaGg2YzAybnBQQ1BVdEFVVWxGeG9fRWxBMEhXZzBGbE05S2M0VnAzdnd1VGxXRFIyNkJldE96TjFtU2tKbVF6Y3VFeXpCV0stSWV5eEVpVjUzT3p4U2k2cHc?oc=5"
+        }
+      ]
     },
     {
       "id": 122,
@@ -1558,7 +2229,28 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Generalist introduces GEN-1 general-purpose model for physical AI - The Robot Report",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX19iZlJfQm1mLVVSSzZUNG92Y19OVWNJZVR3SjBUbjdiTHdYcUhyNUc3OXdRNmFQajNRSWkyOFdWdW1jSHJDUHB3eEdrdF9wUHNiWVB2YWRpbm5PME5sZVZpdnBMVWdYTFRxaDFaZ1pSUTFpRFRmOGM3S2tMRU0tUVlPRmwtZmpDOHlBMGMtOEVldURkZTU4NVJvRDV0QQ?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Generalist Is Betting Its Robot-Training Gloves Will Usher In Robotics\u2019 ChatGPT Moment - forbes.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb3A3RXgzUVAwZTZqanBwcUVhOWdZTEZnall4MWY4V1NvTVpSWkt5SmtncERTMW10aHpMN01mcm9Bci1oQWNERTVnVFpiYVZkMkJ2VzVzaGliRkwwWWtGVk1Bai1vWUdnUjNvZmU1bktPNldXbDV4ZlNuc1d3MGM4bC1MMV96NXFXa1lJanVWSUV0eVhsRFNwRUFHNERpelExYlBYdmJldEhVTm43Zk00Qm0tLXZLY0NlOG1tU3NackMxQXd2R1F2MF95VlI4SmJR?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "Generalist Releases GEN-1 Robotic Foundation Model - Let's Data Science",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTNhUldSUWl0QzNkeVotTVZLejJsY0c1NUZ1QWdleXZFajdIUEUtemc4WjRQMm8tQTcwY3NKZFIxYUhyS0tsNHJnQ2R0aUhuMUZiM2lLNWNiZkdacEJSdWRjaEJ0dFdPNzU3UnNLemhBck1NMHVrZndMWHF0NWZyWkhqcWhPS1FLR20xMWY0SldOYjFvaG5J?oc=5"
+        },
+        {
+          "date": "2026-04-08",
+          "headline": "New Web Update Published",
+          "url": "https://generalistai.com/blog"
+        }
+      ]
     },
     {
       "id": 123,
@@ -1569,7 +2261,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "New Hope and Fourier Intelligence Collaborate to Incubate Embodied Intelligence Company, Secure Tens of Millions of Yuan in Angel Round Financing - 36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OWnBzR0tTQ0s4Wkppd3I3dllKbWdyUDJKaENtbC1tMmw5VDc5RFc5TVhBSC1KY29wem1QVm5hbU5nZ3JweFE2dkRTb1hPYV84Tkdj?oc=5"
+        }
+      ]
     },
     {
       "id": 124,
@@ -1580,7 +2278,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "BASF and Shanghai Fourier Intelligence team up to develop new material solutions for next-generation humanoid robots - BASF",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92dWFZaWdpYWplYlRkU0FBc3V3eWdNb1M4dkR3alVZMENMSlZzcEZIWi1fUnVZVDUzcmFnSm5EWHh2eU5haGMxQ0FYaWFmVm9mR3BneTlhNzl5XzRPTnJnZmRyeEx6TnJzbXE0SmJZUWJpeU9Z?oc=5"
+        }
+      ]
     },
     {
       "id": 125,
@@ -1591,7 +2295,13 @@
       "market_cap": null,
       "revenue": null,
       "employees": null,
-      "news": []
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVR6Q1JMT3ZEdXNOYjhkMjZsMUFVZTRwX0d2dkgtaV9zSHAtaGhMaDk5LWQ3aV9zVmc0NHVuSEd5Uk5ZRzNNY1Ixa29yekxYT2pzSDlHMHBnTVNXVllUNUxIeGlfSHlaRVNnSHJ5ZUFJc29GbW55TUljUlNwWDdhMjJoYmJ4X0lMX2hIeGVFdTJKN1Bad2lNYWxjR0Z3NWpnNkl3Y2d1UlV2TlNUM2c?oc=5"
+        }
+      ]
     },
     {
       "id": 126,

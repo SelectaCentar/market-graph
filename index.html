@@ -3463,8 +3463,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        41,
-        43
+        43,
+        41
       ]
     },
     {
@@ -3496,8 +3496,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        128,
-        3
+        3,
+        128
       ]
     },
     {
@@ -3521,9 +3521,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        28,
+        16,
         129,
-        16
+        28
       ]
     },
     {
@@ -3531,8 +3531,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        129,
-        16
+        16,
+        129
       ]
     },
     {
@@ -3734,6 +3734,22 @@
             .onLinkClick(link => {
                 highlightNodes.clear();
                 highlightLinks.clear();
+                
+                // Clear any active node info UI before switching context
+                document.getElementById('selected-node-info').innerHTML = `
+                    <div id="selected-name"></div>
+                    <div id="selected-type"></div>
+                    <div id="selected-desc" style="font-size: 13px; color: #bbb; margin-bottom: 12px; font-style: italic;"></div>
+                    <div id="selected-stats" style="display:none; font-size: 12px; color: #ddd; margin-bottom: 12px; background: rgba(0,0,0,0.3); padding: 8px; border-radius: 4px;">
+                        <div id="stat-website" style="margin-bottom: 4px;"></div>
+                        <div id="stat-employees" style="margin-bottom: 4px;"></div>
+                        <div id="stat-revenue" style="margin-bottom: 4px;"></div>
+                        <div id="stat-marketcap"></div>
+                    </div>
+                    <strong style="font-size:12px; color:#fff; display:block; margin-bottom:6px; border-top: 1px solid #444; padding-top: 10px;">🔗 Ecosystem Connections</strong>
+                    <div id="selected-connections"></div>
+                `;
+
                 if (link) {
                     highlightLinks.add(link);
                     const s = typeof link.source === 'object' ? link.source : graphData.nodes.find(n => n.id === link.source);
@@ -3741,6 +3757,14 @@
                     highlightNodes.add(s);
                     highlightNodes.add(t);
                     updatePanelEdge(link, s, t);
+                    
+                    Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
+                    Graph.d3Force('link').distance(l => highlightLinks.has(l) ? 40 : 150);
+                    Graph.d3ReheatSimulation();
+                    
+                    setTimeout(() => {
+                        Graph.zoomToFit(1000, 150, n => highlightNodes.has(n));
+                    }, 400);
                     
                     Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
                     Graph.d3Force('link').distance(l => highlightLinks.has(l) ? 40 : 150);
@@ -4099,7 +4123,7 @@
                         }).filter(n => n);
                         
                         if (orgNames.length > 0) {
-                            orgTags = `<div style="margin-top: 4px; margin-bottom: 6px;">` + orgNames.map(name => `<span style="font-size: 10px; background: rgba(102, 252, 241, 0.15); border: 1px solid rgba(102, 252, 241, 0.3); padding: 2px 6px; border-radius: 4px; margin-right: 4px; color: #66fcf1; font-weight: bold;">${name}</span>`).join('') + `</div>`;
+                            orgTags = `<div style="margin-top: 4px; margin-bottom: 6px;">` + orgNames.map(name => `<span class="news-org-tag" style="font-size: 10px; background: rgba(102, 252, 241, 0.15); border: 1px solid rgba(102, 252, 241, 0.3); padding: 2px 6px; border-radius: 4px; margin-right: 4px; color: #66fcf1; font-weight: bold; cursor: pointer; display: inline-block;" data-org="${name}">${name}</span>`).join('') + `</div>`;
                         }
                     }
 
@@ -4180,6 +4204,20 @@
                     };
                     
                     newsList.appendChild(item);
+                });
+                
+                // Add click listeners to all org tags so they jump the graph
+                document.querySelectorAll('.news-org-tag').forEach(tag => {
+                    tag.onclick = (e) => {
+                        e.stopPropagation(); // prevent card expansion
+                        const orgName = e.target.getAttribute('data-org');
+                        const node = graphData.nodes.find(n => n.name === orgName);
+                        if (node) {
+                            // Update search box input so they know where they are
+                            document.getElementById('node-search').value = orgName;
+                            triggerNodeClick(node);
+                        }
+                    };
                 });
             } else {
                 newsList.innerHTML = '<span style="color:#888; font-size:12px;">No recent news available.</span>';
@@ -4263,6 +4301,21 @@
         function updatePanel(node) {
             const panel = document.getElementById('selected-node-info');
             if (!node) return;
+            
+            // Re-establish base structure in case we arrived here from an Edge Click view
+            panel.innerHTML = `
+                <div id="selected-name"></div>
+                <div id="selected-type"></div>
+                <div id="selected-desc" style="font-size: 13px; color: #bbb; margin-bottom: 12px; font-style: italic;"></div>
+                <div id="selected-stats" style="display:none; font-size: 12px; color: #ddd; margin-bottom: 12px; background: rgba(0,0,0,0.3); padding: 8px; border-radius: 4px;">
+                    <div id="stat-website" style="margin-bottom: 4px;"></div>
+                    <div id="stat-employees" style="margin-bottom: 4px;"></div>
+                    <div id="stat-revenue" style="margin-bottom: 4px;"></div>
+                    <div id="stat-marketcap"></div>
+                </div>
+                <strong style="font-size:12px; color:#fff; display:block; margin-bottom:6px; border-top: 1px solid #444; padding-top: 10px;">🔗 Ecosystem Connections</strong>
+                <div id="selected-connections"></div>
+            `;
             
             panel.style.display = 'block';
             document.getElementById('selected-name').innerText = node.name;

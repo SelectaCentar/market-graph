@@ -65,6 +65,12 @@
         <div class="scrollable-content">
             <div id="legend"></div>
 
+            <!-- Search Feature -->
+            <div style="margin-top: 15px; margin-bottom: 5px; position: relative;">
+                <input type="text" id="node-search" placeholder="Search organizations..." style="width: 100%; box-sizing: border-box; padding: 8px 10px; background: rgba(0,0,0,0.3); border: 1px solid #444; border-radius: 4px; color: #fff; font-size: 13px; outline: none; transition: border-color 0.2s;" onkeyup="handleSearch(event)">
+                <div id="search-results" style="display: none; position: absolute; top: 34px; left: 0; width: 100%; background: #1f2833; border: 1px solid #45a29e; border-top: none; border-radius: 0 0 4px 4px; max-height: 150px; overflow-y: auto; z-index: 100;"></div>
+            </div>
+
             <div style="margin-top: 20px; border-top: 1px solid #444; padding-top: 15px;">
                 <strong style="font-size: 14px; margin-bottom: 5px; display: block; color: #fff;">Analysis Modes</strong>
                 <button id="btn-mode-all" class="btn active" onclick="setMode('all')">🌐 Full Ecosystem Overview</button>
@@ -3408,8 +3414,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        41,
-        43
+        43,
+        41
       ]
     },
     {
@@ -3843,6 +3849,93 @@
         }
 
         
+        // --- SEARCH FUNCTIONALITY ---
+        function handleSearch(event) {
+            const query = event.target.value.toLowerCase().trim();
+            const resultsBox = document.getElementById('search-results');
+            
+            if (query.length < 2) {
+                resultsBox.style.display = 'none';
+                return;
+            }
+
+            const matches = graphData.nodes.filter(n => n.name.toLowerCase().includes(query) || (n.description && n.description.toLowerCase().includes(query)));
+            
+            if (matches.length > 0) {
+                resultsBox.innerHTML = '';
+                matches.slice(0, 5).forEach(node => { // Limit to top 5 results
+                    const div = document.createElement('div');
+                    div.style.cssText = 'padding: 8px 10px; font-size: 12px; cursor: pointer; border-bottom: 1px solid #333; color: #c5c6c7;';
+                    div.innerHTML = `<strong style="color: ${colors[node.type] || '#fff'};">${node.name}</strong> <span style="font-size: 10px; color: #888;">(${node.type})</span>`;
+                    
+                    div.onmouseenter = () => { div.style.background = '#0b0c10'; };
+                    div.onmouseleave = () => { div.style.background = 'transparent'; };
+                    
+                    div.onclick = () => {
+                        resultsBox.style.display = 'none';
+                        document.getElementById('node-search').value = '';
+                        triggerNodeClick(node);
+                    };
+                    
+                    resultsBox.appendChild(div);
+                });
+                resultsBox.style.display = 'block';
+            } else {
+                resultsBox.innerHTML = '<div style="padding: 8px 10px; font-size: 12px; color: #888;">No results found</div>';
+                resultsBox.style.display = 'block';
+            }
+        }
+
+        // Close search results if clicked outside
+        document.addEventListener('click', (e) => {
+            if (e.target.id !== 'node-search') {
+                const resultsBox = document.getElementById('search-results');
+                if (resultsBox) resultsBox.style.display = 'none';
+            }
+        });
+
+        // Trigger a fake click on a node from search
+        function triggerNodeClick(node) {
+            highlightNodes.clear();
+            highlightLinks.clear();
+            
+            highlightNodes.add(node);
+            graphData.links.forEach(link => {
+                const s = typeof link.source === 'object' ? link.source : graphData.nodes.find(n => n.id === link.source);
+                const t = typeof link.target === 'object' ? link.target : graphData.nodes.find(n => n.id === link.target);
+                if (s.id === node.id || t.id === node.id) {
+                    highlightLinks.add(link);
+                    highlightNodes.add(s);
+                    highlightNodes.add(t);
+                }
+            });
+            
+            updatePanel(node);
+            
+            currentNewsFilter = node.id;
+            const filterStatus = document.getElementById('news-filter-status');
+            if(filterStatus) {
+                filterStatus.style.display = 'inline-block';
+                filterStatus.innerText = `✖ Clear: ${node.name}`;
+            }
+            renderNewsList();
+
+            Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
+            Graph.d3Force('link').distance(l => highlightLinks.has(l) ? 40 : 150);
+            Graph.d3ReheatSimulation();
+            
+            setTimeout(() => {
+                Graph.zoomToFit(1000, 150, n => highlightNodes.has(n));
+            }, 400);
+
+            Graph.nodeColor(Graph.nodeColor())
+                 .nodeVal(Graph.nodeVal())
+                 .linkWidth(Graph.linkWidth())
+                 .linkColor(Graph.linkColor())
+                 .linkDirectionalParticles(Graph.linkDirectionalParticles());
+        }
+        // -----------------------------
+
         let currentNewsFilter = null; // node id
 
         function clearNewsFilter() {

@@ -5,67 +5,101 @@
     <title>Physical AI & Humanoid Robotics Market Graph</title>
     <script src="https://unpkg.com/force-graph"></script>
     <style>
-        body { margin: 0; padding: 0; background-color: #121212; color: #fff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; overflow: hidden; }
+        body { margin: 0; padding: 0; background-color: #0b0c10; color: #c5c6c7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; overflow: hidden; }
         #graph-container { width: 100vw; height: 100vh; }
-        #ui-panel { position: absolute; top: 20px; left: 20px; background: rgba(30, 30, 30, 0.85); padding: 20px; border-radius: 8px; border: 1px solid #333; max-width: 320px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); backdrop-filter: blur(5px); pointer-events: auto; z-index: 10; max-height: 90vh; overflow-y: auto;}
-        h1 { margin: 0 0 10px 0; font-size: 18px; letter-spacing: 0.5px; }
+        
+        /* LEFT PANEL: Controls & Graph Info */
+        #left-panel { position: absolute; top: 20px; left: 20px; background: rgba(20, 22, 26, 0.85); padding: 20px; border-radius: 8px; border: 1px solid #333; width: 320px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); backdrop-filter: blur(8px); pointer-events: auto; z-index: 10; max-height: calc(100vh - 40px); display: flex; flex-direction: column; }
+        
+        /* RIGHT PANEL: The Daily Intelligence Feed */
+        #right-panel { position: absolute; top: 20px; right: 20px; background: rgba(20, 22, 26, 0.85); padding: 20px; border-radius: 8px; border: 1px solid #333; width: 360px; box-shadow: 0 4px 12px rgba(0,0,0,0.5); backdrop-filter: blur(8px); pointer-events: auto; z-index: 10; max-height: calc(100vh - 40px); display: flex; flex-direction: column; }
+        
+        h1 { margin: 0 0 5px 0; font-size: 18px; letter-spacing: 0.5px; color: #fff; }
         p { font-size: 13px; color: #aaa; margin: 0 0 15px 0; line-height: 1.4; }
+        
+        .scrollable-content { flex-grow: 1; overflow-y: auto; padding-right: 5px; }
+        .scrollable-content::-webkit-scrollbar { width: 6px; }
+        .scrollable-content::-webkit-scrollbar-thumb { background: #444; border-radius: 3px; }
+
         .legend-item { display: flex; align-items: center; margin-bottom: 6px; font-size: 13px; cursor: pointer; transition: opacity 0.2s; }
         .legend-item:hover { opacity: 0.8; }
         .color-box { width: 14px; height: 14px; border-radius: 3px; margin-right: 10px; }
-        .btn { background: #333; color: #fff; border: 1px solid #555; padding: 8px 12px; border-radius: 4px; cursor: pointer; margin-top: 8px; font-size: 12px; width: 100%; transition: 0.2s; text-align: left; }
-        .btn:hover { background: #444; }
-        .btn.active { background: #1dd1a1; color: #000; border-color: #1dd1a1; font-weight: bold; }
-        #selected-node-info { margin-top: 20px; padding-top: 15px; border-top: 1px solid #444; display: none; }
-        #selected-name { font-weight: bold; font-size: 16px; margin-bottom: 5px; color: #fff; }
-        #selected-type { font-size: 12px; color: #888; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
-        #selected-connections { font-size: 13px; color: #ccc; max-height: 250px; overflow-y: auto; }
-        .connection-item { margin-bottom: 5px; padding: 5px; background: rgba(0,0,0,0.2); border-radius: 4px; }
-    </style>
+        
+        .btn { background: #1f2833; color: #66fcf1; border: 1px solid #45a29e; padding: 8px 12px; border-radius: 4px; cursor: pointer; margin-top: 8px; font-size: 12px; width: 100%; transition: 0.2s; text-align: left; }
+        .btn:hover { background: #45a29e; color: #0b0c10; }
+        .btn.active { background: #66fcf1; color: #0b0c10; border-color: #66fcf1; font-weight: bold; }
+        
+        #selected-node-info { margin-top: 15px; padding-top: 15px; border-top: 1px solid #444; display: none; flex-shrink: 0;}
+        #selected-name { font-weight: bold; font-size: 18px; margin-bottom: 5px; color: #fff; }
+        #selected-type { font-size: 12px; color: #66fcf1; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; font-weight: bold;}
+        #selected-connections { font-size: 13px; color: #ccc; max-height: 200px; overflow-y: auto; }
+        .connection-item { margin-bottom: 5px; padding: 5px; background: rgba(255,255,255,0.05); border-radius: 4px; }
+
+        /* News Cards UI */
+        .news-card { margin-bottom: 12px; padding: 12px; background: rgba(0,0,0,0.4); border-left: 3px solid #66fcf1; border-radius: 6px; cursor: pointer; transition: all 0.2s ease; border-right: 1px solid transparent; border-top: 1px solid transparent; border-bottom: 1px solid transparent;}
+        .news-card:hover { background: rgba(255,255,255,0.08); border-color: #66fcf1; transform: translateX(-2px); }
+        .news-card.impact-high { border-left-width: 5px; background: rgba(255, 107, 107, 0.1); border-left-color: #ff6b6b; }
+        .news-card.impact-med { border-left-color: #feca57; }
+        
+        .news-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+        .news-date { color: #888; font-size: 10px; font-weight: bold; letter-spacing: 0.5px; }
+        .news-badge { font-size: 9px; padding: 2px 6px; border-radius: 10px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; }
+        .badge-funding { background: rgba(29, 209, 161, 0.2); color: #1dd1a1; }
+        .badge-sec { background: rgba(255, 107, 107, 0.2); color: #ff6b6b; }
+        .badge-deploy { background: rgba(72, 219, 251, 0.2); color: #48dbfb; }
+        .badge-general { background: rgba(200, 214, 229, 0.2); color: #c8d6e5; }
+        
+        .news-headline { color: #fff; font-size: 13px; font-weight: 500; line-height: 1.4; }
+        
+        .news-expanded { display: none; margin-top: 10px; padding-top: 10px; border-top: 1px dashed #444; font-size: 12px; color: #bbb; line-height: 1.5; }
+        .news-expanded a { color: #66fcf1; text-decoration: none; display: inline-block; margin-top: 8px; font-weight: bold; }
+        .news-expanded a:hover { text-decoration: underline; }
+</style>
 </head>
 <body>
-    <div id="ui-panel">
+
+    <div id="left-panel">
         <h1>Physical AI Ecosystem</h1>
         <p>Interactive map of capital, compute, and hardware flow.</p>
         
-        <div id="legend"></div>
+        <div class="scrollable-content">
+            <div id="legend"></div>
 
-        <div style="margin-top: 20px; border-top: 1px solid #444; padding-top: 15px;">
-            <strong style="font-size: 14px; margin-bottom: 5px; display: block;">Analysis Modes</strong>
-            <button id="btn-mode-all" class="btn active" onclick="setMode('all')">🌐 Full Ecosystem Overview</button>
-            <button id="btn-mode-deployment" class="btn" onclick="setMode('deployment')">🏭 Focus: Enterprise Deployments</button>
-            <button id="btn-mode-news" class="btn" onclick="setMode('news')">📰 Daily News Report</button>
-            <button class="btn" style="background: #444; margin-top: 15px; border: 1px dashed #777;" onclick="debugGraph()">🐞 Debug / Reset View</button>
-        </div>
-
-        <div id="daily-news-panel" style="display:none; margin-top: 20px; border-top: 1px solid #444; padding-top: 15px; max-height: 400px; overflow-y: auto;">
-            <strong style="font-size: 14px; margin-bottom: 10px; display: block;">Latest Industry News</strong>
-            <div id="news-list"></div>
-        </div>
-
-        <div id="selected-node-info">
-            <div id="selected-name">Node Name</div>
-            <div id="selected-type">Type</div>
-            <div id="selected-desc" style="font-size: 13px; color: #bbb; margin-bottom: 12px; font-style: italic;"></div>
-            
-            <div id="selected-stats" style="display:none; font-size: 12px; color: #ddd; margin-bottom: 12px; background: rgba(0,0,0,0.3); padding: 8px; border-radius: 4px;">
-                <div id="stat-website" style="margin-bottom: 4px;"></div>
-                <div id="stat-employees" style="margin-bottom: 4px;"></div>
-                <div id="stat-revenue" style="margin-bottom: 4px;"></div>
-                <div id="stat-marketcap"></div>
-            </div>
-            
-            <div id="selected-news" style="display:none; margin-bottom: 12px; border-top: 1px solid #444; padding-top: 10px;">
-                <strong style="font-size:12px; color:#fff; display:block; margin-bottom:6px;">📰 Recent News</strong>
-                <div id="news-ticker" style="font-size:11px; color:#aaa; max-height:100px; overflow-y:auto;"></div>
+            <div style="margin-top: 20px; border-top: 1px solid #444; padding-top: 15px;">
+                <strong style="font-size: 14px; margin-bottom: 5px; display: block; color: #fff;">Analysis Modes</strong>
+                <button id="btn-mode-all" class="btn active" onclick="setMode('all')">🌐 Full Ecosystem Overview</button>
+                <button id="btn-mode-deployment" class="btn" onclick="setMode('deployment')">🏭 Focus: Enterprise Deployments</button>
+                <button class="btn" style="background: #111; color: #888; border-color: #333; margin-top: 15px;" onclick="debugGraph()">🐞 Debug / Reset View</button>
             </div>
 
-            <strong style="font-size:12px; color:#fff; display:block; margin-bottom:6px; border-top: 1px solid #444; padding-top: 10px;">🔗 Ecosystem Connections</strong>
-            <div id="selected-connections"></div>
+            <div id="selected-node-info">
+                <div id="selected-name">Node Name</div>
+                <div id="selected-type">Type</div>
+                <div id="selected-desc" style="font-size: 13px; color: #bbb; margin-bottom: 12px; font-style: italic;"></div>
+                
+                <div id="selected-stats" style="display:none; font-size: 12px; color: #ddd; margin-bottom: 12px; background: rgba(0,0,0,0.3); padding: 8px; border-radius: 4px;">
+                    <div id="stat-website" style="margin-bottom: 4px;"></div>
+                    <div id="stat-employees" style="margin-bottom: 4px;"></div>
+                    <div id="stat-revenue" style="margin-bottom: 4px;"></div>
+                    <div id="stat-marketcap"></div>
+                </div>
+
+                <strong style="font-size:12px; color:#fff; display:block; margin-bottom:6px; border-top: 1px solid #444; padding-top: 10px;">🔗 Ecosystem Connections</strong>
+                <div id="selected-connections"></div>
+            </div>
         </div>
     </div>
 
+    <div id="right-panel">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-bottom: 1px solid #444; padding-bottom: 10px;">
+            <h1 style="margin: 0;">Intelligence Feed</h1>
+            <span id="news-filter-status" style="font-size: 11px; background: #333; padding: 2px 8px; border-radius: 12px; display: none; cursor: pointer; color: #fff;" onclick="clearNewsFilter()">✖ Clear Filter</span>
+        </div>
+        <div id="news-list" class="scrollable-content"></div>
+    </div>
+
     <div id="graph-container"></div>
+
 
     <script>
         const graphData = {
@@ -3178,8 +3212,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        41,
-        43
+        43,
+        41
       ]
     },
     {
@@ -3235,8 +3269,8 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        16,
-        28
+        28,
+        16
       ]
     },
     {
@@ -3470,7 +3504,18 @@
                         }
                     });
                     
+                    
                     updatePanel(node);
+                    
+                    // Filter news to this node
+                    currentNewsFilter = node.id;
+                    const filterStatus = document.getElementById('news-filter-status');
+                    if(filterStatus) {
+                        filterStatus.style.display = 'inline-block';
+                        filterStatus.innerText = `✖ Clear: ${node.name}`;
+                    }
+                    renderNewsList();
+
 
                     // Re-organize physics to center the clicked node and its cluster
                     Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
@@ -3598,39 +3643,133 @@
             applyFilters();
         }
 
+        
+        let currentNewsFilter = null; // node id
+
+        function clearNewsFilter() {
+            currentNewsFilter = null;
+            document.getElementById('news-filter-status').style.display = 'none';
+            renderNewsList();
+        }
+
+        // Semantic Tagging & Signal Strength Logic
+        function analyzeNews(headline) {
+            const lower = headline.toLowerCase();
+            let category = 'general';
+            let impact = 'low';
+
+            if (lower.includes('raise') || lower.includes('fund') || lower.includes('million') || lower.includes('billion') || lower.includes('valuation')) {
+                category = 'funding';
+                impact = 'high';
+            } else if (lower.includes('sec') || lower.includes('8-k') || lower.includes('10-k') || lower.includes('proxy') || lower.includes('ownership')) {
+                category = 'sec';
+                impact = 'high';
+            } else if (lower.includes('deploy') || lower.includes('pilot') || lower.includes('acquire') || lower.includes('partner') || lower.includes('deal')) {
+                category = 'deploy';
+                impact = 'med';
+            }
+
+            return { category, impact };
+        }
+
         function renderNewsList() {
             const newsList = document.getElementById('news-list');
             if (!newsList) return;
             newsList.innerHTML = '';
             
             if (graphData.global_news && graphData.global_news.length > 0) {
-                graphData.global_news.forEach(news => {
+                const filteredNews = currentNewsFilter ? 
+                    graphData.global_news.filter(n => n.involved_nodes && n.involved_nodes.includes(currentNewsFilter)) : 
+                    graphData.global_news;
+
+                if (filteredNews.length === 0) {
+                    newsList.innerHTML = '<span style="color:#888; font-size:12px;">No news found for this selection.</span>';
+                    return;
+                }
+
+                filteredNews.forEach((news, idx) => {
+                    const analysis = analyzeNews(news.headline);
                     const item = document.createElement('div');
-                    item.style.cssText = "margin-bottom:10px; padding:8px; background:rgba(0,0,0,0.3); border-left:2px solid #ff9ff3; border-radius:4px; cursor:pointer; transition:0.2s;";
-                    item.innerHTML = `<span style="color:#888; font-size:10px;">${news.date}</span><br><span style="color:#fff; font-size:12px;">${news.headline}</span>`;
                     
+                    item.className = `news-card impact-${analysis.impact}`;
+                    
+                    let badgeClass = 'badge-general';
+                    let badgeText = 'UPDATE';
+                    if (analysis.category === 'funding') { badgeClass = 'badge-funding'; badgeText = 'FUNDING'; }
+                    if (analysis.category === 'sec') { badgeClass = 'badge-sec'; badgeText = 'SEC FILING'; }
+                    if (analysis.category === 'deploy') { badgeClass = 'badge-deploy'; badgeText = 'MARKET'; }
+
+                    item.innerHTML = `
+                        <div class="news-header">
+                            <span class="news-date">${news.date}</span>
+                            <span class="news-badge ${badgeClass}">${badgeText}</span>
+                        </div>
+                        <div class="news-headline">${news.headline}</div>
+                        <div class="news-expanded" id="news-exp-${idx}">
+                            <strong>Context:</strong> Automated extraction from industry feeds and regulatory databases.
+                            <br><a href="${news.url}" target="_blank">Read Full Source ↗</a>
+                        </div>
+                    `;
+                    
+                    // Bidirectional highlighting
                     item.onmouseenter = () => {
-                        item.style.background = 'rgba(255,255,255,0.1)';
-                        highlightNodes.clear();
-                        highlightLinks.clear();
-                        news.involved_nodes.forEach(nid => {
-                            const node = graphData.nodes.find(n => n.id === nid);
-                            if(node) highlightNodes.add(node);
-                        });
-                        
-                        Graph.nodeColor(Graph.nodeColor())
-                             .nodeVal(Graph.nodeVal());
+                        if (!item.classList.contains('expanded')) {
+                            highlightNodes.clear();
+                            highlightLinks.clear();
+                            if (news.involved_nodes) {
+                                news.involved_nodes.forEach(nid => {
+                                    const node = graphData.nodes.find(n => n.id === nid);
+                                    if(node) highlightNodes.add(node);
+                                });
+                            }
+                            Graph.nodeColor(Graph.nodeColor()).nodeVal(Graph.nodeVal());
+                        }
                     };
                     
                     item.onmouseleave = () => {
-                        item.style.background = 'rgba(0,0,0,0.3)';
-                        highlightNodes.clear();
-                        Graph.nodeColor(Graph.nodeColor())
-                             .nodeVal(Graph.nodeVal());
+                        if (!item.classList.contains('expanded')) {
+                            highlightNodes.clear();
+                            Graph.nodeColor(Graph.nodeColor()).nodeVal(Graph.nodeVal());
+                        }
                     };
                     
-                    item.onclick = () => {
-                        window.open(news.url, '_blank');
+                    // Expand/Collapse accordion
+                    item.onclick = (e) => {
+                        if (e.target.tagName.toLowerCase() === 'a') return; // let links work naturally
+                        const exp = document.getElementById(`news-exp-${idx}`);
+                        const isExpanded = exp.style.display === 'block';
+                        
+                        // Close all others
+                        document.querySelectorAll('.news-expanded').forEach(el => { el.style.display = 'none'; });
+                        document.querySelectorAll('.news-card').forEach(el => { el.classList.remove('expanded'); el.style.borderColor = 'transparent'; });
+                        
+                        if (!isExpanded) {
+                            exp.style.display = 'block';
+                            item.classList.add('expanded');
+                            item.style.borderColor = '#66fcf1';
+                            
+                            // Lock graph highlight to this news item's nodes
+                            highlightNodes.clear();
+                            highlightLinks.clear();
+                            if (news.involved_nodes) {
+                                news.involved_nodes.forEach(nid => {
+                                    const node = graphData.nodes.find(n => n.id === nid);
+                                    if(node) highlightNodes.add(node);
+                                });
+                                Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
+                                Graph.d3ReheatSimulation();
+                                setTimeout(() => {
+                                    Graph.zoomToFit(1000, 150, n => highlightNodes.has(n));
+                                }, 200);
+                            }
+                            Graph.nodeColor(Graph.nodeColor()).nodeVal(Graph.nodeVal());
+                        } else {
+                            // Collapse and reset graph
+                            highlightNodes.clear();
+                            Graph.d3Force('charge').strength(-400);
+                            Graph.d3ReheatSimulation();
+                            Graph.nodeColor(Graph.nodeColor()).nodeVal(Graph.nodeVal());
+                        }
                     };
                     
                     newsList.appendChild(item);

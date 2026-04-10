@@ -3454,8 +3454,8 @@
       "url": "https://www.chosun.com/english/industry-en/2026/04/10/G7XZK4R7G5GZ7H5FEYSEZXI5BI/",
       "date": "2026-04-10",
       "involved_nodes": [
-        16,
-        82
+        82,
+        16
       ]
     },
     {
@@ -3521,9 +3521,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        16,
         129,
-        28
+        28,
+        16
       ]
     },
     {
@@ -3531,8 +3531,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        16,
-        129
+        129,
+        16
       ]
     },
     {
@@ -3902,8 +3902,37 @@
         // Initial Physics
 
         // Add strong collision force to spread the hairball out
-        Graph.d3Force('charge').strength(-800);
-        Graph.d3Force('link').distance(90);
+
+        // Market Dynamics Clustering Physics
+        const clusterForce = function(alpha) {
+            graphData.nodes.forEach(node => {
+                let targetX = 0, targetY = 0;
+                
+                // Group by type to create clear market sectors (Supply Chain Layout)
+                if (node.type === 'Provider') { targetX = -450; targetY = -250; }     // Compute & Components (Top Left)
+                else if (node.type === 'Competitor') { targetX = 0; targetY = 0; }    // Robot Builders (Center)
+                else if (node.type === 'Customer') { targetX = 450; targetY = 250; }  // Deployments & Auto (Bottom Right)
+                else if (node.type === 'Investor') { targetX = 0; targetY = 450; }    // Capital (Bottom Center)
+                else if (node.type === 'Partner') { targetX = 350; targetY = -350; }  // Ecosystem Partners (Top Right)
+                else if (node.type === 'Target') { targetX = -350; targetY = 350; }   // M&A Targets (Bottom Left)
+                
+                // Gently pull nodes toward their categorical gravity wells
+                node.vx -= (node.x - targetX) * alpha * 0.08;
+                node.vy -= (node.y - targetY) * alpha * 0.08;
+            });
+        };
+        
+        Graph.d3Force('cluster', clusterForce);
+        
+        Graph.d3Force('charge').strength(-400); // Reduce chaotic repulsion
+        Graph.d3Force('link').distance(l => {
+            // Keep strong alliances closer, stretch cross-market edges
+            const s = typeof l.source === 'object' ? l.source : graphData.nodes.find(n => n.id === l.source);
+            const t = typeof l.target === 'object' ? l.target : graphData.nodes.find(n => n.id === l.target);
+            if (s && t && s.type === t.type) return 40; // Same cluster
+            return 160; // Cross-cluster (e.g., Provider to Competitor) stretches out
+        });
+
 
         function debugGraph() {
             console.log("[DEBUG MODE] Initiated.");
@@ -3919,8 +3948,14 @@
             
     
         // Add strong collision force to spread the hairball out
-        Graph.d3Force('charge').strength(-800);
-            Graph.d3Force('link').distance(90);
+        Graph.d3Force('cluster', clusterForce);
+        Graph.d3Force('charge').strength(-400);
+            Graph.d3Force('link').distance(l => {
+                const s = typeof l.source === 'object' ? l.source : graphData.nodes.find(n => n.id === l.source);
+                const t = typeof l.target === 'object' ? l.target : graphData.nodes.find(n => n.id === l.target);
+                if (s && t && s.type === t.type) return 40; 
+                return 160; 
+            });
             Graph.d3ReheatSimulation();
             
             Graph.nodeColor(Graph.nodeColor())

@@ -121,9 +121,14 @@
     </div>
 
     <div id="right-panel">
-        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-bottom: 1px solid #444; padding-bottom: 10px;">
-            <h1 style="margin: 0;">Intelligence Feed</h1>
-            <span id="news-filter-status" style="font-size: 11px; background: #333; padding: 2px 8px; border-radius: 12px; display: none; cursor: pointer; color: #fff;" onclick="clearNewsFilter()">✖ Clear Filter</span>
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-bottom: 1px solid #444; padding-bottom: 10px; flex-wrap: wrap; gap: 8px;">
+            <h1 id="news-feed-title" style="margin: 0; font-size: 16px;">Today's News</h1>
+            <div style="display: flex; gap: 4px;">
+                <button class="btn active" id="btn-time-today" style="padding: 2px 8px; font-size: 10px;" onclick="setNewsTimeframe('today')">Today</button>
+                <button class="btn" id="btn-time-week" style="padding: 2px 8px; font-size: 10px;" onclick="setNewsTimeframe('week')">Week</button>
+                <button class="btn" id="btn-time-month" style="padding: 2px 8px; font-size: 10px;" onclick="setNewsTimeframe('month')">Month</button>
+            </div>
+            <span id="news-filter-status" style="font-size: 11px; background: #333; padding: 2px 8px; border-radius: 12px; display: none; cursor: pointer; color: #fff; width: 100%; text-align: center;" onclick="clearNewsFilter()">✖ Clear Filter</span>
         </div>
         <div id="news-list" class="scrollable-content"></div>
     </div>
@@ -3463,8 +3468,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        43,
-        41
+        41,
+        43
       ]
     },
     {
@@ -3522,8 +3527,8 @@
       "date": "2026-04-09",
       "involved_nodes": [
         129,
-        28,
-        16
+        16,
+        28
       ]
     },
     {
@@ -4084,7 +4089,26 @@
         }
         // -----------------------------
 
-        let currentNewsFilter = null; // node id
+        
+        let currentNewsFilter = null;
+        let currentNewsTimeframe = 'today';
+
+        function setNewsTimeframe(timeframe) {
+            currentNewsTimeframe = timeframe;
+            
+            // Update buttons
+            document.getElementById('btn-time-today').classList.remove('active');
+            document.getElementById('btn-time-week').classList.remove('active');
+            document.getElementById('btn-time-month').classList.remove('active');
+            document.getElementById(`btn-time-${timeframe}`).classList.add('active');
+            
+            // Update Title
+            const titles = { 'today': "Today's News", 'week': "Top News (This Week)", 'month': "Top News (This Month)" };
+            document.getElementById('news-feed-title').innerText = titles[timeframe];
+            
+            renderNewsList();
+        }
+ // node id
 
         function clearNewsFilter() {
             currentNewsFilter = null;
@@ -4122,17 +4146,32 @@
                     graphData.global_news.filter(n => n.involved_nodes && n.involved_nodes.includes(currentNewsFilter)) : 
                     graphData.global_news;
 
-                if (filteredNews.length === 0) {
-                    newsList.innerHTML = '<span style="color:#888; font-size:12px;">No news found for this selection.</span>';
+                // Filter by timeframe
+                const now = new Date();
+                let timeFilteredNews = filteredNews.filter(news => {
+                    if (!news.date) return true;
+                    const newsDate = new Date(news.date);
+                    const diffDays = (now - newsDate) / (1000 * 60 * 60 * 24);
+                    
+                    if (currentNewsTimeframe === 'today') return diffDays <= 2; // "Today" gives a little buffer (48h) to not be completely empty
+                    if (currentNewsTimeframe === 'week') return diffDays <= 7;
+                    if (currentNewsTimeframe === 'month') return diffDays <= 30;
+                    return true;
+                });
+
+                if (timeFilteredNews.length === 0) {
+                    newsList.innerHTML = '<span style="color:#888; font-size:12px;">No news found for this timeframe/selection.</span>';
                     return;
                 }
 
-                // Map analysis to news items and sort by signal strength (impact), then by date
-                const sortedNews = filteredNews.map(news => {
+                // Map analysis to news items and sort by importance_score (if available via Gemini), then by impact, then by date
+                const sortedNews = timeFilteredNews.map(news => {
                     const analysis = analyzeNews(news.headline);
-                    const weight = analysis.impact === 'high' ? 2 : (analysis.impact === 'med' ? 1 : 0);
+                    // Use Gemini importance_score if available, otherwise fallback to keyword heuristic weight
+                    const weight = news.importance_score !== undefined ? news.importance_score : (analysis.impact === 'high' ? 2 : (analysis.impact === 'med' ? 1 : 0));
                     return { news, analysis, weight };
                 }).sort((a, b) => {
+                    // For week/month, we want the most important ones at the top. For today, mostly recency but still weighted.
                     if (b.weight !== a.weight) return b.weight - a.weight;
                     return new Date(b.news.date) - new Date(a.news.date);
                 });

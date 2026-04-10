@@ -3203,8 +3203,8 @@
       "url": "https://www.chosun.com/english/industry-en/2026/04/10/G7XZK4R7G5GZ7H5FEYSEZXI5BI/",
       "date": "2026-04-10",
       "involved_nodes": [
-        16,
-        82
+        82,
+        16
       ]
     },
     {
@@ -3212,8 +3212,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        43,
-        41
+        41,
+        43
       ]
     },
     {
@@ -3710,11 +3710,24 @@
                     if (analysis.category === 'sec') { badgeClass = 'badge-sec'; badgeText = 'SEC FILING'; }
                     if (analysis.category === 'deploy') { badgeClass = 'badge-deploy'; badgeText = 'MARKET'; }
 
+                    let orgTags = '';
+                    if (news.involved_nodes && news.involved_nodes.length > 0) {
+                        const orgNames = news.involved_nodes.map(nid => {
+                            const node = graphData.nodes.find(n => n.id === nid);
+                            return node ? node.name : null;
+                        }).filter(n => n);
+                        
+                        if (orgNames.length > 0) {
+                            orgTags = `<div style="margin-top: 4px; margin-bottom: 6px;">` + orgNames.map(name => `<span style="font-size: 10px; background: rgba(102, 252, 241, 0.15); border: 1px solid rgba(102, 252, 241, 0.3); padding: 2px 6px; border-radius: 4px; margin-right: 4px; color: #66fcf1; font-weight: bold;">${name}</span>`).join('') + `</div>`;
+                        }
+                    }
+
                     item.innerHTML = `
                         <div class="news-header">
                             <span class="news-date">${news.date}</span>
                             <span class="news-badge ${badgeClass}">${badgeText}</span>
                         </div>
+                        ${orgTags}
                         <div class="news-headline">${news.headline}</div>
                         <div class="news-expanded" id="news-exp-${idx}">
                             <strong>Context:</strong> Automated extraction from industry feeds and regulatory databases.

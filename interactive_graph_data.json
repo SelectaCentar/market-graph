@@ -2091,6 +2091,122 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5"
         }
       ]
+    },
+    {
+      "id": 129,
+      "name": "Kia",
+      "type": "Customer",
+      "description": "South Korean automaker deploying humanoid robots in manufacturing facilities.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": [
+        {
+          "date": "2026-04-09",
+          "headline": "Kia To Deploy Tesla Optimus Rival Atlas Robot At US Manufacturing Plant - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5"
+        },
+        {
+          "date": "2026-04-09",
+          "headline": "Kia to Use Atlas Robots in US Plant, Develop First Software Car - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Ford",
+      "type": "Customer",
+      "description": "American automaker exploring robotic logistics and manufacturing automation.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 131,
+      "name": "Magna International",
+      "type": "Customer",
+      "description": "Tier-1 automotive parts supplier piloting general-purpose robots.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 132,
+      "name": "General Motors",
+      "type": "Customer",
+      "description": "American automaker utilizing vast arrays of traditional industrial robots.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 133,
+      "name": "Volkswagen",
+      "type": "Customer",
+      "description": "German automotive group heavily reliant on industrial automation and traditional robotics.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 134,
+      "name": "Porsche",
+      "type": "Customer",
+      "description": "German high-performance automaker utilizing advanced KUKA robotic assembly lines.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 135,
+      "name": "Yaskawa",
+      "type": "Competitor",
+      "description": "Japanese manufacturer of servos, motion controllers, and industrial Motoman robots.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 136,
+      "name": "KUKA",
+      "type": "Competitor",
+      "description": "German manufacturer of industrial robots and factory automation systems.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 137,
+      "name": "Honda",
+      "type": "Customer",
+      "description": "Japanese public multinational conglomerate manufacturer of automobiles, motorcycles, and power equipment.",
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": [
+        {
+          "date": "2026-04-08",
+          "headline": "UBTECH Partners with Honda Trading to Accelerate Humanoid Robot Integration in Automotive Supply Chain - Gasgoo",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5"
+        }
+      ]
     }
   ],
   "links": [
@@ -3115,6 +3231,62 @@
       "relation": "Founder Link",
       "weight": null,
       "context": "Brett Adcock, the founder of Figure AI, launched Hark to focus on personal AGI."
+    },
+    {
+      "source": 129,
+      "target": 16,
+      "relation": "Deployment",
+      "weight": null,
+      "context": "Kia is deploying the electric Atlas robot at their Georgia manufacturing plant."
+    },
+    {
+      "source": 130,
+      "target": 2,
+      "relation": "R&D Pilot",
+      "weight": null,
+      "context": "Ford was an early partner exploring Digit for autonomous last-mile delivery and logistics."
+    },
+    {
+      "source": 131,
+      "target": 25,
+      "relation": "Pilot / Investor",
+      "weight": null,
+      "context": "Magna invested in Sanctuary AI and is piloting their general-purpose robots in manufacturing facilities."
+    },
+    {
+      "source": 76,
+      "target": 132,
+      "relation": "Supplier",
+      "weight": null,
+      "context": "FANUC is a primary supplier of traditional robotic automation for GM assembly lines."
+    },
+    {
+      "source": 75,
+      "target": 78,
+      "relation": "Software Integration",
+      "weight": null,
+      "context": "ABB partnered with Intrinsic to make their industrial arms natively intelligent and easier to program."
+    },
+    {
+      "source": 75,
+      "target": 133,
+      "relation": "Supplier",
+      "weight": null,
+      "context": "ABB is a major supplier of robotic assembly cells for the Volkswagen Group."
+    },
+    {
+      "source": 135,
+      "target": 137,
+      "relation": "Supplier",
+      "weight": null,
+      "context": "Yaskawa supplies industrial Motoman robots for Honda manufacturing facilities."
+    },
+    {
+      "source": 136,
+      "target": 134,
+      "relation": "Supplier",
+      "weight": null,
+      "context": "KUKA provides the automated robotic body shop infrastructure for Porsche assembly lines."
     }
   ],
   "global_news": [
@@ -3123,8 +3295,8 @@
       "url": "https://www.chosun.com/english/industry-en/2026/04/10/G7XZK4R7G5GZ7H5FEYSEZXI5BI/",
       "date": "2026-04-10",
       "involved_nodes": [
-        82,
-        16
+        16,
+        82
       ]
     },
     {
@@ -3132,8 +3304,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        43,
-        41
+        41,
+        43
       ]
     },
     {
@@ -3165,8 +3337,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        3,
-        128
+        128,
+        3
       ]
     },
     {
@@ -3190,8 +3362,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        28,
-        16
+        16,
+        129,
+        28
       ]
     },
     {
@@ -3199,7 +3372,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        16
+        16,
+        129
       ]
     },
     {

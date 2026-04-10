@@ -3454,8 +3454,8 @@
       "url": "https://www.chosun.com/english/industry-en/2026/04/10/G7XZK4R7G5GZ7H5FEYSEZXI5BI/",
       "date": "2026-04-10",
       "involved_nodes": [
-        82,
-        16
+        16,
+        82
       ]
     },
     {
@@ -3521,9 +3521,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
+        28,
         129,
-        16,
-        28
+        16
       ]
     },
     {
@@ -3878,10 +3878,8 @@
         // Initial Physics
 
         // Add strong collision force to spread the hairball out
-        Graph.d3Force('collide', d3.forceCollide(node => Math.max(6, Math.sqrt(node.val) * 2.8) + 8).iterations(2));
-
-        Graph.d3Force('charge').strength(-400);
-        Graph.d3Force('link').distance(70);
+        Graph.d3Force('charge').strength(-800);
+        Graph.d3Force('link').distance(90);
 
         function debugGraph() {
             console.log("[DEBUG MODE] Initiated.");
@@ -3897,10 +3895,8 @@
             
     
         // Add strong collision force to spread the hairball out
-        Graph.d3Force('collide', d3.forceCollide(node => Math.max(6, Math.sqrt(node.val) * 2.8) + 8).iterations(2));
-
-        Graph.d3Force('charge').strength(-400);
-            Graph.d3Force('link').distance(70);
+        Graph.d3Force('charge').strength(-800);
+            Graph.d3Force('link').distance(90);
             Graph.d3ReheatSimulation();
             
             Graph.nodeColor(Graph.nodeColor())
@@ -4177,9 +4173,7 @@
                             highlightNodes.clear();
                     
         // Add strong collision force to spread the hairball out
-        Graph.d3Force('collide', d3.forceCollide(node => Math.max(6, Math.sqrt(node.val) * 2.8) + 8).iterations(2));
-
-        Graph.d3Force('charge').strength(-400);
+        Graph.d3Force('charge').strength(-800);
                             Graph.d3ReheatSimulation();
                             Graph.nodeColor(Graph.nodeColor()).nodeVal(Graph.nodeVal());
                         }
@@ -4231,10 +4225,8 @@
             } else {
         
         // Add strong collision force to spread the hairball out
-        Graph.d3Force('collide', d3.forceCollide(node => Math.max(6, Math.sqrt(node.val) * 2.8) + 8).iterations(2));
-
-        Graph.d3Force('charge').strength(-400);
-                Graph.d3Force('link').distance(70);
+        Graph.d3Force('charge').strength(-800);
+                Graph.d3Force('link').distance(90);
             }
             
             Graph.d3ReheatSimulation();

@@ -25,9 +25,9 @@
         .legend-item:hover { opacity: 0.8; }
         .color-box { width: 14px; height: 14px; border-radius: 3px; margin-right: 10px; }
         
-        .btn { background: #1f2833; color: #66fcf1; border: 1px solid #45a29e; padding: 8px 12px; border-radius: 4px; cursor: pointer; margin-top: 8px; font-size: 12px; width: 100%; transition: 0.2s; text-align: left; }
-        .btn:hover { background: #45a29e; color: #0b0c10; }
-        .btn.active { background: #66fcf1; color: #0b0c10; border-color: #66fcf1; font-weight: bold; }
+        
+        
+        
         
         #selected-node-info { margin-top: 15px; padding-top: 15px; border-top: 1px solid #444; display: none; flex-shrink: 0;}
         #selected-name { font-weight: bold; font-size: 18px; margin-bottom: 5px; color: #fff; }
@@ -54,7 +54,30 @@
         .news-expanded { display: none; margin-top: 10px; padding-top: 10px; border-top: 1px dashed #444; font-size: 12px; color: #bbb; line-height: 1.5; }
         .news-expanded a { color: #66fcf1; text-decoration: none; display: inline-block; margin-top: 8px; font-weight: bold; }
         .news-expanded a:hover { text-decoration: underline; }
-</style>
+
+        /* Custom Scrollbars */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+
+        /* SVG Icons */
+        .icon { width: 14px; height: 14px; fill: currentColor; vertical-align: middle; margin-right: 6px; margin-bottom: 2px;}
+
+        /* Left Panel Active/Inactive Buttons */
+        .btn { background: rgba(31, 40, 51, 0.6); color: #888; border: 1px solid rgba(69, 162, 158, 0.3); transition: all 0.2s ease; }
+        .btn:hover { background: rgba(69, 162, 158, 0.2); color: #c5c6c7; border-color: rgba(69, 162, 158, 0.8); }
+        .btn.active { background: rgba(102, 252, 241, 0.1); color: #66fcf1; border-color: #66fcf1; font-weight: bold; box-shadow: 0 0 8px rgba(102, 252, 241, 0.2); }
+
+        /* Search Box Icon */
+        .search-wrapper { position: relative; margin-top: 15px; margin-bottom: 5px; }
+        .search-icon { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); width: 14px; height: 14px; fill: #888; pointer-events: none; }
+        #node-search { padding-left: 30px; }
+
+    
+        .legend-item.hidden-type { opacity: 0.4; text-decoration: line-through; filter: grayscale(100%); }
+
+    </style>
 </head>
 <body>
 
@@ -66,16 +89,17 @@
             <div id="legend"></div>
 
             <!-- Search Feature -->
-            <div style="margin-top: 15px; margin-bottom: 5px; position: relative;">
+            <div class="search-wrapper">
+                <svg class="search-icon" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
                 <input type="text" id="node-search" placeholder="Search organizations..." style="width: 100%; box-sizing: border-box; padding: 8px 10px; background: rgba(0,0,0,0.3); border: 1px solid #444; border-radius: 4px; color: #fff; font-size: 13px; outline: none; transition: border-color 0.2s;" onkeyup="handleSearch(event)">
                 <div id="search-results" style="display: none; position: absolute; top: 34px; left: 0; width: 100%; background: #1f2833; border: 1px solid #45a29e; border-top: none; border-radius: 0 0 4px 4px; max-height: 150px; overflow-y: auto; z-index: 100;"></div>
             </div>
 
             <div style="margin-top: 20px; border-top: 1px solid #444; padding-top: 15px;">
                 <strong style="font-size: 14px; margin-bottom: 5px; display: block; color: #fff;">Analysis Modes</strong>
-                <button id="btn-mode-all" class="btn active" onclick="setMode('all')">🌐 Full Ecosystem Overview</button>
-                <button id="btn-mode-deployment" class="btn" onclick="setMode('deployment')">🏭 Focus: Enterprise Deployments</button>
-                <button class="btn" style="background: #111; color: #888; border-color: #333; margin-top: 15px;" onclick="debugGraph()">🐞 Debug / Reset View</button>
+                <button id="btn-mode-all" class="btn active" onclick="setMode('all')"><svg class="icon" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg> Full Ecosystem Overview</button>
+                <button id="btn-mode-deployment" class="btn" onclick="setMode('deployment')"><svg class="icon" viewBox="0 0 24 24"><path d="M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z"/></svg> Focus: Enterprise Deployments</button>
+                <button class="btn" style="background: rgba(31, 40, 51, 0.3); margin-top: 15px;" onclick="debugGraph()"><svg class="icon" viewBox="0 0 24 24"><path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/></svg> Reset / Re-center View</button>
             </div>
 
             <div id="selected-node-info">
@@ -3439,8 +3463,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        41,
-        43
+        43,
+        41
       ]
     },
     {
@@ -3472,8 +3496,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        128,
-        3
+        3,
+        128
       ]
     },
     {
@@ -3497,9 +3521,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        28,
+        129,
         16,
-        129
+        28
       ]
     },
     {
@@ -3507,8 +3531,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        16,
-        129
+        129,
+        16
       ]
     },
     {
@@ -3604,11 +3628,29 @@
             'Partner': '#10ac84'        
         };
 
+        let hiddenTypes = new Set();
         const legend = document.getElementById('legend');
         Object.entries(colors).forEach(([type, color]) => {
             const item = document.createElement('div');
             item.className = 'legend-item';
             item.innerHTML = `<div class="color-box" style="background:${color}"></div>${type}`;
+            item.onclick = () => {
+                if (hiddenTypes.has(type)) {
+                    hiddenTypes.delete(type);
+                    item.classList.remove('hidden-type');
+                } else {
+                    hiddenTypes.add(type);
+                    item.classList.add('hidden-type');
+                }
+                
+                // Use built-in force-graph visibility toggles for safe hiding
+                Graph.nodeVisibility(n => !hiddenTypes.has(n.type));
+                Graph.linkVisibility(l => {
+                    const s = typeof l.source === 'object' ? l.source : graphData.nodes.find(n => n.id === l.source);
+                    const t = typeof l.target === 'object' ? l.target : graphData.nodes.find(n => n.id === l.target);
+                    return !hiddenTypes.has(s.type) && !hiddenTypes.has(t.type);
+                });
+            };
             legend.appendChild(item);
         });
 

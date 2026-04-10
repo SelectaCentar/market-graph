@@ -3454,8 +3454,8 @@
       "url": "https://www.chosun.com/english/industry-en/2026/04/10/G7XZK4R7G5GZ7H5FEYSEZXI5BI/",
       "date": "2026-04-10",
       "involved_nodes": [
-        16,
-        82
+        82,
+        16
       ]
     },
     {
@@ -3463,8 +3463,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        43,
-        41
+        41,
+        43
       ]
     },
     {
@@ -3496,8 +3496,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        3,
-        128
+        128,
+        3
       ]
     },
     {
@@ -3817,47 +3817,69 @@
             });
 
         Graph.nodeCanvasObject((node, ctx, globalScale) => {
-            const label = node.name;
             const isHighlighted = highlightNodes.has(node);
             const isInMode = currentMode !== 'all' && modeNodes.has(node);
             const isDimmed = (currentMode !== 'all' && !modeNodes.has(node)) || (highlightNodes.size > 0 && !isHighlighted);
 
+            // Respect legend visibility filter without crashing graph
+            if (hiddenTypes && hiddenTypes.has(node.type)) return;
+
             if (isDimmed && highlightNodes.size > 0 && !isHighlighted) return; // Hide entirely if not related to click
 
-            let r = Math.max(2, Math.sqrt(node.val) * 1.5);
-            if (isHighlighted) r *= 1.5; // Match nodeVal visual swell
+            // Map scaling based on valuation/connections (using val)
+            let r = Math.max(4, Math.sqrt(node.val) * 2.0); // Slightly larger base nodes
+            if (isHighlighted) r *= 1.5; 
 
             ctx.beginPath();
             ctx.arc(node.x, node.y, r, 0, 2 * Math.PI, false);
             
             let fillStyle = colors[node.type] || '#ccc';
             if (isDimmed) fillStyle = 'rgba(100,100,100,0.05)';
+            
             ctx.fillStyle = fillStyle;
+            
+            // Highlight stroke
+            if (isHighlighted || (currentMode !== 'all' && isInMode)) {
+                ctx.lineWidth = 1 / globalScale;
+                ctx.strokeStyle = '#fff';
+                ctx.stroke();
+            }
+            
             ctx.fill();
 
-            // Text
-            if (!isDimmed || currentMode === 'all') {
-                let baseSize = 10 / globalScale;
-                if (isInMode) baseSize = 16 / globalScale; 
-                if (isHighlighted) baseSize = 20 / globalScale; 
-
-                const fontSize = Math.max(baseSize, (isInMode || isHighlighted) ? 6 : 3);
+            // Semantic Zoom Text: Only show text if zoomed in (globalScale > 1.4), or if highlighted/mode active
+            const showText = globalScale > 1.4 || isHighlighted || isInMode;
+            
+            if (showText && !isDimmed) {
+                const label = node.name;
+                const fontSize = Math.max(12 / globalScale, 4);
                 
                 ctx.font = `${isHighlighted ? 'bold' : 'normal'} ${fontSize}px Helvetica`;
                 ctx.textAlign = 'center';
                 ctx.textBaseline = 'top';
-                ctx.fillStyle = (isInMode || isHighlighted) ? '#ffffff' : 'rgba(255,255,255,0.7)';
+                ctx.fillStyle = (isHighlighted || isInMode) ? '#ffffff' : 'rgba(200,200,200,0.9)';
                 
                 if (isHighlighted || isInMode) {
                     ctx.shadowColor = 'rgba(0,0,0,0.8)';
                     ctx.shadowBlur = 4;
                 }
-                ctx.fillText(label, node.x, node.y + r + (isHighlighted ? 4 : 2));
+                
+                // Add a slight dark background pill behind text for readability over edges
+                const textWidth = ctx.measureText(label).width;
+                ctx.fillStyle = 'rgba(11, 12, 16, 0.7)';
+                ctx.fillRect(node.x - textWidth/2 - 2, node.y + r + 1, textWidth + 4, fontSize + 2);
+                
+                ctx.fillStyle = (isHighlighted || isInMode) ? '#ffffff' : 'rgba(200,200,200,0.9)';
+                ctx.fillText(label, node.x, node.y + r + 2);
                 ctx.shadowBlur = 0; 
             }
         });
 
         // Initial Physics
+
+        // Add strong collision force to spread the hairball out
+        Graph.d3Force('collide', d3.forceCollide(node => Math.max(6, Math.sqrt(node.val) * 2.8) + 8).iterations(2));
+
         Graph.d3Force('charge').strength(-400);
         Graph.d3Force('link').distance(70);
 
@@ -3873,7 +3895,11 @@
             highlightLinks.clear();
             document.getElementById('selected-node-info').style.display = 'none';
             
-            Graph.d3Force('charge').strength(-400);
+    
+        // Add strong collision force to spread the hairball out
+        Graph.d3Force('collide', d3.forceCollide(node => Math.max(6, Math.sqrt(node.val) * 2.8) + 8).iterations(2));
+
+        Graph.d3Force('charge').strength(-400);
             Graph.d3Force('link').distance(70);
             Graph.d3ReheatSimulation();
             
@@ -4149,7 +4175,11 @@
                         } else {
                             // Collapse and reset graph
                             highlightNodes.clear();
-                            Graph.d3Force('charge').strength(-400);
+                    
+        // Add strong collision force to spread the hairball out
+        Graph.d3Force('collide', d3.forceCollide(node => Math.max(6, Math.sqrt(node.val) * 2.8) + 8).iterations(2));
+
+        Graph.d3Force('charge').strength(-400);
                             Graph.d3ReheatSimulation();
                             Graph.nodeColor(Graph.nodeColor()).nodeVal(Graph.nodeVal());
                         }
@@ -4199,7 +4229,11 @@
                 Graph.d3Force('charge').strength(n => modeNodes.has(n) ? -800 : -20);
                 Graph.d3Force('link').distance(l => modeLinks.has(l) ? 100 : 20);
             } else {
-                Graph.d3Force('charge').strength(-400);
+        
+        // Add strong collision force to spread the hairball out
+        Graph.d3Force('collide', d3.forceCollide(node => Math.max(6, Math.sqrt(node.val) * 2.8) + 8).iterations(2));
+
+        Graph.d3Force('charge').strength(-400);
                 Graph.d3Force('link').distance(70);
             }
             

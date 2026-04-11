@@ -213,11 +213,6 @@
           "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/"
         },
         {
-          "date": "2026-04-08",
-          "headline": "Final\u00a03\u00a0days to save up to $500 on your TechCrunch Disrupt 2026 pass",
-          "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/"
-        },
-        {
           "date": "2026-02-11",
           "headline": "Humanoid robot startup Apptronik has now raised $935M at a $5B+ valuation - TechCrunch",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjFQcTBGTVQwb2s4cWVtX25nUlRyb3Jva2h3Z19DUzcyYUI1T2R6eklNMi0wbDFNd01hSkk3QUtJWXFuRTR2ZEtscWFCUE1SeEp5VzdFdGFucWc4c2FPNTJWTXFIRUNwcWFrNEpXLWVkTXF2YlhFWXhhdG45emN5M1NldXZxMzFjUHg4d25jRUdfdGFkc3E0Q0VvRnJmOVBCU0RfZmZZamM?oc=5"
@@ -238,16 +233,6 @@
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5"
         },
         {
-          "date": "2026-04-10",
-          "headline": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-          "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/"
-        },
-        {
-          "date": "2026-04-09",
-          "headline": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
-          "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/"
-        },
-        {
           "date": "2025-11-04",
           "headline": "Rivian creates another spinoff company called Mind Robotics - TechCrunch",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb21RYW9mQTJEbWJ6N0tXYXQzMEdOUk9Rdk5ONmFKdndNUGdEblpETEtpQXI5REJDUlNIa3U5cGJSSHJqVzlCYW1haUY4RzlEU1ZnNm82NFZnbVU4dTE4M3VNQW8tUWNzb2F4ZEM2WVE1MmZ0NGhIeTRJRVZBS2I1eUhHUVpJMGVUbVBhN0ZWblBhUG9KOU9OenhB?oc=5"
@@ -256,6 +241,16 @@
           "date": "2026-03-27",
           "headline": "Physical Intelligence is reportedly in talks to raise $1B, again - TechCrunch",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5"
+        },
+        {
+          "date": "2026-04-10",
+          "headline": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+          "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/"
+        },
+        {
+          "date": "2026-04-09",
+          "headline": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+          "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/"
         }
       ]
     },
@@ -622,7 +617,7 @@
       "type": "Competitor",
       "description": "Humanoid robotics startup developing bipedal platforms.",
       "website": "https://www.robotera.com",
-      "market_cap": "$1.4B+ RMB (Private, $1B Raised)",
+      "market_cap": "RMB 10B ($1.4B) (Private, $140M+ Raised)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -2463,6 +2458,17 @@
       "revenue": null,
       "employees": null,
       "news": []
+    },
+    {
+      "id": 142,
+      "name": "LandingAI",
+      "type": "Provider",
+      "description": "AI vision and agentic document intelligence",
+      "website": "https://landing.ai",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
     }
   ],
   "links": [
@@ -2999,13 +3005,6 @@
       "context": "SoftBank Vision Fund 2 led a $220 million Series C funding round in Agile Robots to fuel the global expansion and mass production of the company's highly-adaptable, force-controlled robotic arms for the manufacturing sector."
     },
     {
-      "source": 39,
-      "target": 81,
-      "relation": "AI Integration",
-      "weight": 5,
-      "context": "Agile Robots partnered with Google DeepMind to integrate Gemini Robotics foundation models into their scalable industrial hardware and humanoids."
-    },
-    {
       "source": 81,
       "target": 79,
       "relation": "Factory Deployment",
@@ -3209,13 +3208,6 @@
       "context": ""
     },
     {
-      "source": 31,
-      "target": 69,
-      "relation": "Acquisition",
-      "weight": 10,
-      "context": "Amazon acquired Danish firm Fauna Robotics to integrate its specialized, biomimetic gripper technology into its fulfillment center operations, aiming to enhance the ability of its robots to pick and handle a wider variety of items."
-    },
-    {
       "source": 8,
       "target": 2,
       "relation": "Robots-As-A-Service Deal",
@@ -3293,13 +3285,6 @@
       "context": ""
     },
     {
-      "source": 39,
-      "target": 81,
-      "relation": "AI Integration",
-      "weight": 8,
-      "context": "Agile Robots partnered with Google DeepMind to integrate Gemini Robotics foundation models into their scalable industrial hardware and humanoids."
-    },
-    {
       "source": 117,
       "target": 57,
       "relation": "Funding",
@@ -3356,13 +3341,6 @@
       "context": ""
     },
     {
-      "source": 41,
-      "target": 90,
-      "relation": "Acquisition",
-      "weight": 10,
-      "context": ""
-    },
-    {
       "source": 123,
       "target": 17,
       "relation": "Partnership",
@@ -3388,41 +3366,6 @@
       "target": 58,
       "relation": "Partnership",
       "weight": 8,
-      "context": ""
-    },
-    {
-      "source": 121,
-      "target": 5,
-      "relation": "Acquisition",
-      "weight": 5,
-      "context": ""
-    },
-    {
-      "source": 41,
-      "target": 90,
-      "relation": "Acquisition",
-      "weight": 5,
-      "context": ""
-    },
-    {
-      "source": 117,
-      "target": 57,
-      "relation": "Funding",
-      "weight": 3,
-      "context": ""
-    },
-    {
-      "source": 118,
-      "target": 57,
-      "relation": "Funding",
-      "weight": 3,
-      "context": ""
-    },
-    {
-      "source": 55,
-      "target": 26,
-      "relation": "Funding",
-      "weight": 4,
       "context": ""
     },
     {
@@ -3566,27 +3509,6 @@
       "context": ""
     },
     {
-      "source": 121,
-      "target": 5,
-      "relation": "Acquisition",
-      "weight": 1,
-      "context": ""
-    },
-    {
-      "source": 2,
-      "target": 8,
-      "relation": "Deployment",
-      "weight": 1,
-      "context": ""
-    },
-    {
-      "source": 29,
-      "target": 127,
-      "relation": "Partnership",
-      "weight": 1,
-      "context": ""
-    },
-    {
       "source": 115,
       "target": 114,
       "relation": "Partnership",
@@ -3601,23 +3523,9 @@
       "context": ""
     },
     {
-      "source": 31,
-      "target": 21,
-      "relation": "Funding",
-      "weight": 1,
-      "context": ""
-    },
-    {
       "source": 21,
       "target": 140,
       "relation": "Partnership",
-      "weight": 1,
-      "context": ""
-    },
-    {
-      "source": 20,
-      "target": 125,
-      "relation": "Deployment",
       "weight": 1,
       "context": ""
     },
@@ -3634,6 +3542,34 @@
       "relation": "Alumni / Talent",
       "weight": 2,
       "context": "Cartwheel was founded by veterans from OpenAI and Google."
+    },
+    {
+      "source": 140,
+      "target": 21,
+      "relation": "Partnership",
+      "weight": 3,
+      "context": "Sona Comstar partners with Neura Robotics for joint development"
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "relation": "Partnership",
+      "weight": 3,
+      "context": "Astribot and Seer ally to put over 1000 humanoids into use"
+    },
+    {
+      "source": 127,
+      "target": 29,
+      "relation": "Partnership",
+      "weight": 3,
+      "context": "UBTECH partners with Honda Trading for auto supply chain"
+    },
+    {
+      "source": 75,
+      "target": 142,
+      "relation": "Partnership",
+      "weight": 3,
+      "context": "ABB and LandingAI unleash generative AI for robotic vision"
     }
   ],
   "global_news": [
@@ -3661,8 +3597,8 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVd2amhOYjJSUFhna0NNaEY3NmZUeXQzVGl0emk3LWZKM3lOUW5wUlFfXy1YVURhcVBNX0tON2VEeGVBaDR5M0NXX2NENHJjQmh5SXo3cWVKVkc1REQ5Mlp0WWZvdVNrYXJIcHBSUHIzZFF6VV9LNENYQXRGbkZNenBPVkxaYkhMSVpEdnZaY251UnYwNUd5MVlBVjBydkZ2T3plVGMzVXZ3MTVDZnkwWlRCM0MtcHp5MnZjeXB6U1FTd2tyb2hfRVZGX0M3ektMTjFJ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -3671,8 +3607,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1NWUGM4X1UzZTdISmZFTjZ6T1ZVLXhtOTZNc0hjMklscWVBSldaWGUtVGt0d3JNSElUNmpTXzNBemlRcWdLemg5VUtqekhqSXh1eE94MU9sc0hkMHNJZnp0WUVhUkNuandlR1V4Q1JCWHd3UXBfandvMVpVTUU5d3lITTFKUQ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -3711,7 +3647,7 @@
       "involved_nodes": [
         7
       ],
-      "importance_score": 8
+      "importance_score": null
     },
     {
       "headline": "Unitree to launch cheapest humanoid robot globally next week, starting at over $4,000 - VnExpress International",
@@ -3812,7 +3748,7 @@
       "involved_nodes": [
         7
       ],
-      "importance_score": 8
+      "importance_score": null
     },
     {
       "headline": "Genesis AI Launches $120,000 Private Placement to Fund Operations and Growth - TipRanks",
@@ -3855,9 +3791,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
+        16,
         129,
-        28,
-        16
+        28
       ],
       "importance_score": 8
     },
@@ -3866,8 +3802,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        129,
-        16
+        16,
+        129
       ],
       "importance_score": 4
     },
@@ -3971,15 +3907,6 @@
       "importance_score": 8
     },
     {
-      "headline": "Final\u00a03\u00a0days to save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "date": "2026-04-08",
-      "involved_nodes": [
-        7
-      ],
-      "importance_score": 8
-    },
-    {
       "headline": "New AI Gives Robots Muscles Memory to Hit a 99% Success Rate on Delicate Manual Tasks - ZME Science",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMnp4a3FPUTIxODF5VE1tRFJvdXI2cllQQnZ6YlpKei00eUFsTjRZOHRXd2ZreTBuMzdwRkJXbzcxdUEyRG5zcVkxT2hNWkRpLV9wOWRBNEt1UkdkWkVka1dOejd4cXpBTV9NUmpSbHlzREU0RV9FeEpZMnVMTkRCTXd3WEhOekdUcGJGSGNwLTM?oc=5",
       "date": "2026-04-08",
@@ -4038,9 +3965,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        29,
         137,
-        127
+        127,
+        29
       ],
       "importance_score": 6
     },
@@ -4124,8 +4051,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 4
     },
@@ -4234,8 +4161,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUU1b0QzR2YtdS1wS2swaHZLWXF0UWFmamJwTS1iZWIyVzktQVFiMm8teGdMYU9LbFBsVTFtVHNRRlV3VHVIb0sySW0wMVN5RktPZnBSX2lYRVh1d3pTTFhHZ3F5d0JXTVV5b25aOVVmdm5KbTRKNVFNdVlkMmIyS2czWWVpdk1XYi1nTC10Qk9ET3hRZmg0WGZrOERocjQ5Vmpkbk1NaVlPZ1RPY1VBM1RUU2JnbkI3ZUc0?oc=5",
       "date": "2026-03-29",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 8
     },
@@ -4253,9 +4180,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5",
       "date": "2026-03-27",
       "involved_nodes": [
-        1,
         7,
-        43
+        43,
+        1
       ],
       "importance_score": 8
     },
@@ -4391,8 +4318,8 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2dYdEJHMG5uaXgybE05d0hHYnZEMXZqMFBJNUtRMGVyc2ZIMHhwbGlmSWxMN21zOTlxeFdtVEFHOEdpZjFweEV4SFRmTTVBZFQyVXJBVEFiQ0JucjNqeHJLZGl4SndvOTlSUjc0WFdpcXlzREFpcUFQTXBTTUs1d1M2ZWl4QlBtazNxV2NrWTlJc2hEVHpNbEx6b3pCZllya3ZlOVBwNDdVN05GQlV5LVdjVWhQZW1Nd042UzQycHAxWE0xZnVfd1YzY1Bwdw?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -4432,8 +4359,8 @@
       "date": "2026-03-09",
       "involved_nodes": [
         42,
-        7,
-        21
+        21,
+        7
       ],
       "importance_score": 6
     },
@@ -4580,9 +4507,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5",
       "date": "2026-01-30",
       "involved_nodes": [
-        1,
         7,
-        43
+        43,
+        1
       ],
       "importance_score": 4
     },
@@ -4609,8 +4536,8 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlAzLU9ZVWpUd3hVa3RLcTBvUUlWMWxvTGtlNHdHUW1YUjhZYzFJVkM4aGc1OWFQTUtNVTlXbzJIYmtoU1pNLW1oekc1bzlXWXlka2lRVGdfLVNZeTR3WVZtaThaSVZnekRVX09sVWhqZHNLMnJHSkVpZHB1aHg2OXVhNm1vOHJieE9BNlZaWGY1RVNTUmpSY1drZ3VDSXZxOHJnREpwZjhFTmhaOVE?oc=5",
       "date": "2026-01-15",
       "involved_nodes": [
-        24,
-        113
+        113,
+        24
       ],
       "importance_score": 6
     },
@@ -4667,8 +4594,8 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVR5NUNwa0RKSmM2N0NhVWNhQVNKVGJoaXBEb2lZR2wzX2JKTjlCUndPSFd5V1VyUWNhNmhhb1hDNzJWRUNDaFNhUkl6R05VcHE2dGxpWGI2RFdPaDV6eW4xcXFQUVpIZU8xaHJLcW5BSG9rU0FNek1EYjdTZk5rYWd5NGQ5Y082Zm41LWZNWFdJcjVkVFBWRmR2dDhaNkNGc3c?oc=5",
       "date": "2026-01-06",
       "involved_nodes": [
-        5,
         7,
+        5,
         121
       ],
       "importance_score": 9
@@ -4792,8 +4719,8 @@
       "date": "2025-08-18",
       "involved_nodes": [
         17,
-        43,
-        124
+        124,
+        43
       ],
       "importance_score": 4
     },

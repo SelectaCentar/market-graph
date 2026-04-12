@@ -518,7 +518,7 @@
       "type": "Robot OEM",
       "description": "Embodied AI startup developing foundational models and robotic hardware.",
       "website": "https://www.galaxea.ai",
-      "market_cap": "$700M (Private, $144M Raised)",
+      "market_cap": "$29B (Private, $290M Series B+)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -577,7 +577,7 @@
       "type": "Robot OEM",
       "description": "Developer of cognitive robots (like 4NE-1) with deep AI and sensor integration.",
       "website": "https://neura-robotics.com",
-      "market_cap": "$1.2B Target (Raising)",
+      "market_cap": "Raising \u20ac1B",
       "revenue": null,
       "employees": null,
       "news": [
@@ -636,7 +636,7 @@
       "type": "Supplier - AI Model",
       "description": "Startup developing physical AI systems and embodied intelligence software.",
       "website": "https://rhoda.ai",
-      "market_cap": "$1.7B (Private)",
+      "market_cap": "$1.7B (Private, $450M Series A)",
       "revenue": null,
       "employees": null,
       "news": []
@@ -647,7 +647,7 @@
       "type": "Robot OEM",
       "description": "Humanoid robotics startup developing bipedal platforms.",
       "website": "https://www.robotera.com",
-      "market_cap": "RMB 10B ($1.4B) (Private, $140M+ Raised)",
+      "market_cap": ">$10B Valuation ($1B+ Raised)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -706,7 +706,7 @@
       "type": "Supplier - AI Model",
       "description": "Building scalable foundation models for robotics to generalize across diverse hardware.",
       "website": "https://skild.ai",
-      "market_cap": "$14B+ (Private)",
+      "market_cap": ">$14B (Private, $1.4B Series C)",
       "revenue": "Pre-revenue",
       "employees": "80+",
       "news": []
@@ -896,7 +896,7 @@
       "description": "Massive logistics customer and investor in companies like Agility Robotics.",
       "website": "https://aboutamazon.com",
       "market_cap": "$1.8T",
-      "revenue": "$590B",
+      "revenue": "$717B",
       "employees": "1,500,000+",
       "news": [
         {
@@ -2482,7 +2482,7 @@
       "description": "Humanoid robotics company",
       "website": "agibot.com",
       "market_cap": "$1B+ (Est)",
-      "revenue": "Shipped 5000 units",
+      "revenue": "Shipped 5000+ units",
       "employees": "",
       "news": [
         {
@@ -2529,6 +2529,11 @@
           "date": "2026-04-10",
           "headline": "AGIBOT unveils Genie Envisioner 2.0 to advance world models into scalable simulators for embodied AI - The Robot Report",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOREZmNmt1ejJDdktGT293RlJsZ1VrS3VQVF9WS2VSRVhRWUJxYzFESXpuTER0UDNWWFljZzg2dFA0RTRDSXJFOGRHUVpoY2NNOGVZX1UtampHc2FfUWRHSXJaX0s0NjM0S0t0M2d0XzVQT0VrWjhjVVRpcFhCaEdNX0lKbnZkOXZiVnRMUS0tVzBwSWFIek1nV2VKUzdlM3dRZkx0R3pzTTZxRlhpbEMzZHpMR3FvTzhNRTIxdQ?oc=5"
+        },
+        {
+          "date": "2026-03-30",
+          "headline": "Agibot Shipped A Staggering 5,000 Humanoid Robots In The Last 3 Months - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYTJzVXozSEhRV2VjN0xaQk9UT2xvRk5sWjhCSV8ydmloYXJ4ZVMta2poX1RnM1JWU3YtbEpDU3Nwc2duaDlvSG5ScEdVeDcyWmgxOGlsRGRja3J0RHhKMEptcTVUYklJSXMtdTZGU2tKN01wblBkVUtTX05QdDMyR3JVZHhYaUtuZFlLSFIycWFvOFBwY1ZTd0R5NjFDUFVNRmptNTRjVkJ5cnB3cGdVUmVpRXMwTjJyVFUwVlZ2T1U?oc=5"
         }
       ]
     },
@@ -2570,6 +2575,28 @@
       "revenue": null,
       "employees": null,
       "news": []
+    },
+    {
+      "id": 143,
+      "name": "Alibaba",
+      "type": "End User",
+      "description": "Chinese e-commerce and tech giant distributing and deploying robotics.",
+      "website": "https://www.alibaba.com",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": [
+        {
+          "date": "2026-04-10",
+          "headline": "Alibaba\u2019s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
+          "url": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/"
+        },
+        {
+          "date": "2026-04-09",
+          "headline": "Unitree to debut cheapest humanoid robot globally via Alibaba: sources - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnVxUjBPVUpjcXdGWHlNNFVjSFMwbXFoUE9Xc29Ld2xNSVVZVWVBVkdrVV9IUENjVFptdy02UnIxWWV1ZkswS0M5OW9qQ1M2eVJCQlFSZHE1a0duSFZCUnZEUTQ3Q281OHM4WmNfLXp1SUcyNzlubTV0RHRCdl82OHhVMC1vc1kzX2RTZ1RvaExXb1lvUDBXREVMVExCZl8xdkV4dEtIbWN0eE1ZZW50WWtJckM0WGPSAbcBQVVfeXFMTTFMdWJYYlRmVHlVRTJTZW9nZE5iSnpoV0tPSDBTTWpMLVItMGFFc0psN1BZVWRsSmJhZlN6T1FYQ2cwbXNycWgtTlpONFJrMDAySFV0VnZDTzRnUFhUR1FtQTlQamR3bGpyaGR4bXlVRmpIMWl5TXRxMnlYSTU3c1pEc21PRUhFNmI2WWgzZ3RiSlFqS0Rnbkp4SU9mNW1ENm5CQ0VON1k2dmpPR3RXV0hDZ1d1RFZF?oc=5"
+        }
+      ]
     }
   ],
   "links": [
@@ -3671,6 +3698,62 @@
       "relation": "Partnership",
       "weight": 3,
       "context": "ABB and LandingAI unleash generative AI for robotic vision"
+    },
+    {
+      "source": 119,
+      "target": 21,
+      "relation": "Funding",
+      "weight": 5,
+      "context": "Backed \u20ac1B round"
+    },
+    {
+      "source": 31,
+      "target": 21,
+      "relation": "Funding",
+      "weight": 5,
+      "context": "Backed \u20ac1B round"
+    },
+    {
+      "source": 53,
+      "target": 21,
+      "relation": "Funding",
+      "weight": 5,
+      "context": "Backed \u20ac1B round"
+    },
+    {
+      "source": 52,
+      "target": 20,
+      "relation": "Funding",
+      "weight": 5,
+      "context": "Led Series A"
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "relation": "Partnership",
+      "weight": 4,
+      "context": "Ally to put over 1000 humanoids into industrial use"
+    },
+    {
+      "source": 127,
+      "target": 29,
+      "relation": "Partnership",
+      "weight": 4,
+      "context": "Accelerate Humanoid Robot Integration in Automotive Supply Chain"
+    },
+    {
+      "source": 113,
+      "target": 24,
+      "relation": "Partnership",
+      "weight": 4,
+      "context": "Deep partnership for logistics automation"
+    },
+    {
+      "source": 143,
+      "target": 30,
+      "relation": "Partnership",
+      "weight": 4,
+      "context": "Distributing Unitree cheapest humanoid globally"
     }
   ],
   "global_news": [
@@ -3724,10 +3807,19 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnBVbDlOWHJnMVA4aTVKaWp0YVFBdHp6OEx5Z25PaS13SzU2SVB2NW40WExPemtvNkhwRTZETUg3LVVqSGc0dmhBbkRVX0tUZ2xmbk5Kd2JDajF6NlptWlRhZElfU19tYmx6NFA1Si1adUtYN2xIZmlFOXV2S0kzS2hSNE9tb1NjWnd3aXVGSmxnUmt0b21HQnRCdTRQc091LU1v?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        39,
-        43
+        43,
+        39
       ],
       "importance_score": 6
+    },
+    {
+      "headline": "Alibaba\u2019s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
+      "url": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
+      "date": "2026-04-10",
+      "involved_nodes": [
+        143
+      ],
+      "importance_score": null
     },
     {
       "headline": "An End-to-End Coding Guide to NVIDIA KVPress for Long-Context LLM Inference, KV Cache Compression, and Memory-Efficient Generation",
@@ -3828,8 +3920,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        41,
-        43
+        43,
+        41
       ],
       "importance_score": 4
     },
@@ -3965,9 +4057,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
+        28,
         16,
-        129,
-        28
+        129
       ],
       "importance_score": 8
     },
@@ -4022,7 +4114,8 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnVxUjBPVUpjcXdGWHlNNFVjSFMwbXFoUE9Xc29Ld2xNSVVZVWVBVkdrVV9IUENjVFptdy02UnIxWWV1ZkswS0M5OW9qQ1M2eVJCQlFSZHE1a0duSFZCUnZEUTQ3Q281OHM4WmNfLXp1SUcyNzlubTV0RHRCdl82OHhVMC1vc1kzX2RTZ1RvaExXb1lvUDBXREVMVExCZl8xdkV4dEtIbWN0eE1ZZW50WWtJckM0WGPSAbcBQVVfeXFMTTFMdWJYYlRmVHlVRTJTZW9nZE5iSnpoV0tPSDBTTWpMLVItMGFFc0psN1BZVWRsSmJhZlN6T1FYQ2cwbXNycWgtTlpONFJrMDAySFV0VnZDTzRnUFhUR1FtQTlQamR3bGpyaGR4bXlVRmpIMWl5TXRxMnlYSTU3c1pEc21PRUhFNmI2WWgzZ3RiSlFqS0Rnbkp4SU9mNW1ENm5CQ0VON1k2dmpPR3RXV0hDZ1d1RFZF?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        30
+        30,
+        143
       ],
       "importance_score": 4
     },
@@ -4139,9 +4232,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
+        127,
         29,
-        137,
-        127
+        137
       ],
       "importance_score": 6
     },
@@ -4196,8 +4289,8 @@
       "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
       "date": "2026-04-07",
       "involved_nodes": [
-        7,
-        117
+        117,
+        7
       ],
       "importance_score": 8
     },
@@ -4233,8 +4326,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPek9fcEF0NGdSU2dkakF0LVhxbGtsOTlhNEh5b3RoQ0t6bzcwRllWTjJNMUIzUGoxbE15ZE9mcEJMX0FvTDRxRjI5Q0xaZ3dIR3NTaUtPR1FBMnJGbXdhSFZqUUUwbzJiMmYxYzBIMllqNjg1dl9OMmZzSFRjWkpvU3dDV29VU2xPaTViSklPdU5oblVqQUYydm5uc256SGdCemNoLXdPTlhzd3F4X1AtMmFQcWRqRWRwOUE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        122,
-        43
+        43,
+        122
       ],
       "importance_score": 4
     },
@@ -4243,8 +4336,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 4
     },
@@ -4376,12 +4469,21 @@
       "importance_score": 9
     },
     {
+      "headline": "Agibot Shipped A Staggering 5,000 Humanoid Robots In The Last 3 Months - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYTJzVXozSEhRV2VjN0xaQk9UT2xvRk5sWjhCSV8ydmloYXJ4ZVMta2poX1RnM1JWU3YtbEpDU3Nwc2duaDlvSG5ScEdVeDcyWmgxOGlsRGRja3J0RHhKMEptcTVUYklJSXMtdTZGU2tKN01wblBkVUtTX05QdDMyR3JVZHhYaUtuZFlLSFIycWFvOFBwY1ZTd0R5NjFDUFVNRmptNTRjVkJ5cnB3cGdVUmVpRXMwTjJyVFUwVlZ2T1U?oc=5",
+      "date": "2026-03-30",
+      "involved_nodes": [
+        139
+      ],
+      "importance_score": null
+    },
+    {
       "headline": "Physical Intelligence Seeks $1 Billion as Robotics Interest Grows - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUU1b0QzR2YtdS1wS2swaHZLWXF0UWFmamJwTS1iZWIyVzktQVFiMm8teGdMYU9LbFBsVTFtVHNRRlV3VHVIb0sySW0wMVN5RktPZnBSX2lYRVh1d3pTTFhHZ3F5d0JXTVV5b25aOVVmdm5KbTRKNVFNdVlkMmIyS2czWWVpdk1XYi1nTC10Qk9ET3hRZmg0WGZrOERocjQ5Vmpkbk1NaVlPZ1RPY1VBM1RUU2JnbkI3ZUc0?oc=5",
       "date": "2026-03-29",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 8
     },
@@ -4408,9 +4510,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5",
       "date": "2026-03-27",
       "involved_nodes": [
-        7,
+        43,
         1,
-        43
+        7
       ],
       "importance_score": 8
     },
@@ -4575,9 +4677,9 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVR6Q1JMT3ZEdXNOYjhkMjZsMUFVZTRwX0d2dkgtaV9zSHAtaGhMaDk5LWQ3aV9zVmc0NHVuSEd5Uk5ZRzNNY1Ixa29yekxYT2pzSDlHMHBnTVNXVllUNUxIeGlfSHlaRVNnSHJ5ZUFJc29GbW55TUljUlNwWDdhMjJoYmJ4X0lMX2hIeGVFdTJKN1Bad2lNYWxjR0Z3NWpnNkl3Y2d1UlV2TlNUM2c?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        7,
+        20,
         125,
-        20
+        7
       ],
       "importance_score": 8
     },
@@ -4595,9 +4697,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJ4dXVCZHJIMm1velFsRW1wdDU2WHJDRTE5YzQ1NmFvT3dsZFA3eFhNSGljTEQyM3AzYzJXTW9WZFZBVzZuVVpFZTlEaEdvR1d2Qld0bVN2YXZDNU5CWlVndmZEakktU3lxb0VFcWZ6V2ZPekxONWNraDBYN3JPdno1cjQtWVZ1Zk9oakpqZmFiV0U0RHY4aGJsYzVOdEE?oc=5",
       "date": "2026-03-09",
       "involved_nodes": [
+        42,
         21,
-        7,
-        42
+        7
       ],
       "importance_score": 6
     },
@@ -4725,8 +4827,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclM2NlYtR0FLdkw1NEdzMzNPaFE3RjN1ZW4xckw2YVhSelR0QXBwVGJyZDRXZjFvZThqV1lvZE1SWENOR2ZqMkxqemlOWFR1M2RwMDRieGJJZEtXVTc0cjZBQ0JUVkMwTERaYjRGQTFyMmUtQ1JoMTFsaG04QVRHNUtVcHU0ZXR0c29abXpJOWt0NXoxZ0Q1VFBDTEpFQTVkZjlLMDJMdG7SAa4BQVVfeXFMTjl2ZjVuT05tMmpNdHJGUTZQVkpoYjR2OTZWR2VMclNjeXUzQ01sOWpVaTYydDZ3b3VMRGpzVmN6LUs4MW5vcHRFYXMxdGxzcHZ0ZmIzY205YmNzaWlMNjhKN0hmQkxzSkdWbXEtZ1Y5a1dIejVyMkFaRm1abzF2YXI4QzZGaENNRkVRdDA0SHVzZXlMajVkQ2psNUx1VTM2N2huZGN3Z0lFSGtyckpn?oc=5",
       "date": "2026-02-11",
       "involved_nodes": [
-        15,
-        28
+        28,
+        15
       ],
       "importance_score": 8
     },
@@ -4735,8 +4837,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjFQcTBGTVQwb2s4cWVtX25nUlRyb3Jva2h3Z19DUzcyYUI1T2R6eklNMi0wbDFNd01hSkk3QUtJWXFuRTR2ZEtscWFCUE1SeEp5VzdFdGFucWc4c2FPNTJWTXFIRUNwcWFrNEpXLWVkTXF2YlhFWXhhdG45emN5M1NldXZxMzFjUHg4d25jRUdfdGFkc3E0Q0VvRnJmOVBCU0RfZmZZamM?oc=5",
       "date": "2026-02-11",
       "involved_nodes": [
-        15,
-        7
+        7,
+        15
       ],
       "importance_score": 8
     },
@@ -4754,9 +4856,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5",
       "date": "2026-01-30",
       "involved_nodes": [
-        7,
+        43,
         1,
-        43
+        7
       ],
       "importance_score": 4
     },
@@ -4792,8 +4894,8 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlAzLU9ZVWpUd3hVa3RLcTBvUUlWMWxvTGtlNHdHUW1YUjhZYzFJVkM4aGc1OWFQTUtNVTlXbzJIYmtoU1pNLW1oekc1bzlXWXlka2lRVGdfLVNZeTR3WVZtaThaSVZnekRVX09sVWhqZHNLMnJHSkVpZHB1aHg2OXVhNm1vOHJieE9BNlZaWGY1RVNTUmpSY1drZ3VDSXZxOHJnREpwZjhFTmhaOVE?oc=5",
       "date": "2026-01-15",
       "involved_nodes": [
-        113,
-        24
+        24,
+        113
       ],
       "importance_score": 6
     },
@@ -4907,9 +5009,9 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb21RYW9mQTJEbWJ6N0tXYXQzMEdOUk9Rdk5ONmFKdndNUGdEblpETEtpQXI5REJDUlNIa3U5cGJSSHJqVzlCYW1haUY4RzlEU1ZnNm82NFZnbVU4dTE4M3VNQW8tUWNzb2F4ZEM2WVE1MmZ0NGhIeTRJRVZBS2I1eUhHUVpJMGVUbVBhN0ZWblBhUG9KOU9OenhB?oc=5",
       "date": "2025-11-04",
       "involved_nodes": [
-        7,
+        20,
         125,
-        20
+        7
       ],
       "importance_score": 4
     },
@@ -4983,9 +5085,9 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92dWFZaWdpYWplYlRkU0FBc3V3eWdNb1M4dkR3alVZMENMSlZzcEZIWi1fUnVZVDUzcmFnSm5EWHh2eU5haGMxQ0FYaWFmVm9mR3BneTlhNzl5XzRPTnJnZmRyeEx6TnJzbXE0SmJZUWJpeU9Z?oc=5",
       "date": "2025-08-18",
       "involved_nodes": [
-        124,
         43,
-        17
+        17,
+        124
       ],
       "importance_score": 4
     },

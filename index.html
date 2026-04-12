@@ -4969,6 +4969,32 @@
         const elem = document.getElementById('graph-container');
         const Graph = ForceGraph()(elem)
             .graphData(graphData)
+            .onRenderFramePre((ctx, globalScale) => {
+                if (typeof currentLayoutMode !== 'undefined') {
+                    if (currentLayoutMode === 'geospatial') {
+                        ctx.save();
+                        ctx.font = "bold 60px Arial";
+                        ctx.textAlign = "center";
+                        ctx.fillStyle = "rgba(255, 255, 255, 0.05)";
+                        ctx.fillText("NORTH AMERICA", -350, 0);
+                        ctx.fillText("EUROPE", 350, -250);
+                        ctx.fillText("ASIA", 350, 250);
+                        ctx.restore();
+                    } else if (currentLayoutMode === 'supply-chain') {
+                        ctx.save();
+                        ctx.font = "bold 50px Arial";
+                        ctx.textAlign = "center";
+                        ctx.fillStyle = "rgba(255, 255, 255, 0.04)";
+                        ctx.fillText("PROVIDERS", -450, -250);
+                        ctx.fillText("COMPETITORS", 0, 0);
+                        ctx.fillText("CUSTOMERS", 450, 250);
+                        ctx.fillText("INVESTORS", 0, 450);
+                        ctx.fillText("PARTNERS", 350, -350);
+                        ctx.restore();
+                    }
+                }
+            })
+
             .nodeId('id')
             .nodeColor(n => {
                 if (highlightNodes.size > 0) return highlightNodes.has(n) ? (colors[n.type] || '#ccc') : 'rgba(100,100,100,0.1)';

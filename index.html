@@ -5187,8 +5187,7 @@
             'Supplier - Data': '#6ab04c',
             'Integrator': '#c8d6e5',    
             'Investor': '#1dd1a1',      
-            'Outlet': '#ff6b6b',        
-            'Partner': '#10ac84'        
+            'Outlet': '#ff6b6b'        
         };
 
         let hiddenTypes = new Set();
@@ -5261,7 +5260,6 @@
                         ctx.fillText("ROBOT OEMs", 0, 0);
                         ctx.fillText("END USERS", 450, 250);
                         ctx.fillText("INVESTORS", 0, 450);
-                        ctx.fillText("PARTNERS", 350, -350);
                         ctx.restore();
                     }
                 }
@@ -5521,7 +5519,6 @@
                     else if (node.type === 'Robot OEM') { targetX = 0; targetY = 0; }
                     else if (node.type === 'End User') { targetX = 450; targetY = 250; }
                     else if (node.type === 'Investor') { targetX = 0; targetY = 450; }
-                    else if (node.type === 'Partner') { targetX = 350; targetY = -350; }
                     else if (node.type === 'Target') { targetX = -350; targetY = 350; }
                 } else if (currentLayoutMode === 'geospatial') {
                     const region = getRegion(node.name);

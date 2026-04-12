@@ -267,7 +267,7 @@
     {
       "id": 8,
       "name": "Toyota",
-      "type": "Customer",
+      "type": "End User",
       "description": "Multinational automotive manufacturer and major deployer/partner for robotics (e.g., Agility Robotics).",
       "website": "https://global.toyota",
       "market_cap": null,
@@ -316,7 +316,7 @@
     {
       "id": 10,
       "name": "Mercado Libre",
-      "type": "Customer",
+      "type": "End User",
       "description": "Latin American e-commerce and logistics giant deploying advanced fulfillment robots.",
       "website": "https://www.mercadolibre.com",
       "market_cap": null,
@@ -327,7 +327,7 @@
     {
       "id": 11,
       "name": "BMW",
-      "type": "Customer",
+      "type": "End User",
       "description": "Major automotive manufacturer and customer piloting Figure's humanoid robots in manufacturing.",
       "website": "https://www.bmw.com",
       "market_cap": null,
@@ -892,7 +892,7 @@
     {
       "id": 31,
       "name": "Amazon",
-      "type": "Customer",
+      "type": "End User",
       "description": "Massive logistics customer and investor in companies like Agility Robotics.",
       "website": "https://aboutamazon.com",
       "market_cap": "$1.8T",
@@ -959,7 +959,7 @@
     {
       "id": 32,
       "name": "BYD",
-      "type": "Customer",
+      "type": "End User",
       "description": "Massive EV manufacturer deploying humanoids (like UBTECH) on its assembly lines.",
       "website": "https://www.byd.com",
       "market_cap": null,
@@ -970,7 +970,7 @@
     {
       "id": 33,
       "name": "Foxconn",
-      "type": "Customer",
+      "type": "End User",
       "description": "Global contract electronics manufacturer and massive consumer of industrial automation.",
       "website": "https://www.foxconn.com",
       "market_cap": null,
@@ -981,7 +981,7 @@
     {
       "id": 34,
       "name": "Geely",
-      "type": "Customer",
+      "type": "End User",
       "description": "Global automotive group actively integrating advanced robotics into its supply chain.",
       "website": "https://zgh.com",
       "market_cap": null,
@@ -992,7 +992,7 @@
     {
       "id": 35,
       "name": "GXO Logistics",
-      "type": "Customer",
+      "type": "End User",
       "description": "Massive contract logistics provider, actively piloting Apptronik's Apollo humanoids.",
       "website": "https://gxo.com",
       "market_cap": "$6B",
@@ -1019,7 +1019,7 @@
     {
       "id": 36,
       "name": "Hyundai",
-      "type": "Customer",
+      "type": "End User",
       "description": "Multinational automotive manufacturer, parent company of Boston Dynamics.",
       "website": "https://www.hyundai.com",
       "market_cap": null,
@@ -1030,7 +1030,7 @@
     {
       "id": 37,
       "name": "Mercedes-Benz",
-      "type": "Customer",
+      "type": "End User",
       "description": "Automotive customer and partner actively piloting Apptronik's Apollo.",
       "website": "https://www.mercedes-benz.com",
       "market_cap": null,
@@ -1347,7 +1347,7 @@
     {
       "id": 54,
       "name": "Renault Group",
-      "type": "Customer",
+      "type": "End User",
       "description": "Automotive manufacturer actively investing in and deploying factory robotics.",
       "website": "https://www.renaultgroup.com",
       "market_cap": null,
@@ -1520,7 +1520,7 @@
     {
       "id": 66,
       "name": "Tesla Manufacturing",
-      "type": "Customer",
+      "type": "End User",
       "description": "Internal customer branch responsible for deploying Optimus humanoids to the factory floor.",
       "website": "https://tesla.com/manufacturing",
       "market_cap": null,
@@ -1586,7 +1586,7 @@
     {
       "id": 72,
       "name": "Samsung Electronics",
-      "type": "Customer",
+      "type": "End User",
       "description": "Consumer electronics giant deploying vast amounts of internal automation and robotics.",
       "website": "https://samsung.com",
       "market_cap": null,
@@ -1597,7 +1597,7 @@
     {
       "id": 73,
       "name": "Samsung Heavy Industries",
-      "type": "Customer",
+      "type": "End User",
       "description": "Shipbuilding and construction arm of Samsung utilizing heavy-duty automation.",
       "website": "https://samsungshi.com",
       "market_cap": null,
@@ -1663,7 +1663,7 @@
     {
       "id": 79,
       "name": "Foxconn / Hon Hai",
-      "type": "Customer",
+      "type": "End User",
       "description": "The world's largest contract manufacturer, serving as an unmatched deployment ground for robotics.",
       "website": "https://foxconn.com",
       "market_cap": null,
@@ -1696,7 +1696,7 @@
     {
       "id": 82,
       "name": "Hyundai Motor Group",
-      "type": "Customer",
+      "type": "End User",
       "description": "Majority owner of Boston Dynamics and massive deployer of robotics in auto manufacturing.",
       "website": "https://hyundaimotorgroup.com",
       "market_cap": "$50B+",
@@ -1746,7 +1746,7 @@
     {
       "id": 86,
       "name": "Bharat Forge",
-      "type": "Customer",
+      "type": "End User",
       "description": "Indian industrial conglomerate partnering to bring advanced robotics manufacturing to India.",
       "website": "https://bharatforge.com",
       "market_cap": null,
@@ -1801,7 +1801,7 @@
     {
       "id": 91,
       "name": "FedEx",
-      "type": "Customer",
+      "type": "End User",
       "description": "Global logistics corporation heavily investing in sorting, packing, and delivery robotics.",
       "website": "https://fedex.com",
       "market_cap": null,
@@ -2032,7 +2032,7 @@
     {
       "id": 112,
       "name": "JD Group",
-      "type": "Customer",
+      "type": "End User",
       "description": "Chinese e-commerce giant heavily utilizing autonomous warehouses and delivery robots.",
       "website": "https://jd.com",
       "market_cap": null,
@@ -2043,7 +2043,7 @@
     {
       "id": 113,
       "name": "SF Technology",
-      "type": "Customer",
+      "type": "End User",
       "description": "Technology arm of SF Express, a major logistics customer for automated sorting.",
       "website": "https://sf-express.com",
       "market_cap": null,
@@ -2256,7 +2256,7 @@
     {
       "id": 123,
       "name": "New Hope",
-      "type": "Customer",
+      "type": "End User",
       "description": "Major Chinese conglomerate integrating AI and automation into agriculture and manufacturing.",
       "website": "https://newhopegroup.com",
       "market_cap": null,
@@ -2267,7 +2267,7 @@
     {
       "id": 124,
       "name": "BASF",
-      "type": "Customer",
+      "type": "End User",
       "description": "Chemical giant deploying robotics and physical AI for dangerous materials handling.",
       "website": "https://basf.com",
       "market_cap": null,
@@ -2284,7 +2284,7 @@
     {
       "id": 125,
       "name": "Rivian",
-      "type": "Customer",
+      "type": "End User",
       "description": "EV manufacturer and primary development partner/customer for Mind Robotics.",
       "website": "https://rivian.com",
       "market_cap": null,
@@ -2351,7 +2351,7 @@
     {
       "id": 129,
       "name": "Kia",
-      "type": "Customer",
+      "type": "End User",
       "description": "South Korean automaker deploying humanoid robots in manufacturing facilities.",
       "website": null,
       "market_cap": null,
@@ -2373,7 +2373,7 @@
     {
       "id": 130,
       "name": "Ford",
-      "type": "Customer",
+      "type": "End User",
       "description": "American automaker exploring robotic logistics and manufacturing automation.",
       "website": null,
       "market_cap": null,
@@ -2384,7 +2384,7 @@
     {
       "id": 131,
       "name": "Magna International",
-      "type": "Customer",
+      "type": "End User",
       "description": "Tier-1 automotive parts supplier piloting general-purpose robots.",
       "website": null,
       "market_cap": null,
@@ -2395,7 +2395,7 @@
     {
       "id": 132,
       "name": "General Motors",
-      "type": "Customer",
+      "type": "End User",
       "description": "American automaker utilizing vast arrays of traditional industrial robots.",
       "website": null,
       "market_cap": null,
@@ -2406,7 +2406,7 @@
     {
       "id": 133,
       "name": "Volkswagen",
-      "type": "Customer",
+      "type": "End User",
       "description": "German automotive group heavily reliant on industrial automation and traditional robotics.",
       "website": null,
       "market_cap": null,
@@ -2417,7 +2417,7 @@
     {
       "id": 134,
       "name": "Porsche",
-      "type": "Customer",
+      "type": "End User",
       "description": "German high-performance automaker utilizing advanced KUKA robotic assembly lines.",
       "website": null,
       "market_cap": null,
@@ -2450,7 +2450,7 @@
     {
       "id": 137,
       "name": "Honda",
-      "type": "Customer",
+      "type": "End User",
       "description": "Japanese public multinational conglomerate manufacturer of automobiles, motorcycles, and power equipment.",
       "website": null,
       "market_cap": null,
@@ -3724,8 +3724,8 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnBVbDlOWHJnMVA4aTVKaWp0YVFBdHp6OEx5Z25PaS13SzU2SVB2NW40WExPemtvNkhwRTZETUg3LVVqSGc0dmhBbkRVX0tUZ2xmbk5Kd2JDajF6NlptWlRhZElfU19tYmx6NFA1Si1adUtYN2xIZmlFOXV2S0kzS2hSNE9tb1NjWnd3aXVGSmxnUmt0b21HQnRCdTRQc091LU1v?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        39,
-        43
+        43,
+        39
       ],
       "importance_score": 6
     },
@@ -3743,8 +3743,8 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVd2amhOYjJSUFhna0NNaEY3NmZUeXQzVGl0emk3LWZKM3lOUW5wUlFfXy1YVURhcVBNX0tON2VEeGVBaDR5M0NXX2NENHJjQmh5SXo3cWVKVkc1REQ5Mlp0WWZvdVNrYXJIcHBSUHIzZFF6VV9LNENYQXRGbkZNenBPVkxaYkhMSVpEdnZaY251UnYwNUd5MVlBVjBydkZ2T3plVGMzVXZ3MTVDZnkwWlRCM0MtcHp5MnZjeXB6U1FTd2tyb2hfRVZGX0M3ektMTjFJ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -3753,8 +3753,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3d5QjRxMkhNTHhMZDBjdi0zbzFTYkFyLTdwTzRfZ291QS1rVFBBemNCTEJkdDBHVnJKSnFDa2lMN2hpQTU1NzNOX0NLVFRZZHpyaDJDcERFQnJ6djZDLTNMQWd2ZmpabmZQSThIQlZiNzBDQ3R3Mldja2FxUGl1M0JVSVhnZ09mVXpBNmxxMlNWSkFJXzhIZjVjS2JCM3ZW?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": null
     },
@@ -3763,8 +3763,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1NWUGM4X1UzZTdISmZFTjZ6T1ZVLXhtOTZNc0hjMklscWVBSldaWGUtVGt0d3JNSElUNmpTXzNBemlRcWdLemg5VUtqekhqSXh1eE94MU9sc0hkMHNJZnp0WUVhUkNuandlR1V4Q1JCWHd3UXBfandvMVpVTUU5d3lITTFKUQ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -3828,8 +3828,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        41,
-        43
+        43,
+        41
       ],
       "importance_score": 4
     },
@@ -3901,8 +3901,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        3,
-        128
+        128,
+        3
       ],
       "importance_score": 6
     },
@@ -3965,9 +3965,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
+        28,
         129,
-        16,
-        28
+        16
       ],
       "importance_score": 8
     },
@@ -4177,8 +4177,8 @@
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPV0gxQUhoUGdabXlYOXo1Y19RaGNlMlpxMDF4YU10aTZzRHlfalhKZTdOb2twSUZXZWc3MjJWc1NNNmNpR1Q3c1N3N1FSN3U0OWRBb2NtSXlUV1FBSW5ONHFSY3haVzJZT0N0dzFqcDYycGxGYzEzUzJNWmlWdGliVU1IU2dwaWFmYmxaVC13SmNxaUhxTGwzY0ZjcHlsSGUweW4zMkpqcWlDRlNsSTRRQUU2RzhOeGhqR2FyNnRJeU52ZUpJUGpFbmNuRkpYdjQyZGZOdXkzNzBGZU8wT0VoYUtzRUlILXc5ak1rMUVXYjdwby03MWVWTFlBcGk0ZGdnek9FUVZ0NkI1aU5mSEdla19sYlRFN2NXSFNwdUdwSEZYUTlnR1RtX0l1WEhpWmxOSG5nbFNnWE1LMnRKWVNudVVRZ3NkdWE3TjZ6NF9HTW1TYUVoRHotNGU3U082WXhEOTNaX3pfNVZFZw?oc=5",
       "date": "2026-04-07",
       "involved_nodes": [
-        140,
-        21
+        21,
+        140
       ],
       "importance_score": 6
     },
@@ -4196,8 +4196,8 @@
       "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
       "date": "2026-04-07",
       "involved_nodes": [
-        117,
-        7
+        7,
+        117
       ],
       "importance_score": 8
     },
@@ -4243,8 +4243,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 4
     },
@@ -4380,8 +4380,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUU1b0QzR2YtdS1wS2swaHZLWXF0UWFmamJwTS1iZWIyVzktQVFiMm8teGdMYU9LbFBsVTFtVHNRRlV3VHVIb0sySW0wMVN5RktPZnBSX2lYRVh1d3pTTFhHZ3F5d0JXTVV5b25aOVVmdm5KbTRKNVFNdVlkMmIyS2czWWVpdk1XYi1nTC10Qk9ET3hRZmg0WGZrOERocjQ5Vmpkbk1NaVlPZ1RPY1VBM1RUU2JnbkI3ZUc0?oc=5",
       "date": "2026-03-29",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 8
     },
@@ -4408,9 +4408,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5",
       "date": "2026-03-27",
       "involved_nodes": [
+        43,
         1,
-        7,
-        43
+        7
       ],
       "importance_score": 8
     },
@@ -4464,8 +4464,8 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3RwLTd0X0d1UWdMOWl3ZXY2bzFvRW50ckdZWU5hdjNQMzJLUWtOcjg4a1M0Mklkblk0TzUwYzZianowM1RySU5jUDBoZ0tzb0pVNU1nbU5xZUxRUy10YlN0RlhnZkd5enNWM2xwNXg4TExNUkhVWmZtWDB0WWJEX1l0WjVLeWx2dmw5YnR0RlBkeWlKT0wxZ3IwMEFGdWlHRHlLRTZRY3ZJbUw5TG5mVQ?oc=5",
       "date": "2026-03-25",
       "involved_nodes": [
-        31,
-        21
+        21,
+        31
       ],
       "importance_score": 4
     },
@@ -4555,8 +4555,8 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2dYdEJHMG5uaXgybE05d0hHYnZEMXZqMFBJNUtRMGVyc2ZIMHhwbGlmSWxMN21zOTlxeFdtVEFHOEdpZjFweEV4SFRmTTVBZFQyVXJBVEFiQ0JucjNqeHJLZGl4SndvOTlSUjc0WFdpcXlzREFpcUFQTXBTTUs1d1M2ZWl4QlBtazNxV2NrWTlJc2hEVHpNbEx6b3pCZllya3ZlOVBwNDdVN05GQlV5LVdjVWhQZW1Nd042UzQycHAxWE0xZnVfd1YzY1Bwdw?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -4565,8 +4565,8 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoQlhYekEyRUFUeS1wTTNxNjNMelJlQ0Mwczl2ZEZMb2lLd3QyaXgxX1o2WVpNVURyNFoxYjZ1VU5NMVEwWC1MUnhDTDF1LTcyLWticGdZQ1otWGJjYVhhVFc3WHg5SkNO?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        20,
-        52
+        52,
+        20
       ],
       "importance_score": 4
     },
@@ -4575,8 +4575,8 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVR6Q1JMT3ZEdXNOYjhkMjZsMUFVZTRwX0d2dkgtaV9zSHAtaGhMaDk5LWQ3aV9zVmc0NHVuSEd5Uk5ZRzNNY1Ixa29yekxYT2pzSDlHMHBnTVNXVllUNUxIeGlfSHlaRVNnSHJ5ZUFJc29GbW55TUljUlNwWDdhMjJoYmJ4X0lMX2hIeGVFdTJKN1Bad2lNYWxjR0Z3NWpnNkl3Y2d1UlV2TlNUM2c?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        125,
         20,
+        125,
         7
       ],
       "importance_score": 8
@@ -4595,9 +4595,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJ4dXVCZHJIMm1velFsRW1wdDU2WHJDRTE5YzQ1NmFvT3dsZFA3eFhNSGljTEQyM3AzYzJXTW9WZFZBVzZuVVpFZTlEaEdvR1d2Qld0bVN2YXZDNU5CWlVndmZEakktU3lxb0VFcWZ6V2ZPekxONWNraDBYN3JPdno1cjQtWVZ1Zk9oakpqZmFiV0U0RHY4aGJsYzVOdEE?oc=5",
       "date": "2026-03-09",
       "involved_nodes": [
-        42,
         21,
-        7
+        7,
+        42
       ],
       "importance_score": 6
     },
@@ -4624,8 +4624,8 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmlSZXpDaXUtWnVYMDFhWkM2a0lzSEFJLS1vN0xoOVdhM0JLdzVkQWhocDVfakhHMVpnZmVSWURNbS1ZY1RsQzFibGROX0dXTzJ3TWhzcVhoOHVIZ1pGSldqMlFaVm1TRFZuU0tIRzFteFc1ZEJTaHBHSWJoVURiMmZvRkptbzJ1X0d3RjZjSV9rWVV1eEdTTXhFSk9tU3g0Y1pjd09vdGZkS2tK?oc=5",
       "date": "2026-03-06",
       "involved_nodes": [
-        119,
-        21
+        21,
+        119
       ],
       "importance_score": null
     },
@@ -4688,8 +4688,8 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamZKYnhpZjhLVmJmcGkyemVyS21COHVmNkRFUl9OX0FQZVpFWEJ0bGlfQUExVEtVVjEzZlMzbFMyNXRwektEVExadFMyeENtNUdPYUhONUJkOVJ4ellQSWNjbkNfVHROQ2VXeUxMZUZpLVBKT2pDRHduVm9STWJRZVVjVGhjRXdTLWpPeHBIampCcksxT3RnVFBtOUlHV3pCeEhuNWpYaTBSMGNJM3RFcDdBZ2JDZ282UXNxa1oxWXlHUmtySkdR?oc=5",
       "date": "2026-02-19",
       "involved_nodes": [
-        8,
-        2
+        2,
+        8
       ],
       "importance_score": 8
     },
@@ -4725,8 +4725,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclM2NlYtR0FLdkw1NEdzMzNPaFE3RjN1ZW4xckw2YVhSelR0QXBwVGJyZDRXZjFvZThqV1lvZE1SWENOR2ZqMkxqemlOWFR1M2RwMDRieGJJZEtXVTc0cjZBQ0JUVkMwTERaYjRGQTFyMmUtQ1JoMTFsaG04QVRHNUtVcHU0ZXR0c29abXpJOWt0NXoxZ0Q1VFBDTEpFQTVkZjlLMDJMdG7SAa4BQVVfeXFMTjl2ZjVuT05tMmpNdHJGUTZQVkpoYjR2OTZWR2VMclNjeXUzQ01sOWpVaTYydDZ3b3VMRGpzVmN6LUs4MW5vcHRFYXMxdGxzcHZ0ZmIzY205YmNzaWlMNjhKN0hmQkxzSkdWbXEtZ1Y5a1dIejVyMkFaRm1abzF2YXI4QzZGaENNRkVRdDA0SHVzZXlMajVkQ2psNUx1VTM2N2huZGN3Z0lFSGtyckpn?oc=5",
       "date": "2026-02-11",
       "involved_nodes": [
-        15,
-        28
+        28,
+        15
       ],
       "importance_score": 8
     },
@@ -4754,9 +4754,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5",
       "date": "2026-01-30",
       "involved_nodes": [
+        43,
         1,
-        7,
-        43
+        7
       ],
       "importance_score": 4
     },
@@ -4820,8 +4820,8 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUk1wVHd1cmRLNlhTZUxqb003WDFrdlRud2YtU29Kc1EzTU13bUNMTllPaWsxRlYtNE9yVGJVN0VDOUMxTUw0Zmp2b0NQamRLRWhsSWpha05rRFNoaDh2cTFFRFFLVk9xVGZYZmd1Ml8tNHY2b1l2SW9VRUw1NWNoVkhWaE1Fa2JJTS1BS09xNDNfUTdEdXZVMi1lWGxzSXA0RFA0NWVoVDE4Y1ZjNzEzaGRUX3Exc0hObkp6QkJ0aXdrNWxEUDdSMQ?oc=5",
       "date": "2026-01-07",
       "involved_nodes": [
-        17,
-        43
+        43,
+        17
       ],
       "importance_score": 6
     },
@@ -4850,9 +4850,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVR5NUNwa0RKSmM2N0NhVWNhQVNKVGJoaXBEb2lZR2wzX2JKTjlCUndPSFd5V1VyUWNhNmhhb1hDNzJWRUNDaFNhUkl6R05VcHE2dGxpWGI2RFdPaDV6eW4xcXFQUVpIZU8xaHJLcW5BSG9rU0FNek1EYjdTZk5rYWd5NGQ5Y082Zm41LWZNWFdJcjVkVFBWRmR2dDhaNkNGc3c?oc=5",
       "date": "2026-01-06",
       "involved_nodes": [
-        7,
         121,
-        5
+        5,
+        7
       ],
       "importance_score": 9
     },
@@ -4888,8 +4888,8 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4taHBxQTI4d3FleWoxRXM1OEpRRldGYnB4Y2EycDU4TGd5cnJBemlNZ2M2cVFJMDVtZGdmVlp1M1J0eThNaXRXd3RybWp6azd0VUpYZWZCVTJWb244dHR6YjZqQVNkZEp6aURuWkYxYURxQ3FaYTJv?oc=5",
       "date": "2025-12-04",
       "involved_nodes": [
-        31,
-        2
+        2,
+        31
       ],
       "importance_score": 4
     },
@@ -4907,8 +4907,8 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb21RYW9mQTJEbWJ6N0tXYXQzMEdOUk9Rdk5ONmFKdndNUGdEblpETEtpQXI5REJDUlNIa3U5cGJSSHJqVzlCYW1haUY4RzlEU1ZnNm82NFZnbVU4dTE4M3VNQW8tUWNzb2F4ZEM2WVE1MmZ0NGhIeTRJRVZBS2I1eUhHUVpJMGVUbVBhN0ZWblBhUG9KOU9OenhB?oc=5",
       "date": "2025-11-04",
       "involved_nodes": [
-        125,
         20,
+        125,
         7
       ],
       "importance_score": 4
@@ -4983,9 +4983,9 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92dWFZaWdpYWplYlRkU0FBc3V3eWdNb1M4dkR3alVZMENMSlZzcEZIWi1fUnVZVDUzcmFnSm5EWHh2eU5haGMxQ0FYaWFmVm9mR3BneTlhNzl5XzRPTnJnZmRyeEx6TnJzbXE0SmJZUWJpeU9Z?oc=5",
       "date": "2025-08-18",
       "involved_nodes": [
-        17,
+        43,
         124,
-        43
+        17
       ],
       "importance_score": 4
     },
@@ -4994,8 +4994,8 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHR6XzRuNmRXdklVR29xdGp0MWZMNGZKcVViWWhvMHNXWlVOWGRMUjcwNkR3YURMc2kwMlljZXY5amlPMS1MUHplYUs4ZEVOVkJzc29DVkIwN3R0X0JKR2dlaHZOYnJEdG5rb0gyZ0k0ZmVEY2xkMExJTHJDbWU3bExha3FMY1RpdjRhUFhfdWlvNXU3SDd2X1F6UEpPXzNtbGtjNUl2OVUycnBPUlF4UmVVb0FIMzJYOVowMTk4ZmhJUW8?oc=5",
       "date": "2025-08-07",
       "involved_nodes": [
-        17,
-        43
+        43,
+        17
       ],
       "importance_score": 6
     },

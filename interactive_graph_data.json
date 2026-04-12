@@ -35,7 +35,7 @@
     {
       "id": 2,
       "name": "Agility Robotics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Creator of Digit, a bipedal robot designed for logistics and warehouse work, backed by Amazon.",
       "website": "https://agilityrobotics.com",
       "market_cap": "$1.2B (Private)",
@@ -67,7 +67,7 @@
     {
       "id": 3,
       "name": "Figure AI",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Developer of Figure 01/02 humanoid robots, heavily partnered with OpenAI, BMW, and Brookfield.",
       "website": "https://figure.ai",
       "market_cap": "$39B (Private)",
@@ -131,7 +131,7 @@
     {
       "id": 5,
       "name": "Mentee Robotics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Israeli robotics company building Menteebot, an AI-first bipedal humanoid.",
       "website": "https://www.menteebot.com",
       "market_cap": "$900M (Acquired)",
@@ -360,7 +360,7 @@
     {
       "id": 14,
       "name": "1X Technologies",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Norwegian robotics company backed by OpenAI, developing wheeled (EVE) and bipedal (NEO) androids.",
       "website": "https://1x.tech",
       "market_cap": "$10B Target (Raising)",
@@ -392,7 +392,7 @@
     {
       "id": 15,
       "name": "Apptronik",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Developer of Apollo, a general-purpose humanoid robot partnered with GXO Logistics.",
       "website": "https://apptronik.com",
       "market_cap": "$5B+ (Private, $935M Raised)",
@@ -419,7 +419,7 @@
     {
       "id": 16,
       "name": "Boston Dynamics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Pioneer in advanced robotics (Atlas, Spot), majority-owned by Hyundai, partnering with Google DeepMind.",
       "website": "https://bostondynamics.com",
       "market_cap": "N/A (Hyundai)",
@@ -456,7 +456,7 @@
     {
       "id": 17,
       "name": "Fourier Intelligence",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Developer of the GR-1 general-purpose humanoid robot and rehabilitation tech.",
       "website": "https://www.fftai.com",
       "market_cap": null,
@@ -483,7 +483,7 @@
     {
       "id": 18,
       "name": "GALBOT",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Robotics company building embodied AI solutions and humanoid platforms.",
       "website": "https://www.galbot.com",
       "market_cap": "$3B (Private, $300M+ Raised)",
@@ -515,7 +515,7 @@
     {
       "id": 19,
       "name": "Galaxea AI",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Embodied AI startup developing foundational models and robotic hardware.",
       "website": "https://www.galaxea.ai",
       "market_cap": "$700M (Private, $144M Raised)",
@@ -542,7 +542,7 @@
     {
       "id": 20,
       "name": "Mind Robotics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "AI-enabled industrial robotics company backed by Andreessen Horowitz to automate complex factory tasks.",
       "website": "https://www.mindrobotics.com",
       "market_cap": "$500M+ Raised (Private)",
@@ -574,7 +574,7 @@
     {
       "id": 21,
       "name": "Neura Robotics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Developer of cognitive robots (like 4NE-1) with deep AI and sensor integration.",
       "website": "https://neura-robotics.com",
       "market_cap": "$1.2B Target (Raising)",
@@ -606,7 +606,7 @@
     {
       "id": 22,
       "name": "Rainbow Robotics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Korean robotics manufacturer of cobots and bipeds, significantly backed by Samsung.",
       "website": "https://www.rainbow-robotics.com",
       "market_cap": null,
@@ -644,7 +644,7 @@
     {
       "id": 24,
       "name": "Robotera",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Humanoid robotics startup developing bipedal platforms.",
       "website": "https://www.robotera.com",
       "market_cap": "RMB 10B ($1.4B) (Private, $140M+ Raised)",
@@ -671,7 +671,7 @@
     {
       "id": 25,
       "name": "Sanctuary AI",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Developing Phoenix, a general-purpose robot focusing on human-like dexterity and intelligence.",
       "website": "https://sanctuary.ai",
       "market_cap": "Est. $1B+ (Private)",
@@ -756,7 +756,7 @@
     {
       "id": 28,
       "name": "Tesla",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Developing the Optimus humanoid robot and Dojo compute infrastructure for massive scale manufacturing.",
       "website": "https://tesla.com",
       "market_cap": "$650B",
@@ -813,7 +813,7 @@
     {
       "id": 29,
       "name": "UBTECH",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Major Chinese robotics firm pushing Walker S humanoids into automotive manufacturing.",
       "website": "https://www.ubtrobot.com",
       "market_cap": null,
@@ -850,7 +850,7 @@
     {
       "id": 30,
       "name": "Unitree Robotics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Chinese robotics firm developing low-cost quadruped and bipedal (H1, G1) robots.",
       "website": "https://unitree.com",
       "market_cap": "$3B - $7B (Pre-IPO target)",
@@ -1041,7 +1041,7 @@
     {
       "id": 38,
       "name": "Xiaomi",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Consumer electronics giant developing the CyberOne humanoid and investing in robotics.",
       "website": "https://www.mi.com",
       "market_cap": null,
@@ -1498,7 +1498,7 @@
     {
       "id": 64,
       "name": "X Square Robot",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Robotics startup focused on specific logistics automation workflows.",
       "website": "https://x-squarerobot.com",
       "market_cap": null,
@@ -1542,7 +1542,7 @@
     {
       "id": 68,
       "name": "OpenAI Robotics Lab",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Internal OpenAI division focused on hardware integration and physical embodied foundation models.",
       "website": "https://openai.com/research/robotics",
       "market_cap": null,
@@ -1553,7 +1553,7 @@
     {
       "id": 69,
       "name": "Fauna Robotics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Robotics startup targeting consumer and shared-space applications, acquired by Amazon.",
       "website": "https://fauna.robotics",
       "market_cap": null,
@@ -1564,7 +1564,7 @@
     {
       "id": 70,
       "name": "RIVR",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Doorstep delivery and logistics automation robotics startup acquired by Amazon.",
       "website": "https://rivr.ai",
       "market_cap": null,
@@ -1619,7 +1619,7 @@
     {
       "id": 75,
       "name": "ABB",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Global traditional industrial robotics heavyweight, partnering with Figure AI and NVIDIA.",
       "website": "https://global.abb",
       "market_cap": "$85B",
@@ -1630,7 +1630,7 @@
     {
       "id": 76,
       "name": "FANUC",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Leading Japanese industrial robot manufacturer, heavily integrating NVIDIA AI capabilities.",
       "website": "https://fanuc.co.jp",
       "market_cap": "$35B",
@@ -1685,7 +1685,7 @@
     {
       "id": 81,
       "name": "Agile Robots",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Robotics company developing industrial robot arms and the \"Agile ONE\" humanoid robot.",
       "website": "https://agile-robots.com",
       "market_cap": "$2B+ (Private)",
@@ -1812,7 +1812,7 @@
     {
       "id": 92,
       "name": "Nomadic",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Startup developing physical AI solutions for specific automation niches.",
       "website": "https://nomadic.com",
       "market_cap": "$8.4M Raised (Private)",
@@ -1878,7 +1878,7 @@
     {
       "id": 98,
       "name": "Berkshire Grey",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "AI-enabled robotic solutions provider for e-commerce, retail, and logistics fulfillment.",
       "website": "https://berkshiregrey.com",
       "market_cap": null,
@@ -1889,7 +1889,7 @@
     {
       "id": 99,
       "name": "Dexterity",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Provides full-stack robotic solutions for complex logistics operations like truck unloading.",
       "website": "https://dexterity.ai",
       "market_cap": null,
@@ -1900,7 +1900,7 @@
     {
       "id": 100,
       "name": "Nimble",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Autonomous logistics company building intelligent robotic fulfillment centers.",
       "website": "https://nimble.ai",
       "market_cap": null,
@@ -1911,7 +1911,7 @@
     {
       "id": 101,
       "name": "Aurora Innovation",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Company delivering autonomous driving technology for trucking and logistics.",
       "website": "https://aurora.tech",
       "market_cap": null,
@@ -1955,7 +1955,7 @@
     {
       "id": 105,
       "name": "Zoox",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Amazon-owned autonomous vehicle company focusing on custom-built robotaxis.",
       "website": "https://zoox.com",
       "market_cap": null,
@@ -1966,7 +1966,7 @@
     {
       "id": 106,
       "name": "Mitsubishi Electric",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Major supplier of factory automation hardware and industrial robotic arms.",
       "website": "https://mitsubishielectric.com",
       "market_cap": null,
@@ -2077,7 +2077,7 @@
     {
       "id": 115,
       "name": "Astribot",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Developer of the S1 humanoid, known for incredibly fast and precise manipulation.",
       "website": "https://astribot.com",
       "market_cap": null,
@@ -2104,7 +2104,7 @@
     {
       "id": 116,
       "name": "Kepler Robotics",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Creator of the Forerunner humanoid robot targeted at logistics and industrial deployment.",
       "website": "https://keplerbot.com",
       "market_cap": "$100M+ Yuan Raised",
@@ -2187,7 +2187,7 @@
     {
       "id": 121,
       "name": "Mobileye",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Intel-owned company developing advanced computer vision and autonomy solutions.",
       "website": "https://mobileye.com",
       "market_cap": null,
@@ -2306,7 +2306,7 @@
     {
       "id": 126,
       "name": "Universal Robots",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Market leader in collaborative robots (cobots), frequently integrated with new AI brains.",
       "website": "https://universal-robots.com",
       "market_cap": null,
@@ -2428,7 +2428,7 @@
     {
       "id": 135,
       "name": "Yaskawa",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Japanese manufacturer of servos, motion controllers, and industrial Motoman robots.",
       "website": null,
       "market_cap": null,
@@ -2439,7 +2439,7 @@
     {
       "id": 136,
       "name": "KUKA",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "German manufacturer of industrial robots and factory automation systems.",
       "website": null,
       "market_cap": null,
@@ -2467,7 +2467,7 @@
     {
       "id": 138,
       "name": "Hexagon",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Global leader in digital reality solutions. Unveiled the AEON humanoid robot, bridging their metrology expertise with autonomous robotics.",
       "website": null,
       "market_cap": null,
@@ -2478,7 +2478,7 @@
     {
       "id": 139,
       "name": "AgiBot",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Humanoid robotics company",
       "website": "agibot.com",
       "market_cap": "$1B+ (Est)",
@@ -2535,7 +2535,7 @@
     {
       "id": 140,
       "name": "Sona Comstar",
-      "type": "Competitor",
+      "type": "Robot OEM",
       "description": "Automotive components",
       "website": "",
       "market_cap": "",
@@ -3724,8 +3724,8 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnBVbDlOWHJnMVA4aTVKaWp0YVFBdHp6OEx5Z25PaS13SzU2SVB2NW40WExPemtvNkhwRTZETUg3LVVqSGc0dmhBbkRVX0tUZ2xmbk5Kd2JDajF6NlptWlRhZElfU19tYmx6NFA1Si1adUtYN2xIZmlFOXV2S0kzS2hSNE9tb1NjWnd3aXVGSmxnUmt0b21HQnRCdTRQc091LU1v?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        43,
-        39
+        39,
+        43
       ],
       "importance_score": 6
     },
@@ -3743,8 +3743,8 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVd2amhOYjJSUFhna0NNaEY3NmZUeXQzVGl0emk3LWZKM3lOUW5wUlFfXy1YVURhcVBNX0tON2VEeGVBaDR5M0NXX2NENHJjQmh5SXo3cWVKVkc1REQ5Mlp0WWZvdVNrYXJIcHBSUHIzZFF6VV9LNENYQXRGbkZNenBPVkxaYkhMSVpEdnZaY251UnYwNUd5MVlBVjBydkZ2T3plVGMzVXZ3MTVDZnkwWlRCM0MtcHp5MnZjeXB6U1FTd2tyb2hfRVZGX0M3ektMTjFJ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        57,
-        31
+        31,
+        57
       ],
       "importance_score": 4
     },
@@ -3753,8 +3753,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3d5QjRxMkhNTHhMZDBjdi0zbzFTYkFyLTdwTzRfZ291QS1rVFBBemNCTEJkdDBHVnJKSnFDa2lMN2hpQTU1NzNOX0NLVFRZZHpyaDJDcERFQnJ6djZDLTNMQWd2ZmpabmZQSThIQlZiNzBDQ3R3Mldja2FxUGl1M0JVSVhnZ09mVXpBNmxxMlNWSkFJXzhIZjVjS2JCM3ZW?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        57,
-        31
+        31,
+        57
       ],
       "importance_score": null
     },
@@ -3763,8 +3763,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1NWUGM4X1UzZTdISmZFTjZ6T1ZVLXhtOTZNc0hjMklscWVBSldaWGUtVGt0d3JNSElUNmpTXzNBemlRcWdLemg5VUtqekhqSXh1eE94MU9sc0hkMHNJZnp0WUVhUkNuandlR1V4Q1JCWHd3UXBfandvMVpVTUU5d3lITTFKUQ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        57,
-        31
+        31,
+        57
       ],
       "importance_score": 4
     },
@@ -3828,8 +3828,8 @@
       "url": "https://www.marktechpost.com/2026/04/08/a-coding-guide-to-build-advanced-document-intelligence-pipelines-with-google-langextract-openai-models-structured-extraction-and-interactive-visualization/",
       "date": "2026-04-09",
       "involved_nodes": [
-        43,
-        41
+        41,
+        43
       ],
       "importance_score": 4
     },
@@ -3901,8 +3901,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        128,
-        3
+        3,
+        128
       ],
       "importance_score": 6
     },
@@ -3965,9 +3965,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        28,
+        16,
         129,
-        16
+        28
       ],
       "importance_score": 8
     },
@@ -3976,8 +3976,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        129,
-        16
+        16,
+        129
       ],
       "importance_score": 4
     },
@@ -4139,9 +4139,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
+        29,
         137,
-        127,
-        29
+        127
       ],
       "importance_score": 6
     },
@@ -4177,8 +4177,8 @@
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPV0gxQUhoUGdabXlYOXo1Y19RaGNlMlpxMDF4YU10aTZzRHlfalhKZTdOb2twSUZXZWc3MjJWc1NNNmNpR1Q3c1N3N1FSN3U0OWRBb2NtSXlUV1FBSW5ONHFSY3haVzJZT0N0dzFqcDYycGxGYzEzUzJNWmlWdGliVU1IU2dwaWFmYmxaVC13SmNxaUhxTGwzY0ZjcHlsSGUweW4zMkpqcWlDRlNsSTRRQUU2RzhOeGhqR2FyNnRJeU52ZUpJUGpFbmNuRkpYdjQyZGZOdXkzNzBGZU8wT0VoYUtzRUlILXc5ak1rMUVXYjdwby03MWVWTFlBcGk0ZGdnek9FUVZ0NkI1aU5mSEdla19sYlRFN2NXSFNwdUdwSEZYUTlnR1RtX0l1WEhpWmxOSG5nbFNnWE1LMnRKWVNudVVRZ3NkdWE3TjZ6NF9HTW1TYUVoRHotNGU3U082WXhEOTNaX3pfNVZFZw?oc=5",
       "date": "2026-04-07",
       "involved_nodes": [
-        21,
-        140
+        140,
+        21
       ],
       "importance_score": 6
     },
@@ -4233,8 +4233,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPek9fcEF0NGdSU2dkakF0LVhxbGtsOTlhNEh5b3RoQ0t6bzcwRllWTjJNMUIzUGoxbE15ZE9mcEJMX0FvTDRxRjI5Q0xaZ3dIR3NTaUtPR1FBMnJGbXdhSFZqUUUwbzJiMmYxYzBIMllqNjg1dl9OMmZzSFRjWkpvU3dDV29VU2xPaTViSklPdU5oblVqQUYydm5uc256SGdCemNoLXdPTlhzd3F4X1AtMmFQcWRqRWRwOUE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        43,
-        122
+        122,
+        43
       ],
       "importance_score": 4
     },
@@ -4243,8 +4243,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        43,
-        1
+        1,
+        43
       ],
       "importance_score": 4
     },
@@ -4380,8 +4380,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUU1b0QzR2YtdS1wS2swaHZLWXF0UWFmamJwTS1iZWIyVzktQVFiMm8teGdMYU9LbFBsVTFtVHNRRlV3VHVIb0sySW0wMVN5RktPZnBSX2lYRVh1d3pTTFhHZ3F5d0JXTVV5b25aOVVmdm5KbTRKNVFNdVlkMmIyS2czWWVpdk1XYi1nTC10Qk9ET3hRZmg0WGZrOERocjQ5Vmpkbk1NaVlPZ1RPY1VBM1RUU2JnbkI3ZUc0?oc=5",
       "date": "2026-03-29",
       "involved_nodes": [
-        43,
-        1
+        1,
+        43
       ],
       "importance_score": 8
     },
@@ -4408,9 +4408,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5",
       "date": "2026-03-27",
       "involved_nodes": [
-        43,
+        7,
         1,
-        7
+        43
       ],
       "importance_score": 8
     },
@@ -4464,8 +4464,8 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3RwLTd0X0d1UWdMOWl3ZXY2bzFvRW50ckdZWU5hdjNQMzJLUWtOcjg4a1M0Mklkblk0TzUwYzZianowM1RySU5jUDBoZ0tzb0pVNU1nbU5xZUxRUy10YlN0RlhnZkd5enNWM2xwNXg4TExNUkhVWmZtWDB0WWJEX1l0WjVLeWx2dmw5YnR0RlBkeWlKT0wxZ3IwMEFGdWlHRHlLRTZRY3ZJbUw5TG5mVQ?oc=5",
       "date": "2026-03-25",
       "involved_nodes": [
-        21,
-        31
+        31,
+        21
       ],
       "importance_score": 4
     },
@@ -4555,8 +4555,8 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2dYdEJHMG5uaXgybE05d0hHYnZEMXZqMFBJNUtRMGVyc2ZIMHhwbGlmSWxMN21zOTlxeFdtVEFHOEdpZjFweEV4SFRmTTVBZFQyVXJBVEFiQ0JucjNqeHJLZGl4SndvOTlSUjc0WFdpcXlzREFpcUFQTXBTTUs1d1M2ZWl4QlBtazNxV2NrWTlJc2hEVHpNbEx6b3pCZllya3ZlOVBwNDdVN05GQlV5LVdjVWhQZW1Nd042UzQycHAxWE0xZnVfd1YzY1Bwdw?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        57,
-        31
+        31,
+        57
       ],
       "importance_score": 4
     },
@@ -4575,9 +4575,9 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVR6Q1JMT3ZEdXNOYjhkMjZsMUFVZTRwX0d2dkgtaV9zSHAtaGhMaDk5LWQ3aV9zVmc0NHVuSEd5Uk5ZRzNNY1Ixa29yekxYT2pzSDlHMHBnTVNXVllUNUxIeGlfSHlaRVNnSHJ5ZUFJc29GbW55TUljUlNwWDdhMjJoYmJ4X0lMX2hIeGVFdTJKN1Bad2lNYWxjR0Z3NWpnNkl3Y2d1UlV2TlNUM2c?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        20,
+        7,
         125,
-        7
+        20
       ],
       "importance_score": 8
     },
@@ -4725,8 +4725,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclM2NlYtR0FLdkw1NEdzMzNPaFE3RjN1ZW4xckw2YVhSelR0QXBwVGJyZDRXZjFvZThqV1lvZE1SWENOR2ZqMkxqemlOWFR1M2RwMDRieGJJZEtXVTc0cjZBQ0JUVkMwTERaYjRGQTFyMmUtQ1JoMTFsaG04QVRHNUtVcHU0ZXR0c29abXpJOWt0NXoxZ0Q1VFBDTEpFQTVkZjlLMDJMdG7SAa4BQVVfeXFMTjl2ZjVuT05tMmpNdHJGUTZQVkpoYjR2OTZWR2VMclNjeXUzQ01sOWpVaTYydDZ3b3VMRGpzVmN6LUs4MW5vcHRFYXMxdGxzcHZ0ZmIzY205YmNzaWlMNjhKN0hmQkxzSkdWbXEtZ1Y5a1dIejVyMkFaRm1abzF2YXI4QzZGaENNRkVRdDA0SHVzZXlMajVkQ2psNUx1VTM2N2huZGN3Z0lFSGtyckpn?oc=5",
       "date": "2026-02-11",
       "involved_nodes": [
-        28,
-        15
+        15,
+        28
       ],
       "importance_score": 8
     },
@@ -4754,9 +4754,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5",
       "date": "2026-01-30",
       "involved_nodes": [
-        43,
+        7,
         1,
-        7
+        43
       ],
       "importance_score": 4
     },
@@ -4851,8 +4851,8 @@
       "date": "2026-01-06",
       "involved_nodes": [
         121,
-        5,
-        7
+        7,
+        5
       ],
       "importance_score": 9
     },
@@ -4888,8 +4888,8 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4taHBxQTI4d3FleWoxRXM1OEpRRldGYnB4Y2EycDU4TGd5cnJBemlNZ2M2cVFJMDVtZGdmVlp1M1J0eThNaXRXd3RybWp6azd0VUpYZWZCVTJWb244dHR6YjZqQVNkZEp6aURuWkYxYURxQ3FaYTJv?oc=5",
       "date": "2025-12-04",
       "involved_nodes": [
-        2,
-        31
+        31,
+        2
       ],
       "importance_score": 4
     },
@@ -4907,9 +4907,9 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb21RYW9mQTJEbWJ6N0tXYXQzMEdOUk9Rdk5ONmFKdndNUGdEblpETEtpQXI5REJDUlNIa3U5cGJSSHJqVzlCYW1haUY4RzlEU1ZnNm82NFZnbVU4dTE4M3VNQW8tUWNzb2F4ZEM2WVE1MmZ0NGhIeTRJRVZBS2I1eUhHUVpJMGVUbVBhN0ZWblBhUG9KOU9OenhB?oc=5",
       "date": "2025-11-04",
       "involved_nodes": [
-        20,
+        7,
         125,
-        7
+        20
       ],
       "importance_score": 4
     },
@@ -4983,8 +4983,8 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92dWFZaWdpYWplYlRkU0FBc3V3eWdNb1M4dkR3alVZMENMSlZzcEZIWi1fUnVZVDUzcmFnSm5EWHh2eU5haGMxQ0FYaWFmVm9mR3BneTlhNzl5XzRPTnJnZmRyeEx6TnJzbXE0SmJZUWJpeU9Z?oc=5",
       "date": "2025-08-18",
       "involved_nodes": [
-        43,
         124,
+        43,
         17
       ],
       "importance_score": 4

@@ -4973,18 +4973,20 @@
                 if (typeof currentLayoutMode !== 'undefined') {
                     if (currentLayoutMode === 'geospatial') {
                         ctx.save();
-                        ctx.font = "bold 60px Arial";
+                        ctx.font = "bold 90px 'Trebuchet MS', Arial, sans-serif";
                         ctx.textAlign = "center";
-                        ctx.fillStyle = "rgba(255, 255, 255, 0.05)";
-                        ctx.fillText("NORTH AMERICA", -350, 0);
-                        ctx.fillText("EUROPE", 350, -250);
-                        ctx.fillText("ASIA", 350, 250);
+                        ctx.textBaseline = "middle";
+                        ctx.fillStyle = "rgba(255, 255, 255, 0.07)";
+                        ctx.fillText("NORTH AMERICA", -400, 0);
+                        ctx.fillText("EUROPE", 400, -300);
+                        ctx.fillText("ASIA", 400, 300);
                         ctx.restore();
                     } else if (currentLayoutMode === 'supply-chain') {
                         ctx.save();
-                        ctx.font = "bold 50px Arial";
+                        ctx.font = "bold 70px 'Trebuchet MS', Arial, sans-serif";
                         ctx.textAlign = "center";
-                        ctx.fillStyle = "rgba(255, 255, 255, 0.04)";
+                        ctx.textBaseline = "middle";
+                        ctx.fillStyle = "rgba(255, 255, 255, 0.05)";
                         ctx.fillText("PROVIDERS", -450, -250);
                         ctx.fillText("COMPETITORS", 0, 0);
                         ctx.fillText("CUSTOMERS", 450, 250);

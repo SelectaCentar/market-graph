@@ -6,7 +6,7 @@
       "type": "Supplier - AI Model",
       "description": "Foundational model company focused on general-purpose AI brains for hardware.",
       "website": "https://pi.website",
-      "market_cap": "$11.2B (Private, $1B Raising)",
+      "market_cap": "Unknown",
       "revenue": null,
       "employees": null,
       "news": [
@@ -395,7 +395,7 @@
       "type": "Robot OEM",
       "description": "Developer of Apollo, a general-purpose humanoid robot partnered with GXO Logistics.",
       "website": "https://apptronik.com",
-      "market_cap": "$5B+ (Private, $935M Raised)",
+      "market_cap": "$5B+",
       "revenue": "Pre-revenue",
       "employees": "120+",
       "news": [
@@ -486,7 +486,7 @@
       "type": "Robot OEM",
       "description": "Robotics company building embodied AI solutions and humanoid platforms.",
       "website": "https://www.galbot.com",
-      "market_cap": "$3B (Private, $300M+ Raised)",
+      "market_cap": "$3B",
       "revenue": null,
       "employees": null,
       "news": [
@@ -518,7 +518,7 @@
       "type": "Robot OEM",
       "description": "Embodied AI startup developing foundational models and robotic hardware.",
       "website": "https://www.galaxea.ai",
-      "market_cap": "$29B (Private, $290M Series B+)",
+      "market_cap": "$700M",
       "revenue": null,
       "employees": null,
       "news": [
@@ -577,7 +577,7 @@
       "type": "Robot OEM",
       "description": "Developer of cognitive robots (like 4NE-1) with deep AI and sensor integration.",
       "website": "https://neura-robotics.com",
-      "market_cap": "Raising \u20ac1B",
+      "market_cap": "Unknown",
       "revenue": null,
       "employees": null,
       "news": [
@@ -636,7 +636,7 @@
       "type": "Supplier - AI Model",
       "description": "Startup developing physical AI systems and embodied intelligence software.",
       "website": "https://rhoda.ai",
-      "market_cap": "$1.7B (Private, $450M Series A)",
+      "market_cap": "$1.7B",
       "revenue": null,
       "employees": null,
       "news": []
@@ -647,7 +647,7 @@
       "type": "Robot OEM",
       "description": "Humanoid robotics startup developing bipedal platforms.",
       "website": "https://www.robotera.com",
-      "market_cap": ">$10B Valuation ($1B+ Raised)",
+      "market_cap": "$10B+",
       "revenue": null,
       "employees": null,
       "news": [
@@ -706,7 +706,7 @@
       "type": "Supplier - AI Model",
       "description": "Building scalable foundation models for robotics to generalize across diverse hardware.",
       "website": "https://skild.ai",
-      "market_cap": ">$14B (Private, $1.4B Series C)",
+      "market_cap": "$14B+",
       "revenue": "Pre-revenue",
       "employees": "80+",
       "news": []
@@ -717,7 +717,7 @@
       "type": "Supplier - AI Model",
       "description": "Embodied AI provider focusing on the software cognitive layers for physical robotics.",
       "website": "https://spiritai.com",
-      "market_cap": "$420M+ Raised (Private)",
+      "market_cap": "Unknown",
       "revenue": null,
       "employees": null,
       "news": [
@@ -1383,7 +1383,7 @@
       "type": "Supplier - AI Model",
       "description": "Embodied AI foundational model provider focused on real-world manipulation.",
       "website": "https://genesis-embodied.ai",
-      "market_cap": "$105M Raised (Seed)",
+      "market_cap": "Unknown",
       "revenue": null,
       "employees": null,
       "news": [
@@ -1490,7 +1490,7 @@
       "type": "Supplier - AI Model",
       "description": "Developer of advanced dynamic control systems for robotic manipulation.",
       "website": "https://dynarobotics.com",
-      "market_cap": null,
+      "market_cap": "Unknown",
       "revenue": null,
       "employees": null,
       "news": []
@@ -3754,6 +3754,76 @@
       "relation": "Partnership",
       "weight": 4,
       "context": "Distributing Unitree cheapest humanoid globally"
+    },
+    {
+      "source": 5,
+      "target": 121,
+      "relation": "Acquisition",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 20,
+      "target": 125,
+      "relation": "Spin-off",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 21,
+      "target": 44,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 21,
+      "target": 42,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 26,
+      "target": 9,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 26,
+      "target": 75,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "relation": "Deployment",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 16,
+      "target": 129,
+      "relation": "Deployment",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 30,
+      "target": 143,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 29,
+      "target": 127,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
     }
   ],
   "global_news": [
@@ -3835,8 +3905,8 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVd2amhOYjJSUFhna0NNaEY3NmZUeXQzVGl0emk3LWZKM3lOUW5wUlFfXy1YVURhcVBNX0tON2VEeGVBaDR5M0NXX2NENHJjQmh5SXo3cWVKVkc1REQ5Mlp0WWZvdVNrYXJIcHBSUHIzZFF6VV9LNENYQXRGbkZNenBPVkxaYkhMSVpEdnZaY251UnYwNUd5MVlBVjBydkZ2T3plVGMzVXZ3MTVDZnkwWlRCM0MtcHp5MnZjeXB6U1FTd2tyb2hfRVZGX0M3ektMTjFJ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -4058,8 +4128,8 @@
       "date": "2026-04-09",
       "involved_nodes": [
         28,
-        16,
-        129
+        129,
+        16
       ],
       "importance_score": 8
     },
@@ -4068,8 +4138,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        16,
-        129
+        129,
+        16
       ],
       "importance_score": 4
     },
@@ -4114,8 +4184,8 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnVxUjBPVUpjcXdGWHlNNFVjSFMwbXFoUE9Xc29Ld2xNSVVZVWVBVkdrVV9IUENjVFptdy02UnIxWWV1ZkswS0M5OW9qQ1M2eVJCQlFSZHE1a0duSFZCUnZEUTQ3Q281OHM4WmNfLXp1SUcyNzlubTV0RHRCdl82OHhVMC1vc1kzX2RTZ1RvaExXb1lvUDBXREVMVExCZl8xdkV4dEtIbWN0eE1ZZW50WWtJckM0WGPSAbcBQVVfeXFMTTFMdWJYYlRmVHlVRTJTZW9nZE5iSnpoV0tPSDBTTWpMLVItMGFFc0psN1BZVWRsSmJhZlN6T1FYQ2cwbXNycWgtTlpONFJrMDAySFV0VnZDTzRnUFhUR1FtQTlQamR3bGpyaGR4bXlVRmpIMWl5TXRxMnlYSTU3c1pEc21PRUhFNmI2WWgzZ3RiSlFqS0Rnbkp4SU9mNW1ENm5CQ0VON1k2dmpPR3RXV0hDZ1d1RFZF?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        30,
-        143
+        143,
+        30
       ],
       "importance_score": 4
     },
@@ -4232,9 +4302,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        127,
+        137,
         29,
-        137
+        127
       ],
       "importance_score": 6
     },
@@ -4270,8 +4340,8 @@
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPV0gxQUhoUGdabXlYOXo1Y19RaGNlMlpxMDF4YU10aTZzRHlfalhKZTdOb2twSUZXZWc3MjJWc1NNNmNpR1Q3c1N3N1FSN3U0OWRBb2NtSXlUV1FBSW5ONHFSY3haVzJZT0N0dzFqcDYycGxGYzEzUzJNWmlWdGliVU1IU2dwaWFmYmxaVC13SmNxaUhxTGwzY0ZjcHlsSGUweW4zMkpqcWlDRlNsSTRRQUU2RzhOeGhqR2FyNnRJeU52ZUpJUGpFbmNuRkpYdjQyZGZOdXkzNzBGZU8wT0VoYUtzRUlILXc5ak1rMUVXYjdwby03MWVWTFlBcGk0ZGdnek9FUVZ0NkI1aU5mSEdla19sYlRFN2NXSFNwdUdwSEZYUTlnR1RtX0l1WEhpWmxOSG5nbFNnWE1LMnRKWVNudVVRZ3NkdWE3TjZ6NF9HTW1TYUVoRHotNGU3U082WXhEOTNaX3pfNVZFZw?oc=5",
       "date": "2026-04-07",
       "involved_nodes": [
-        140,
-        21
+        21,
+        140
       ],
       "importance_score": 6
     },
@@ -4289,8 +4359,8 @@
       "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
       "date": "2026-04-07",
       "involved_nodes": [
-        117,
-        7
+        7,
+        117
       ],
       "importance_score": 8
     },
@@ -4336,8 +4406,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        43,
-        1
+        1,
+        43
       ],
       "importance_score": 4
     },
@@ -4463,8 +4533,8 @@
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNVGNuNTBKSXVmN0gtSFJaNG9hTGxxZHBWZkJfVGRUV0ltazRtYkltLWQ3eVc5YTlYemF3NUVzZWxJSzVqYXJvVG5LejNoQmU5dnBZdlRya0NtU1g2SVJOaHpoNXo1QTRqaWk2bUQ1Z0kwTG9uVE1KWlZKdTdMWVRRZ3k4ZlViQXZWRXVTWXQ1ajgzVWFaTmprLXpBRVVhWVZmMWRqdjBVN0N4LUJ1S1N6THlOSlN5ZmdjNlUwYU82TEpQeVJ3aWluRjl1a0JLSUFpWmNWSDl4V0FlUU5iejRyVHllV3kyU2Y1bE5Sek9DbmxPWHN3ZW1xN1VmYjFmTjN2RFBmSXYtSGpmbU4yVHM5VzV2UEZnaGg2YzAybnBQQ1BVdEFVVWxGeG9fRWxBMEhXZzBGbE05S2M0VnAzdnd1VGxXRFIyNkJldE96TjFtU2tKbVF6Y3VFeXpCV0stSWV5eEVpVjUzT3p4U2k2cHc?oc=5",
       "date": "2026-03-31",
       "involved_nodes": [
-        121,
-        5
+        5,
+        121
       ],
       "importance_score": 9
     },
@@ -4482,8 +4552,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUU1b0QzR2YtdS1wS2swaHZLWXF0UWFmamJwTS1iZWIyVzktQVFiMm8teGdMYU9LbFBsVTFtVHNRRlV3VHVIb0sySW0wMVN5RktPZnBSX2lYRVh1d3pTTFhHZ3F5d0JXTVV5b25aOVVmdm5KbTRKNVFNdVlkMmIyS2czWWVpdk1XYi1nTC10Qk9ET3hRZmg0WGZrOERocjQ5Vmpkbk1NaVlPZ1RPY1VBM1RUU2JnbkI3ZUc0?oc=5",
       "date": "2026-03-29",
       "involved_nodes": [
-        43,
-        1
+        1,
+        43
       ],
       "importance_score": 8
     },
@@ -4510,8 +4580,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5",
       "date": "2026-03-27",
       "involved_nodes": [
-        43,
         1,
+        43,
         7
       ],
       "importance_score": 8
@@ -4566,8 +4636,8 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3RwLTd0X0d1UWdMOWl3ZXY2bzFvRW50ckdZWU5hdjNQMzJLUWtOcjg4a1M0Mklkblk0TzUwYzZianowM1RySU5jUDBoZ0tzb0pVNU1nbU5xZUxRUy10YlN0RlhnZkd5enNWM2xwNXg4TExNUkhVWmZtWDB0WWJEX1l0WjVLeWx2dmw5YnR0RlBkeWlKT0wxZ3IwMEFGdWlHRHlLRTZRY3ZJbUw5TG5mVQ?oc=5",
       "date": "2026-03-25",
       "involved_nodes": [
-        31,
-        21
+        21,
+        31
       ],
       "importance_score": 4
     },
@@ -4657,8 +4727,8 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ2dYdEJHMG5uaXgybE05d0hHYnZEMXZqMFBJNUtRMGVyc2ZIMHhwbGlmSWxMN21zOTlxeFdtVEFHOEdpZjFweEV4SFRmTTVBZFQyVXJBVEFiQ0JucjNqeHJLZGl4SndvOTlSUjc0WFdpcXlzREFpcUFQTXBTTUs1d1M2ZWl4QlBtazNxV2NrWTlJc2hEVHpNbEx6b3pCZllya3ZlOVBwNDdVN05GQlV5LVdjVWhQZW1Nd042UzQycHAxWE0xZnVfd1YzY1Bwdw?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -4667,8 +4737,8 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoQlhYekEyRUFUeS1wTTNxNjNMelJlQ0Mwczl2ZEZMb2lLd3QyaXgxX1o2WVpNVURyNFoxYjZ1VU5NMVEwWC1MUnhDTDF1LTcyLWticGdZQ1otWGJjYVhhVFc3WHg5SkNO?oc=5",
       "date": "2026-03-11",
       "involved_nodes": [
-        52,
-        20
+        20,
+        52
       ],
       "importance_score": 4
     },
@@ -4678,8 +4748,8 @@
       "date": "2026-03-11",
       "involved_nodes": [
         20,
-        125,
-        7
+        7,
+        125
       ],
       "importance_score": 8
     },
@@ -4697,9 +4767,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJ4dXVCZHJIMm1velFsRW1wdDU2WHJDRTE5YzQ1NmFvT3dsZFA3eFhNSGljTEQyM3AzYzJXTW9WZFZBVzZuVVpFZTlEaEdvR1d2Qld0bVN2YXZDNU5CWlVndmZEakktU3lxb0VFcWZ6V2ZPekxONWNraDBYN3JPdno1cjQtWVZ1Zk9oakpqZmFiV0U0RHY4aGJsYzVOdEE?oc=5",
       "date": "2026-03-09",
       "involved_nodes": [
-        42,
         21,
-        7
+        7,
+        42
       ],
       "importance_score": 6
     },
@@ -4790,8 +4860,8 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamZKYnhpZjhLVmJmcGkyemVyS21COHVmNkRFUl9OX0FQZVpFWEJ0bGlfQUExVEtVVjEzZlMzbFMyNXRwektEVExadFMyeENtNUdPYUhONUJkOVJ4ellQSWNjbkNfVHROQ2VXeUxMZUZpLVBKT2pDRHduVm9STWJRZVVjVGhjRXdTLWpPeHBIampCcksxT3RnVFBtOUlHV3pCeEhuNWpYaTBSMGNJM3RFcDdBZ2JDZ282UXNxa1oxWXlHUmtySkdR?oc=5",
       "date": "2026-02-19",
       "involved_nodes": [
-        2,
-        8
+        8,
+        2
       ],
       "importance_score": 8
     },
@@ -4856,8 +4926,8 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5",
       "date": "2026-01-30",
       "involved_nodes": [
-        43,
         1,
+        43,
         7
       ],
       "importance_score": 4
@@ -4932,8 +5002,8 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkVGNE1OTkF3eWJLMWlRcFFpbVZteFlSZExUN1l4MlpqRzRiSy01Zmo0bXU3aENyQjJucWFVNmx4bkRMTXI3ZDlFWEtVMzRXSDE5bHJWbFoyNU5PSVoyeGlyNXdIYkhKVHB3eHJLWndGUkcxeVZES3RKSnlIRVlkNElJQXFUNXRTX1p2UVhYSjNfRl9SUzl0ZW93dExWcWRnQTNB?oc=5",
       "date": "2026-01-07",
       "involved_nodes": [
-        121,
-        5
+        5,
+        121
       ],
       "importance_score": 9
     },
@@ -4942,8 +5012,8 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHc1Rm81M29UbXRueWtIaHRBY2lkOTFTeEg4aEpFemhPQzJ6dFlCOEZnWHNKbnJyVGpZMURaZU5fZnNVSkRVYUhzcnoyWGtTNHBmQTJ0Vm1FT3p5aktfbjhOY3c0bkV1NENmV3N2dU9pWWhaekhUT3UtLUJGemtpSDYtdTF6MVdMY0dBWDdmOHBXVkdfcEVCcU96dnd1ZUJucWFBbWlR?oc=5",
       "date": "2026-01-06",
       "involved_nodes": [
-        121,
-        5
+        5,
+        121
       ],
       "importance_score": 9
     },
@@ -4952,9 +5022,9 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVR5NUNwa0RKSmM2N0NhVWNhQVNKVGJoaXBEb2lZR2wzX2JKTjlCUndPSFd5V1VyUWNhNmhhb1hDNzJWRUNDaFNhUkl6R05VcHE2dGxpWGI2RFdPaDV6eW4xcXFQUVpIZU8xaHJLcW5BSG9rU0FNek1EYjdTZk5rYWd5NGQ5Y082Zm41LWZNWFdJcjVkVFBWRmR2dDhaNkNGc3c?oc=5",
       "date": "2026-01-06",
       "involved_nodes": [
-        121,
         7,
-        5
+        5,
+        121
       ],
       "importance_score": 9
     },
@@ -5010,8 +5080,8 @@
       "date": "2025-11-04",
       "involved_nodes": [
         20,
-        125,
-        7
+        7,
+        125
       ],
       "importance_score": 4
     },
@@ -5020,8 +5090,8 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IY1cyRzBKLXotR2RTNDVkY1hFNmU1VUNNdmthZW9YMXM3T3F5anprelE0MlNucHZTakpqRzhhNHZ2eG1fX0RwRHRiMmgyc0xMVUFlTl9PcEtVaFF4bUZ2TENVUFpYZw?oc=5",
       "date": "2025-10-30",
       "involved_nodes": [
-        31,
-        4
+        4,
+        31
       ],
       "importance_score": 4
     },
@@ -5086,8 +5156,8 @@
       "date": "2025-08-18",
       "involved_nodes": [
         43,
-        17,
-        124
+        124,
+        17
       ],
       "importance_score": 4
     },

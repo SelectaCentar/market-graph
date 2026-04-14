@@ -6,7 +6,7 @@
       "type": "Supplier - AI Model",
       "description": "Foundational model company focused on general-purpose AI brains for hardware.",
       "website": "https://pi.website",
-      "market_cap": "Unknown",
+      "market_cap": "In talks to raise $1B",
       "revenue": null,
       "employees": null,
       "news": [
@@ -395,7 +395,7 @@
       "type": "Robot OEM",
       "description": "Developer of Apollo, a general-purpose humanoid robot partnered with GXO Logistics.",
       "website": "https://apptronik.com",
-      "market_cap": "$5B+",
+      "market_cap": "$5B+ ($935M Raised)",
       "revenue": "Pre-revenue",
       "employees": "120+",
       "news": [
@@ -518,7 +518,7 @@
       "type": "Robot OEM",
       "description": "Embodied AI startup developing foundational models and robotic hardware.",
       "website": "https://www.galaxea.ai",
-      "market_cap": "$700M",
+      "market_cap": "$700M ($144M Raised)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -577,7 +577,7 @@
       "type": "Robot OEM",
       "description": "Developer of cognitive robots (like 4NE-1) with deep AI and sensor integration.",
       "website": "https://neura-robotics.com",
-      "market_cap": "Unknown",
+      "market_cap": "Raising $1.2B",
       "revenue": null,
       "employees": null,
       "news": [
@@ -636,7 +636,7 @@
       "type": "Supplier - AI Model",
       "description": "Startup developing physical AI systems and embodied intelligence software.",
       "website": "https://rhoda.ai",
-      "market_cap": "$1.7B",
+      "market_cap": "$1.7B ($450M Raised)",
       "revenue": null,
       "employees": null,
       "news": []
@@ -647,7 +647,7 @@
       "type": "Robot OEM",
       "description": "Humanoid robotics startup developing bipedal platforms.",
       "website": "https://www.robotera.com",
-      "market_cap": "$10B+",
+      "market_cap": "$10B+ ($1B Raised)",
       "revenue": null,
       "employees": null,
       "news": [
@@ -706,7 +706,7 @@
       "type": "Supplier - AI Model",
       "description": "Building scalable foundation models for robotics to generalize across diverse hardware.",
       "website": "https://skild.ai",
-      "market_cap": "$14B+",
+      "market_cap": "$14B+ ($1.4B Raised)",
       "revenue": "Pre-revenue",
       "employees": "80+",
       "news": []
@@ -717,7 +717,7 @@
       "type": "Supplier - AI Model",
       "description": "Embodied AI provider focusing on the software cognitive layers for physical robotics.",
       "website": "https://spiritai.com",
-      "market_cap": "Unknown",
+      "market_cap": "$280M Raised",
       "revenue": null,
       "employees": null,
       "news": [
@@ -1479,7 +1479,7 @@
       "type": "Supplier - AI Model",
       "description": "AI provider developing reinforcement learning models for physical world deployment.",
       "website": "https://rlwrld.com",
-      "market_cap": null,
+      "market_cap": "$26M Raised",
       "revenue": null,
       "employees": null,
       "news": []
@@ -1490,7 +1490,7 @@
       "type": "Supplier - AI Model",
       "description": "Developer of advanced dynamic control systems for robotic manipulation.",
       "website": "https://dynarobotics.com",
-      "market_cap": "Unknown",
+      "market_cap": "$120M Raised",
       "revenue": null,
       "employees": null,
       "news": []
@@ -2597,6 +2597,61 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnVxUjBPVUpjcXdGWHlNNFVjSFMwbXFoUE9Xc29Ld2xNSVVZVWVBVkdrVV9IUENjVFptdy02UnIxWWV1ZkswS0M5OW9qQ1M2eVJCQlFSZHE1a0duSFZCUnZEUTQ3Q281OHM4WmNfLXp1SUcyNzlubTV0RHRCdl82OHhVMC1vc1kzX2RTZ1RvaExXb1lvUDBXREVMVExCZl8xdkV4dEtIbWN0eE1ZZW50WWtJckM0WGPSAbcBQVVfeXFMTTFMdWJYYlRmVHlVRTJTZW9nZE5iSnpoV0tPSDBTTWpMLVItMGFFc0psN1BZVWRsSmJhZlN6T1FYQ2cwbXNycWgtTlpONFJrMDAySFV0VnZDTzRnUFhUR1FtQTlQamR3bGpyaGR4bXlVRmpIMWl5TXRxMnlYSTU3c1pEc21PRUhFNmI2WWgzZ3RiSlFqS0Rnbkp4SU9mNW1ENm5CQ0VON1k2dmpPR3RXV0hDZ1d1RFZF?oc=5"
         }
       ]
+    },
+    {
+      "id": 144,
+      "name": "Rohlik Group",
+      "type": "End User",
+      "description": null,
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 145,
+      "name": "KONGSBERG",
+      "type": "End User",
+      "description": null,
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 146,
+      "name": "Jacobi Robotics",
+      "type": "Supplier - AI Model",
+      "description": null,
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 147,
+      "name": "Standard Bots",
+      "type": "Robot OEM",
+      "description": null,
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
+    },
+    {
+      "id": 148,
+      "name": "Cognibotics",
+      "type": "Supplier - Software",
+      "description": null,
+      "website": null,
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
     }
   ],
   "links": [
@@ -3824,6 +3879,97 @@
       "relation": "Partnership",
       "weight": 1,
       "context": ""
+    },
+    {
+      "source": 31,
+      "target": 63,
+      "relation": "Funding",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 9,
+      "target": 63,
+      "relation": "Funding",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 44,
+      "target": 21,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 39,
+      "target": 16,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 115,
+      "target": 114,
+      "relation": "Deployment",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 58,
+      "target": 144,
+      "relation": "Deployment",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 59,
+      "target": 126,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 59,
+      "target": 145,
+      "relation": "Deployment",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 146,
+      "target": 75,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 9,
+      "target": 75,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 9,
+      "target": 76,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 142,
+      "target": 75,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
+    },
+    {
+      "source": 148,
+      "target": 147,
+      "relation": "Partnership",
+      "weight": 1,
+      "context": ""
     }
   ],
   "global_news": [
@@ -3915,8 +4061,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3d5QjRxMkhNTHhMZDBjdi0zbzFTYkFyLTdwTzRfZ291QS1rVFBBemNCTEJkdDBHVnJKSnFDa2lMN2hpQTU1NzNOX0NLVFRZZHpyaDJDcERFQnJ6djZDLTNMQWd2ZmpabmZQSThIQlZiNzBDQ3R3Mldja2FxUGl1M0JVSVhnZ09mVXpBNmxxMlNWSkFJXzhIZjVjS2JCM3ZW?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": null
     },
@@ -3925,8 +4071,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1NWUGM4X1UzZTdISmZFTjZ6T1ZVLXhtOTZNc0hjMklscWVBSldaWGUtVGt0d3JNSElUNmpTXzNBemlRcWdLemg5VUtqekhqSXh1eE94MU9sc0hkMHNJZnp0WUVhUkNuandlR1V4Q1JCWHd3UXBfandvMVpVTUU5d3lITTFKUQ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -4063,8 +4209,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        3,
-        128
+        128,
+        3
       ],
       "importance_score": 6
     },
@@ -4127,8 +4273,8 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        28,
         129,
+        28,
         16
       ],
       "importance_score": 8
@@ -4302,9 +4448,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        137,
         29,
-        127
+        127,
+        137
       ],
       "importance_score": 6
     },
@@ -4406,8 +4552,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 4
     },
@@ -4552,8 +4698,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUU1b0QzR2YtdS1wS2swaHZLWXF0UWFmamJwTS1iZWIyVzktQVFiMm8teGdMYU9LbFBsVTFtVHNRRlV3VHVIb0sySW0wMVN5RktPZnBSX2lYRVh1d3pTTFhHZ3F5d0JXTVV5b25aOVVmdm5KbTRKNVFNdVlkMmIyS2czWWVpdk1XYi1nTC10Qk9ET3hRZmg0WGZrOERocjQ5Vmpkbk1NaVlPZ1RPY1VBM1RUU2JnbkI3ZUc0?oc=5",
       "date": "2026-03-29",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 8
     },
@@ -4580,9 +4726,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5",
       "date": "2026-03-27",
       "involved_nodes": [
-        1,
+        7,
         43,
-        7
+        1
       ],
       "importance_score": 8
     },
@@ -4767,9 +4913,9 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZXJ4dXVCZHJIMm1velFsRW1wdDU2WHJDRTE5YzQ1NmFvT3dsZFA3eFhNSGljTEQyM3AzYzJXTW9WZFZBVzZuVVpFZTlEaEdvR1d2Qld0bVN2YXZDNU5CWlVndmZEakktU3lxb0VFcWZ6V2ZPekxONWNraDBYN3JPdno1cjQtWVZ1Zk9oakpqZmFiV0U0RHY4aGJsYzVOdEE?oc=5",
       "date": "2026-03-09",
       "involved_nodes": [
-        21,
         7,
-        42
+        42,
+        21
       ],
       "importance_score": 6
     },
@@ -4796,8 +4942,8 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmlSZXpDaXUtWnVYMDFhWkM2a0lzSEFJLS1vN0xoOVdhM0JLdzVkQWhocDVfakhHMVpnZmVSWURNbS1ZY1RsQzFibGROX0dXTzJ3TWhzcVhoOHVIZ1pGSldqMlFaVm1TRFZuU0tIRzFteFc1ZEJTaHBHSWJoVURiMmZvRkptbzJ1X0d3RjZjSV9rWVV1eEdTTXhFSk9tU3g0Y1pjd09vdGZkS2tK?oc=5",
       "date": "2026-03-06",
       "involved_nodes": [
-        21,
-        119
+        119,
+        21
       ],
       "importance_score": null
     },
@@ -4860,8 +5006,8 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOamZKYnhpZjhLVmJmcGkyemVyS21COHVmNkRFUl9OX0FQZVpFWEJ0bGlfQUExVEtVVjEzZlMzbFMyNXRwektEVExadFMyeENtNUdPYUhONUJkOVJ4ellQSWNjbkNfVHROQ2VXeUxMZUZpLVBKT2pDRHduVm9STWJRZVVjVGhjRXdTLWpPeHBIampCcksxT3RnVFBtOUlHV3pCeEhuNWpYaTBSMGNJM3RFcDdBZ2JDZ282UXNxa1oxWXlHUmtySkdR?oc=5",
       "date": "2026-02-19",
       "involved_nodes": [
-        8,
-        2
+        2,
+        8
       ],
       "importance_score": 8
     },
@@ -4926,9 +5072,9 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFhTUDdhTmFMUXQ3MGdwUlJBWUc2b2dYSEpHU1VvZGZCVTVjWmlDTUZhMXVLUHFWZTl3YXo5YU1jbk5FV2dKM3ExUGVVMy1WN3FueHN0d0tnSXh4ZzNTSW5aZ21LZV9DcUtURlBDTDJWT1RFcVJsd0U5bXQySWhUd21QSzBlRnM3cGEtczBfSGM5WElqQ0hUVU9KanM5ZXl2ZVVyU2VzLWg1VWxjSVBJajF0czFGWTJqckJ4NHktOWlpRV9TMVYxa0d2c0RUOHlqUFRmZ2hVSVgtVHFNOGc?oc=5",
       "date": "2026-01-30",
       "involved_nodes": [
-        1,
+        7,
         43,
-        7
+        1
       ],
       "importance_score": 4
     },
@@ -5060,8 +5206,8 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4taHBxQTI4d3FleWoxRXM1OEpRRldGYnB4Y2EycDU4TGd5cnJBemlNZ2M2cVFJMDVtZGdmVlp1M1J0eThNaXRXd3RybWp6azd0VUpYZWZCVTJWb244dHR6YjZqQVNkZEp6aURuWkYxYURxQ3FaYTJv?oc=5",
       "date": "2025-12-04",
       "involved_nodes": [
-        31,
-        2
+        2,
+        31
       ],
       "importance_score": 4
     },
@@ -5156,8 +5302,8 @@
       "date": "2025-08-18",
       "involved_nodes": [
         43,
-        124,
-        17
+        17,
+        124
       ],
       "importance_score": 4
     },

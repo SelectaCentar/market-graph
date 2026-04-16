@@ -1435,6 +1435,11 @@
           "date": "2026-04-14",
           "headline": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning - Google DeepMind",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvamVJdHA3WGsyT3k1OE9ObllKbTBPVjlfVEFnMm94ZjZTNnRxUnh4RVh5azhHeE9TUEw4X0ZnX3NMN2sxWFJFNU80bURsdVBYTm1LOG1oa1UtMlBRZWprT2hn?oc=5"
+        },
+        {
+          "date": "2026-03-18",
+          "headline": "NVIDIA, Alphabet and Google Collaborate on the Future of Agentic and Physical AI",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-alphabet-and-google-collaborate-on-the-future-of-agentic-and-physical-ai"
         }
       ]
     },
@@ -2295,7 +2300,13 @@
       "market_cap": "$1.95T",
       "revenue": "$315B",
       "employees": "180,000+",
-      "news": []
+      "news": [
+        {
+          "date": "2026-03-18",
+          "headline": "NVIDIA, Alphabet and Google Collaborate on the Future of Agentic and Physical AI",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-alphabet-and-google-collaborate-on-the-future-of-agentic-and-physical-ai"
+        }
+      ]
     },
     {
       "id": 78,
@@ -4892,8 +4903,8 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVi1wVWU5N3lRaWVJenRFZndGSmFFeGtqbURRRU5EZW55eHQwU2QyNFVkOGxGUXhlUEJWSVYybkZSX09sZXRZTTRuZ1JKdmpQclFGNTV2UTdlbWVFWm1GTnl4N05sRks0WTNTX2ZTUnRoRldIT0l4aVpFcUtTS0hzSG5NVktvdmx0WTJkbzZvNFlHS2t4Z3ZBamFhNGN2dUhPTGJuX2NaX0swT0tXbGE2SENB?oc=5",
       "date": "2026-04-15",
       "involved_nodes": [
-        30,
-        28
+        28,
+        30
       ],
       "importance_score": null
     },
@@ -4939,8 +4950,8 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvamVJdHA3WGsyT3k1OE9ObllKbTBPVjlfVEFnMm94ZjZTNnRxUnh4RVh5azhHeE9TUEw4X0ZnX3NMN2sxWFJFNU80bURsdVBYTm1LOG1oa1UtMlBRZWprT2hn?oc=5",
       "date": "2026-04-14",
       "involved_nodes": [
-        20,
-        39
+        39,
+        20
       ],
       "importance_score": null
     },
@@ -4976,8 +4987,8 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWJjYWxRRFFZVUdQVnMtVERxRG9xQng3U245NTRtTkVGZWhUdjZiWjlRSEd1YWM5Nk4wRVJ2MVBWaHBiaVBJcG5kY3kxNnMySDdzQjFxa1hJa0JBT0tDYlVfVktXQVZhVEtERWZfUi0wUFlvRml4SWRnZDhoYURPbTZJNUFYSW8?oc=5",
       "date": "2026-04-14",
       "involved_nodes": [
-        43,
-        28
+        28,
+        43
       ],
       "importance_score": null
     },
@@ -4995,9 +5006,9 @@
       "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
       "date": "2026-04-14",
       "involved_nodes": [
+        39,
         16,
-        6,
-        39
+        6
       ],
       "importance_score": null
     },
@@ -5007,8 +5018,8 @@
       "date": "2026-04-14",
       "involved_nodes": [
         16,
-        6,
-        20
+        20,
+        6
       ],
       "importance_score": null
     },
@@ -5199,8 +5210,8 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnBVbDlOWHJnMVA4aTVKaWp0YVFBdHp6OEx5Z25PaS13SzU2SVB2NW40WExPemtvNkhwRTZETUg3LVVqSGc0dmhBbkRVX0tUZ2xmbk5Kd2JDajF6NlptWlRhZElfU19tYmx6NFA1Si1adUtYN2xIZmlFOXV2S0kzS2hSNE9tb1NjWnd3aXVGSmxnUmt0b21HQnRCdTRQc091LU1v?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        43,
-        39
+        39,
+        43
       ],
       "importance_score": 6
     },
@@ -5293,8 +5304,8 @@
       "url": "https://www.chosun.com/english/industry-en/2026/04/10/G7XZK4R7G5GZ7H5FEYSEZXI5BI/",
       "date": "2026-04-10",
       "involved_nodes": [
-        82,
-        16
+        16,
+        82
       ],
       "importance_score": 8
     },
@@ -5486,8 +5497,8 @@
       "date": "2026-04-09",
       "involved_nodes": [
         16,
-        129,
-        28
+        28,
+        129
       ],
       "importance_score": 8
     },
@@ -5496,8 +5507,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        129,
-        16
+        16,
+        129
       ],
       "importance_score": 4
     },
@@ -5689,9 +5700,9 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        127,
+        137,
         29,
-        137
+        127
       ],
       "importance_score": 6
     },
@@ -5736,8 +5747,8 @@
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPV0gxQUhoUGdabXlYOXo1Y19RaGNlMlpxMDF4YU10aTZzRHlfalhKZTdOb2twSUZXZWc3MjJWc1NNNmNpR1Q3c1N3N1FSN3U0OWRBb2NtSXlUV1FBSW5ONHFSY3haVzJZT0N0dzFqcDYycGxGYzEzUzJNWmlWdGliVU1IU2dwaWFmYmxaVC13SmNxaUhxTGwzY0ZjcHlsSGUweW4zMkpqcWlDRlNsSTRRQUU2RzhOeGhqR2FyNnRJeU52ZUpJUGpFbmNuRkpYdjQyZGZOdXkzNzBGZU8wT0VoYUtzRUlILXc5ak1rMUVXYjdwby03MWVWTFlBcGk0ZGdnek9FUVZ0NkI1aU5mSEdla19sYlRFN2NXSFNwdUdwSEZYUTlnR1RtX0l1WEhpWmxOSG5nbFNnWE1LMnRKWVNudVVRZ3NkdWE3TjZ6NF9HTW1TYUVoRHotNGU3U082WXhEOTNaX3pfNVZFZw?oc=5",
       "date": "2026-04-07",
       "involved_nodes": [
-        21,
-        140
+        140,
+        21
       ],
       "importance_score": 6
     },
@@ -5792,8 +5803,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPek9fcEF0NGdSU2dkakF0LVhxbGtsOTlhNEh5b3RoQ0t6bzcwRllWTjJNMUIzUGoxbE15ZE9mcEJMX0FvTDRxRjI5Q0xaZ3dIR3NTaUtPR1FBMnJGbXdhSFZqUUUwbzJiMmYxYzBIMllqNjg1dl9OMmZzSFRjWkpvU3dDV29VU2xPaTViSklPdU5oblVqQUYydm5uc256SGdCemNoLXdPTlhzd3F4X1AtMmFQcWRqRWRwOUE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        43,
-        122
+        122,
+        43
       ],
       "importance_score": 4
     },
@@ -6105,10 +6116,10 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTZpdjV3YTlTWTJXc1lvZ0d6RGktMHozYzZ3dzFRMzZUcWF4bGN2YWJLaV9IZnp6TW5FNHoxaDBOa2QxMk1WUkxoekZ2YXZ4dWVfMTdiSFdzMUNXS2tJQUdUWnJ1VTVDekYwakI0UmZJQkwzMS1KQlBPd0xjYjBqMEtpaEdYeTk0RHdwRnN2NlhvX0xwR1RBb29obnU2YmVhOVM2Xzd4M2NYa19zQ0FPSGV3d3BQZw?oc=5",
       "date": "2026-03-24",
       "involved_nodes": [
+        39,
         81,
-        7,
         20,
-        39
+        7
       ],
       "importance_score": null
     },

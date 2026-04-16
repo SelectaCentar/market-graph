@@ -4780,6 +4780,20 @@
       "relation": "Funding",
       "weight": 5,
       "context": "Qatar Investment Authority backed Neura Robotics"
+    },
+    {
+      "source": 9,
+      "target": 77,
+      "relation": "Hardware Supply",
+      "weight": 2,
+      "context": "Alphabet heavily relies on NVIDIA GPU clusters for Google Cloud infrastructure and training its massive foundation models."
+    },
+    {
+      "source": 9,
+      "target": 39,
+      "relation": "AI/Compute",
+      "weight": 2,
+      "context": "Google DeepMind utilizes massive NVIDIA compute clusters to train its state-of-the-art Robotics Transformers (RT-X) and multimodal foundation models."
     }
   ],
   "global_news": [
@@ -4888,8 +4902,8 @@
       "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPeHNMcU03anBTQlFMNHAtTHh0V0ktMmlNamdGNWJ5OGloaV9sc0tlNlVpQkpRVjhrX2h4bWJST0R5Y2ZQM1daQV81ZnE2b2xhMnhPc3VJOFV5UGd4YmdPY1VBVDBkUldnOGRqWklfdzN5TWp5MnpMQmlBRVZQWUVzeVRlczBROXNtUV9RVzFlU0tXbGNZSllQaV9oMVhnV3lkMl9jeDFpR3dCNkRjMjYzQlR0S2lXQngtZFFuVG52MmtCNEM1SjBPRGE0MGFZWXU4cXlndU5XZmZ3R1RoTDczTk9yNk40ZGgyRnFvREpaX2xhdnQ0R0VVTnU2cHYzaXBKZHFHbDBRX0FpWnpoWUswd3NRaS1jdDZfRzNLREZMWDRLMXZLamsxZnY5ZWV3OTVMeXdVdWZuYlU4MjM4VEt0Y0VXUUUxMkdoMVkzT2RDMlFwNVNpVlQxUjVR?oc=5",
       "date": "2026-04-14",
       "involved_nodes": [
-        31,
-        21
+        21,
+        31
       ],
       "importance_score": null
     },
@@ -4981,9 +4995,9 @@
       "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
       "date": "2026-04-14",
       "involved_nodes": [
-        39,
+        16,
         6,
-        16
+        39
       ],
       "importance_score": null
     },
@@ -4992,9 +5006,9 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03Y1ZNdE5lYjhudzYwV1NPWXczM1JNM2dZTHRqVWpsYkdIbUVMUGFrb2VIR2ZJV1A2M1NKblV5V3dXN1FIeTZoV3p2QWJTdXhBUjJVREx1ZUJCYzRRQnZ1ZDhabVBNa1RIelJhdk9xQdIBgwFBVV95cUxQM2lSTFYtRjBWVXZ0RDc4dTVIWjNiMGt2Z05iSWdfTjVzVTc3S0NSQ2RoQUlLbnRJWVI0VUd5Q1p4bU8xLUdmcnlUMS1OcTVqc2F1TEJVd3FmbDFXY2RGM1RieVBaQ0tvNlFMbGk2ZjZ2QlI1cXZGSEpseVhzcG5scGV4WQ?oc=5",
       "date": "2026-04-14",
       "involved_nodes": [
-        20,
+        16,
         6,
-        16
+        20
       ],
       "importance_score": null
     },
@@ -5048,8 +5062,8 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXc5dGRwLWNGdkVkUDlUb2JISGZMcmR0NDlleGYwaXFpeEdZTk51ajdaQWpPZUJma21vMlRmaUdRU0ZwRGpTTmlQQW01b3VEM29yYTJTNVA5cThCRG1lN1ZaUXVpY3FyR3dqMFd2dzVNYzk3cFJoaHEtUWx4NTZTWEk3TE0zczRCNGJ5OWRZcWVPQXRraFRMaWVwdVlXb3VDOEFCVjdKc1NROThPTTVlSkFJWWRweUMwclA3Ymh2TzMtQTMtRGVjcjVXV1BsdWlobTJF?oc=5",
       "date": "2026-04-13",
       "involved_nodes": [
-        99,
-        62
+        62,
+        99
       ],
       "importance_score": null
     },
@@ -5067,8 +5081,8 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUtWeUFaVEhUXzl1dWtVMVAzS3BoZVR5VmZQOFpsYlRlc1o3ZVZZVmlEclZCVV81dllEUmZiV05jaU82NEV2VUx4YnRHWkRLQXhVZlVKU2JaRW9VVmJlSGNtZWtYUXJMaklfOC1yazJFZU1NYmpoVnFTd2Qyb2s2U3c4V1VXRzhiNmlqZUZiRmh1WUk?oc=5",
       "date": "2026-04-13",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": null
     },
@@ -5222,8 +5236,8 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVd2amhOYjJSUFhna0NNaEY3NmZUeXQzVGl0emk3LWZKM3lOUW5wUlFfXy1YVURhcVBNX0tON2VEeGVBaDR5M0NXX2NENHJjQmh5SXo3cWVKVkc1REQ5Mlp0WWZvdVNrYXJIcHBSUHIzZFF6VV9LNENYQXRGbkZNenBPVkxaYkhMSVpEdnZaY251UnYwNUd5MVlBVjBydkZ2T3plVGMzVXZ3MTVDZnkwWlRCM0MtcHp5MnZjeXB6U1FTd2tyb2hfRVZGX0M3ektMTjFJ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -5232,8 +5246,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3d5QjRxMkhNTHhMZDBjdi0zbzFTYkFyLTdwTzRfZ291QS1rVFBBemNCTEJkdDBHVnJKSnFDa2lMN2hpQTU1NzNOX0NLVFRZZHpyaDJDcERFQnJ6djZDLTNMQWd2ZmpabmZQSThIQlZiNzBDQ3R3Mldja2FxUGl1M0JVSVhnZ09mVXpBNmxxMlNWSkFJXzhIZjVjS2JCM3ZW?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": null
     },
@@ -5242,8 +5256,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1NWUGM4X1UzZTdISmZFTjZ6T1ZVLXhtOTZNc0hjMklscWVBSldaWGUtVGt0d3JNSElUNmpTXzNBemlRcWdLemg5VUtqekhqSXh1eE94MU9sc0hkMHNJZnp0WUVhUkNuandlR1V4Q1JCWHd3UXBfandvMVpVTUU5d3lITTFKUQ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -5471,9 +5485,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        28,
         16,
-        129
+        129,
+        28
       ],
       "importance_score": 8
     },
@@ -5482,8 +5496,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        16,
-        129
+        129,
+        16
       ],
       "importance_score": 4
     },
@@ -5528,8 +5542,8 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnVxUjBPVUpjcXdGWHlNNFVjSFMwbXFoUE9Xc29Ld2xNSVVZVWVBVkdrVV9IUENjVFptdy02UnIxWWV1ZkswS0M5OW9qQ1M2eVJCQlFSZHE1a0duSFZCUnZEUTQ3Q281OHM4WmNfLXp1SUcyNzlubTV0RHRCdl82OHhVMC1vc1kzX2RTZ1RvaExXb1lvUDBXREVMVExCZl8xdkV4dEtIbWN0eE1ZZW50WWtJckM0WGPSAbcBQVVfeXFMTTFMdWJYYlRmVHlVRTJTZW9nZE5iSnpoV0tPSDBTTWpMLVItMGFFc0psN1BZVWRsSmJhZlN6T1FYQ2cwbXNycWgtTlpONFJrMDAySFV0VnZDTzRnUFhUR1FtQTlQamR3bGpyaGR4bXlVRmpIMWl5TXRxMnlYSTU3c1pEc21PRUhFNmI2WWgzZ3RiSlFqS0Rnbkp4SU9mNW1ENm5CQ0VON1k2dmpPR3RXV0hDZ1d1RFZF?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        30,
-        143
+        143,
+        30
       ],
       "importance_score": 4
     },
@@ -5565,8 +5579,8 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHphWGdUT2VlelhBckloSmFpSnBKQUY4U3pBQWk0LVBMcnk0ZFFnU0V1T0lTdUtESlhLUTljRGQzMVpZaks1RDlVWlF3ZGY2aEpydTFRUDljSW5GMWJqbjlmbEd4Wm5yUVlVRE05Nk1LbWY0R2xYRUNmRnpZeDVvZDV1bUtwV3BfMURTMU1vNkpwd2pwMUFQRnAyUW5mMmZDNGtOQw?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        75,
-        146
+        146,
+        75
       ],
       "importance_score": null
     },
@@ -5602,8 +5616,8 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbTdvUXVjaGRvTzFEaFFoVTNIejdablBsMV9CWmkyOHd0MUszcFJLa2ExT0pQTUdLbjRvVzlQT0pyaWg2UjBSbGJVTDZYenE4WTVDS3UybThiVC1xTkJyUFlocEViM1hHeVhQQWhkNF9PU1haUTJTU2tHUmdSVzZlWEI3dlZwXzZ6NUE3d1R1RXAxQkpJZENXbkoyRGFkVGpyc2ZaWGdxQW40cnk3ZHJQMkJxZXNiblpGM0E4MmkxaWRZR1ZxUDZPMDBZMXRhcllkR3hLbmYwRjFuQnlwcVZuYnNsaEt1Zw?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        75,
-        146
+        146,
+        75
       ],
       "importance_score": null
     },
@@ -5675,8 +5689,8 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        29,
         127,
+        29,
         137
       ],
       "importance_score": 6
@@ -5797,8 +5811,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHpsYWUyQmY1Z3BtdXhPM016dUxrR2xZdHVqZ19oTW1yemczNjVnN2g5allmNUtld0NIbFZrVDJ1SXQyQmo4NkNhZmRuZjlHQ29vX2MtMk5DM21JMFc2ZG45aXZIbnd0MG1oRUR6Y1Zrc2l3dWVhclBsS3djR2NDZ0tGbWoxNGpyQmllT0pTOUplSDBVbWpiNWNNQVhudmJMV194U2doaEwwTEVGRF9wTklwYnhPODM2aFE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 4
     },
@@ -5960,8 +5974,8 @@
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNVGNuNTBKSXVmN0gtSFJaNG9hTGxxZHBWZkJfVGRUV0ltazRtYkltLWQ3eVc5YTlYemF3NUVzZWxJSzVqYXJvVG5LejNoQmU5dnBZdlRya0NtU1g2SVJOaHpoNXo1QTRqaWk2bUQ1Z0kwTG9uVE1KWlZKdTdMWVRRZ3k4ZlViQXZWRXVTWXQ1ajgzVWFaTmprLXpBRVVhWVZmMWRqdjBVN0N4LUJ1S1N6THlOSlN5ZmdjNlUwYU82TEpQeVJ3aWluRjl1a0JLSUFpWmNWSDl4V0FlUU5iejRyVHllV3kyU2Y1bE5Sek9DbmxPWHN3ZW1xN1VmYjFmTjN2RFBmSXYtSGpmbU4yVHM5VzV2UEZnaGg2YzAybnBQQ1BVdEFVVWxGeG9fRWxBMEhXZzBGbE05S2M0VnAzdnd1VGxXRFIyNkJldE96TjFtU2tKbVF6Y3VFeXpCV0stSWV5eEVpVjUzT3p4U2k2cHc?oc=5",
       "date": "2026-03-31",
       "involved_nodes": [
-        5,
-        121
+        121,
+        5
       ],
       "importance_score": 9
     },
@@ -5988,8 +6002,8 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUU1b0QzR2YtdS1wS2swaHZLWXF0UWFmamJwTS1iZWIyVzktQVFiMm8teGdMYU9LbFBsVTFtVHNRRlV3VHVIb0sySW0wMVN5RktPZnBSX2lYRVh1d3pTTFhHZ3F5d0JXTVV5b25aOVVmdm5KbTRKNVFNdVlkMmIyS2czWWVpdk1XYi1nTC10Qk9ET3hRZmg0WGZrOERocjQ5Vmpkbk1NaVlPZ1RPY1VBM1RUU2JnbkI3ZUc0?oc=5",
       "date": "2026-03-29",
       "involved_nodes": [
-        1,
-        43
+        43,
+        1
       ],
       "importance_score": 8
     },
@@ -6016,9 +6030,9 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5",
       "date": "2026-03-27",
       "involved_nodes": [
-        1,
         7,
-        43
+        43,
+        1
       ],
       "importance_score": 8
     },
@@ -6072,8 +6086,8 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3RwLTd0X0d1UWdMOWl3ZXY2bzFvRW50ckdZWU5hdjNQMzJLUWtOcjg4a1M0Mklkblk0TzUwYzZianowM1RySU5jUDBoZ0tzb0pVNU1nbU5xZUxRUy10YlN0RlhnZkd5enNWM2xwNXg4TExNUkhVWmZtWDB0WWJEX1l0WjVLeWx2dmw5YnR0RlBkeWlKT0wxZ3IwMEFGdWlHRHlLRTZRY3ZJbUw5TG5mVQ?oc=5",
       "date": "2026-03-25",
       "involved_nodes": [
-        31,
-        21
+        21,
+        31
       ],
       "importance_score": 4
     },
@@ -6091,8 +6105,8 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQTZpdjV3YTlTWTJXc1lvZ0d6RGktMHozYzZ3dzFRMzZUcWF4bGN2YWJLaV9IZnp6TW5FNHoxaDBOa2QxMk1WUkxoekZ2YXZ4dWVfMTdiSFdzMUNXS2tJQUdUWnJ1VTVDekYwakI0UmZJQkwzMS1KQlBPd0xjYjBqMEtpaEdYeTk0RHdwRnN2NlhvX0xwR1RBb29obnU2YmVhOVM2Xzd4M2NYa19zQ0FPSGV3d3BQZw?oc=5",
       "date": "2026-03-24",
       "involved_nodes": [
-        7,
         81,
+        7,
         20,
         39
       ],
@@ -6103,8 +6117,8 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN1FMMFlPQ1NVNEd2V3MzeGdvdEtLYURzNXc2WUd1TjVnaXlxYWJ3WGRLdWJIS1Y2dVdBT1BlUVl6bVJiUGV4UWRPeDdqc2NqbDBoOEhYSmQ2V1lCekI1cUVwaWx0Y1NLNDNlMUFraHdTcUVQWmhmakpNN1JrRVRsZkNqa1ZsTFBHQmhrQVNnWVNWMWJBQy1fdkpGdFJXY3pZUmg3aGRJQmpUNkF6dHkzZjdLajVfcFhJWEtuWTV2U0tXUQ?oc=5",
       "date": "2026-03-24",
       "involved_nodes": [
-        145,
-        59
+        59,
+        145
       ],
       "importance_score": null
     },
@@ -6113,8 +6127,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWxjVUpFYy1WWVh6aXFtZTkyV3VUV19JMWhFLWRfTlloQkZNUXRXVUx4d0JTZnRTc2NHZHRKbkFyZS0xRTdrRV9Icm5MMXh6aGFxNE5fNG1RSk1sUU02TG9sMW52c2E3M0Ryb0JHTmx3eThPSHZMTXZjc21pZTdnWjZjSFhGUEN2QlRMYklQSGYwM2RrRU9tWlhJT2VDWV9ZaWdNeTAzUQ?oc=5",
       "date": "2026-03-24",
       "involved_nodes": [
-        145,
-        59
+        59,
+        145
       ],
       "importance_score": null
     },

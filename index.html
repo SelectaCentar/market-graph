@@ -6519,16 +6519,16 @@
                     highlightNodes.add(t);
                     updatePanelEdge(link, s, t);
                     
-                    Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
-                    Graph.d3Force('link').distance(l => highlightLinks.has(l) ? 40 : 150);
+                    // Graph.d3Force charge override removed to respect layout
+                    // Graph.d3Force link override removed to respect layout
                     Graph.d3ReheatSimulation();
                     
                     setTimeout(() => {
                         Graph.zoomToFit(1000, 150, n => highlightNodes.has(n));
                     }, 400);
                     
-                    Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
-                    Graph.d3Force('link').distance(l => highlightLinks.has(l) ? 40 : 150);
+                    // Graph.d3Force charge override removed to respect layout
+                    // Graph.d3Force link override removed to respect layout
                     Graph.d3ReheatSimulation();
                     setTimeout(() => {
                         Graph.zoomToFit(1000, 150, n => highlightNodes.has(n));
@@ -6575,8 +6575,8 @@
 
 
                     // Re-organize physics to center the clicked node and its cluster
-                    Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
-                    Graph.d3Force('link').distance(l => highlightLinks.has(l) ? 40 : 150);
+                    // Graph.d3Force charge override removed to respect layout
+                    // Graph.d3Force link override removed to respect layout
                     
                     Graph.d3ReheatSimulation();
                     
@@ -6866,8 +6866,8 @@
             }
             renderNewsList();
 
-            Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
-            Graph.d3Force('link').distance(l => highlightLinks.has(l) ? 40 : 150);
+            // Graph.d3Force charge override removed to respect layout
+            // Graph.d3Force link override removed to respect layout
             Graph.d3ReheatSimulation();
             
             setTimeout(() => {
@@ -7052,7 +7052,7 @@
                                     const node = graphData.nodes.find(n => n.id === nid);
                                     if(node) highlightNodes.add(node);
                                 });
-                                Graph.d3Force('charge').strength(n => highlightNodes.has(n) ? -600 : -10);
+                                // Graph.d3Force charge override removed to respect layout
                                 Graph.d3ReheatSimulation();
                                 setTimeout(() => {
                                     Graph.zoomToFit(1000, 150, n => highlightNodes.has(n));

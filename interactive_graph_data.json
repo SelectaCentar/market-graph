@@ -3436,6 +3436,17 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlhDX1NpMnRvZ1IxQ09CNjRfYW5YeW1fX2k2eHZlNnBzbHpaV29USWVDZ3VGY2VUVERWWks3MlJpeERtc2xzeGZyRlZTRkZ5S1NjVEc0VVpPaF95c3cxR1QyN3ZxUzZ5SmFndXRkdjBvRExGX0dmQU5mOTJtTHZjWTY5T1VWWi1zRDRCNVlqRjNTVDlZWjRGdVR2NEQ0ODh4R3JoVW5UN0VaMDVJbzFjYVoxV0VwYkhvWUJfNEVza1hJdXIzMk9RZXlnNA?oc=5"
         }
       ]
+    },
+    {
+      "id": 149,
+      "name": "Toyota CUE7",
+      "type": "Robot OEM",
+      "description": "Toyota's 7th-generation AI humanoid robot, showcasing advanced reinforcement learning, real-time vision, and dynamic movement.",
+      "website": "https://global.toyota",
+      "market_cap": null,
+      "revenue": null,
+      "employees": null,
+      "news": []
     }
   ],
   "links": [
@@ -4775,6 +4786,13 @@
       "relation": "Funding",
       "weight": 5,
       "context": "Qatar Investment Authority backed Neura Robotics"
+    },
+    {
+      "source": 8,
+      "target": 149,
+      "relation": "Internal AI/Robotics Div",
+      "weight": 2,
+      "context": "The CUE7 is developed by Toyota as a highly advanced research laboratory project to accelerate learning in dynamic motion, kinematics, and AI vision."
     }
   ],
   "global_news": [
@@ -4864,8 +4882,8 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVi1wVWU5N3lRaWVJenRFZndGSmFFeGtqbURRRU5EZW55eHQwU2QyNFVkOGxGUXhlUEJWSVYybkZSX09sZXRZTTRuZ1JKdmpQclFGNTV2UTdlbWVFWm1GTnl4N05sRks0WTNTX2ZTUnRoRldIT0l4aVpFcUtTS0hzSG5NVktvdmx0WTJkbzZvNFlHS2t4Z3ZBamFhNGN2dUhPTGJuX2NaX0swT0tXbGE2SENB?oc=5",
       "date": "2026-04-15",
       "involved_nodes": [
-        30,
-        28
+        28,
+        30
       ],
       "importance_score": null
     },
@@ -4967,9 +4985,9 @@
       "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
       "date": "2026-04-14",
       "involved_nodes": [
-        16,
         6,
-        39
+        39,
+        16
       ],
       "importance_score": null
     },
@@ -4978,9 +4996,9 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03Y1ZNdE5lYjhudzYwV1NPWXczM1JNM2dZTHRqVWpsYkdIbUVMUGFrb2VIR2ZJV1A2M1NKblV5V3dXN1FIeTZoV3p2QWJTdXhBUjJVREx1ZUJCYzRRQnZ1ZDhabVBNa1RIelJhdk9xQdIBgwFBVV95cUxQM2lSTFYtRjBWVXZ0RDc4dTVIWjNiMGt2Z05iSWdfTjVzVTc3S0NSQ2RoQUlLbnRJWVI0VUd5Q1p4bU8xLUdmcnlUMS1OcTVqc2F1TEJVd3FmbDFXY2RGM1RieVBaQ0tvNlFMbGk2ZjZ2QlI1cXZGSEpseVhzcG5scGV4WQ?oc=5",
       "date": "2026-04-14",
       "involved_nodes": [
+        6,
         20,
-        16,
-        6
+        16
       ],
       "importance_score": null
     },
@@ -5208,8 +5226,8 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVVd2amhOYjJSUFhna0NNaEY3NmZUeXQzVGl0emk3LWZKM3lOUW5wUlFfXy1YVURhcVBNX0tON2VEeGVBaDR5M0NXX2NENHJjQmh5SXo3cWVKVkc1REQ5Mlp0WWZvdVNrYXJIcHBSUHIzZFF6VV9LNENYQXRGbkZNenBPVkxaYkhMSVpEdnZaY251UnYwNUd5MVlBVjBydkZ2T3plVGMzVXZ3MTVDZnkwWlRCM0MtcHp5MnZjeXB6U1FTd2tyb2hfRVZGX0M3ektMTjFJ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -5218,8 +5236,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3d5QjRxMkhNTHhMZDBjdi0zbzFTYkFyLTdwTzRfZ291QS1rVFBBemNCTEJkdDBHVnJKSnFDa2lMN2hpQTU1NzNOX0NLVFRZZHpyaDJDcERFQnJ6djZDLTNMQWd2ZmpabmZQSThIQlZiNzBDQ3R3Mldja2FxUGl1M0JVSVhnZ09mVXpBNmxxMlNWSkFJXzhIZjVjS2JCM3ZW?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": null
     },
@@ -5228,8 +5246,8 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1NWUGM4X1UzZTdISmZFTjZ6T1ZVLXhtOTZNc0hjMklscWVBSldaWGUtVGt0d3JNSElUNmpTXzNBemlRcWdLemg5VUtqekhqSXh1eE94MU9sc0hkMHNJZnp0WUVhUkNuandlR1V4Q1JCWHd3UXBfandvMVpVTUU5d3lITTFKUQ?oc=5",
       "date": "2026-04-10",
       "involved_nodes": [
-        31,
-        57
+        57,
+        31
       ],
       "importance_score": 4
     },
@@ -5393,8 +5411,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE5tanctMHAwdDJ0WEZGNVJxeXFyU3hGOHVyS0lnR0o5QW5qaFVQZHlnbThDRUNkOEtZWVExQ1cxblBPZnFLU3NJZ2V1a0xNa3JaY2FuNGZOTnpxaEg3d0dXSVZKa05uQWY4RDhEQkJra3J6OHplbk12RnlmR0ZRSXJYRVBZMFRzbHZlUHV0bTdDR3NDem82U0U3ajhxUHpvU2VDejRaZw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
-        3,
-        128
+        128,
+        3
       ],
       "importance_score": 6
     },
@@ -5457,9 +5475,9 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5",
       "date": "2026-04-09",
       "involved_nodes": [
+        28,
         129,
-        16,
-        28
+        16
       ],
       "importance_score": 8
     },
@@ -5551,8 +5569,8 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHphWGdUT2VlelhBckloSmFpSnBKQUY4U3pBQWk0LVBMcnk0ZFFnU0V1T0lTdUtESlhLUTljRGQzMVpZaks1RDlVWlF3ZGY2aEpydTFRUDljSW5GMWJqbjlmbEd4Wm5yUVlVRE05Nk1LbWY0R2xYRUNmRnpZeDVvZDV1bUtwV3BfMURTMU1vNkpwd2pwMUFQRnAyUW5mMmZDNGtOQw?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        146,
-        75
+        75,
+        146
       ],
       "importance_score": null
     },
@@ -5588,8 +5606,8 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbTdvUXVjaGRvTzFEaFFoVTNIejdablBsMV9CWmkyOHd0MUszcFJLa2ExT0pQTUdLbjRvVzlQT0pyaWg2UjBSbGJVTDZYenE4WTVDS3UybThiVC1xTkJyUFlocEViM1hHeVhQQWhkNF9PU1haUTJTU2tHUmdSVzZlWEI3dlZwXzZ6NUE3d1R1RXAxQkpJZENXbkoyRGFkVGpyc2ZaWGdxQW40cnk3ZHJQMkJxZXNiblpGM0E4MmkxaWRZR1ZxUDZPMDBZMXRhcllkR3hLbmYwRjFuQnlwcVZuYnNsaEt1Zw?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        146,
-        75
+        75,
+        146
       ],
       "importance_score": null
     },
@@ -5661,8 +5679,8 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMDBld1dYdnNQT0RESEVZLUY0bG54QU5va3VUeEdMc2NJWUtMc2NCa0tXVHBCZ3QwT0ZhTUt4QW14UTBhM3NhLUV4SFc4dGJpbE5FaThOT1Z3R0NiSlpoSjdCdENPakdOT2RDZHpNQzNoaFB3UDZNMnJ5MktQWHNpZEhzUUNRejdVR09KT3V3RVRsY3BEVEZfMWJoUXpReE56ZjJOdUFuLUFEU2lKT2hCV2pvOWo5U0NrU25Jd2xtZ3BXRi1ybTQyVTVxUWNQdWs0bjB1OXhMbVpSdjFGbzVzVTVYQXBxdUsxVFRsdkxjdEdXNXNLcTA4?oc=5",
       "date": "2026-04-08",
       "involved_nodes": [
-        29,
         127,
+        29,
         137
       ],
       "importance_score": 6
@@ -5727,8 +5745,8 @@
       "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/",
       "date": "2026-04-07",
       "involved_nodes": [
-        7,
-        117
+        117,
+        7
       ],
       "importance_score": 8
     },
@@ -5764,8 +5782,8 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPek9fcEF0NGdSU2dkakF0LVhxbGtsOTlhNEh5b3RoQ0t6bzcwRllWTjJNMUIzUGoxbE15ZE9mcEJMX0FvTDRxRjI5Q0xaZ3dIR3NTaUtPR1FBMnJGbXdhSFZqUUUwbzJiMmYxYzBIMllqNjg1dl9OMmZzSFRjWkpvU3dDV29VU2xPaTViSklPdU5oblVqQUYydm5uc256SGdCemNoLXdPTlhzd3F4X1AtMmFQcWRqRWRwOUE?oc=5",
       "date": "2026-04-06",
       "involved_nodes": [
-        122,
-        43
+        43,
+        122
       ],
       "importance_score": 4
     },
@@ -6002,8 +6020,8 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm1uRUZDcG1ycEpiOVBxZ0R2M0xfd0o0NGp3Ykc2TFdZNG5laUlvMzg3Mm02eDM2WnltSnMxRWlFV0FSdDdZWVdBdm9adTFUamp1Wkg3bjFvcWd5YUUxWC1Na1Y2Um1Ob1Q1Sl9EZnl6MXM3R0hCMzBodjZBTjZhRjB0VTZqeE9nMk9CYklCUFVBOElFLVJHOWtyckMwRm1zSnRwMXlCcw?oc=5",
       "date": "2026-03-27",
       "involved_nodes": [
-        7,
         1,
+        7,
         43
       ],
       "importance_score": 8
@@ -6078,8 +6096,8 @@
       "date": "2026-03-24",
       "involved_nodes": [
         20,
-        81,
         39,
+        81,
         7
       ],
       "importance_score": null
